@@ -1,0 +1,6 @@
+---
+lang: de
+title: "Beispiele"
+---
+
+# Hier findet Ihr viele Beispiele, die verwendet werden können.
