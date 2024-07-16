@@ -3,4 +3,4 @@ lang: de
 title: "Beispiele"
 ---
 
-# Hier findet Ihr viele Beispiele, die verwendet werden können.
+# Hier sind viele Beispiele zu finden, die Ihr nutzen könnt.
