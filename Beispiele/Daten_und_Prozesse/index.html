@@ -148,6 +148,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../Schulungsinhalte/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Schulungsinhalte</span></a>
+  </div>
+</li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="../../Beispiele/index.html" class="sidebar-item-text sidebar-link">
@@ -456,25 +462,12 @@ Hinweis
 <p>Die Zugangsdaten für die teilnehmenden Testpersonen und weitere wichtige Funktionen für den Testablauf werden in der Studien-Definition festgelegt. Hierfür wird eine XML-Datei verwendet. Diese XML wird IQB-intern auch <strong>Testtaker-XML</strong> genannt. Prinzipiell ist der Dateiname aber frei wählbar. Im weiteren Verlauf wird diese XML allgemein als <strong>Studien-XML</strong> bezeichnet.</p>
 <p><strong>Welche Funktionen übernimmt die Studien-XML?</strong></p>
 <ul>
-<li><strong>Festlegung Zugangsdaten/ Anmeldeverfahren:</strong><br> Um eine Testdurchführung zu starten, müssen die teilnehmenden Personen zuvor mit entsprechenden Zugangsdaten angelegt werden. Die gespeicherten Antworten eines Testdurchlaufs werden dann zugeordnet zu diesen Zugangsdaten im System hinterlegt. Bei der Art der Anmeldung kann zwischen einer Vielzahl von Optionen gewählt werden. Die Anmeldung kann bspw. klassisch mittels Namen und Passwort erfolgen, mittels Code oder via Link. Mehr Informationen zu den <a href="../../Referenzen/Anmeldeverfahren.qmd">Anmeldeverfahren</a> sind den Referenzen zu entnehmen.</li>
+<li><strong>Festlegung Zugangsdaten/ Anmeldeverfahren:</strong><br> Um eine Testdurchführung zu starten, müssen die teilnehmenden Personen zuvor mit entsprechenden Zugangsdaten angelegt werden. Die gespeicherten Antworten eines Testdurchlaufs werden dann zugeordnet zu diesen Zugangsdaten im System hinterlegt. Bei der Art der Anmeldung kann zwischen einer Vielzahl von Optionen gewählt werden. Die Anmeldung kann bspw. klassisch mittels Namen und Passwort erfolgen, mittels Code oder via Link.</li>
 <li><strong>Gruppierung von Zugangsdaten:</strong><br>Die angelegten Testpersonen werden in Gruppen angelegt. Diese Gruppen können mit zeitlichen Beschränkungen versehen werden und mit einem Gruppenmonitor überwacht werden. Bei einer finalen Testdurchführung werden die gegebenen Antworten dann auch Gruppenabhängig gespeichert.</li>
 <li><strong>Testheftzuweisung:</strong> Aufgaben können in Testheften (Booklets) zusammengefasst werden. Jedem Login kann gezielt ein Testheft zugewiesen werden. Die Zuweisung mehrerer Testhefte ist möglich. Nach Anmeldung werden die zugeordneten Testhefte der Testperson präsentiert.</li>
-<li><strong>Testablauf (bspw. heißer Test oder Review):</strong><br> Um den Ablauf der Testung festzulegen, wird zu jedem Login ein Modus hinterlegt. Dieser Modus bestimmt wie die Testung für den jeweiligen Login durchgeführt wird (finaler Durchlauf oder nur Review). Jeder Modus verfügt über spezifische Eigenschaften. Bspw. werden bei Wahl eines Modus zur finalen Testdurchführung alle Antworten zum Login gespeichert, während bei der Wahl eines Review-Modus die Antworten nicht gespeichert werden. Es sind auch spezielle Modi für die Testleitung vorgesehen. Die Testleitung wird dann in die Lage versetzt den Testverlauf steuern zu können. Detaillierte Informationen zu den <a href="../../Referenzen/Modi_der_Testdurchfuehrung.qmd">Modi der Testdurchführung</a> und deren Eigenschaften sind den Referenzen zu entnehmen.</li>
+<li><strong>Testablauf (bspw. heißer Test oder Review):</strong><br> Um den Ablauf der Testung festzulegen, wird zu jedem Login ein Modus hinterlegt. Dieser Modus bestimmt wie die Testung für den jeweiligen Login durchgeführt wird (finaler Durchlauf oder nur Review). Jeder Modus verfügt über spezifische Eigenschaften. Bspw. werden bei Wahl eines Modus zur finalen Testdurchführung alle Antworten zum Login gespeichert, während bei der Wahl eines Review-Modus die Antworten nicht gespeichert werden. Es sind auch spezielle Modi für die Testleitung vorgesehen. Die Testleitung wird dann in die Lage versetzt den Testverlauf steuern zu können.</li>
 <li><strong>individuelle Textersetzungen:</strong><br> Einzelne Texte der Anwendung können individuell an die eigene Bedürfnisse angepasst werden. Bspw. können Texte von Dialogfenster und Warnungen angepasst werden.</li>
 </ul>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tipp
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Mehr Informationen zur XML der Studien-Definition sind den <a href="../../Referenzen/XML_zur_Studien_Definition.qmd">Referenzen</a> zu entnehmen.</p>
-</div>
-</div>
 </section>
 <section id="testheft-definition" class="level2">
 <h2 class="anchored" data-anchor-id="testheft-definition">Testheft-Definition</h2>
@@ -485,19 +478,6 @@ Tipp
 <li><strong>Aufgabensammlungen:</strong><br> Aufgaben können <strong>Testlets</strong> zugewiesen werden oder in <strong>Testlets</strong> zusammengefasst werden. Ein Testlet wird häufig auch als <strong>Block</strong> bezeichnet. Für Testlets können Beschränkungen festgelegt werden, bspw. kann ein Testlet mit einem Zugangscode versehen werden oder es ist nur für eine bestimmte Zeit zugänglich.</li>
 <li><strong>Konfiguration:</strong><br> Hinsichtlich Funktionalität und Layout der Testumgebung, können hier individuelle Festlegungen getroffen werden.</li>
 </ul>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tipp
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Mehr Informationen zur XML der Testheft-Definition sind den <a href="../../Referenzen/XML_zur_Testheft_Definition.qmd">Referenzen</a> zu entnehmen.</p>
-</div>
-</div>
 </section>
 <section id="aufgaben-definition" class="level2">
 <h2 class="anchored" data-anchor-id="aufgaben-definition">Aufgaben-Definition</h2>
@@ -523,19 +503,6 @@ Hinweis
 <li><strong>Angaben zur Aufgabenerstellung und Aufgabenwiedergabe:</strong><br> Angabe des zur Aufgabenerstellung verwendeten <strong>Editors</strong> und gewünschten <strong>Players</strong> zur Aufgabenwiedergabe. Deklaration der zugehörigen Aufgabenressource (Aufgaben-VOUD).</li>
 <li><strong>Angaben zur Aufgabenkodierung:</strong><br> An dieser Stelle wird die Version des verwendeten <strong>Schemers</strong> zur Aufgabenkodierung angegeben. Im Weiteren sind hier alle Variablen bzgl. Aufgabenkodierung aufgeführt.</li>
 </ul>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tipp
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Mehr Informationen zur XML der Aufgaben-Definition sind auch den <a href="../../Referenzen/XML_zur_Aufgaben_Definition.qmd">Referenzen</a> zu entnehmen.</p>
-</div>
-</div>
 </section>
 <section id="aufgaben-voud" class="level4">
 <h4 class="anchored" data-anchor-id="aufgaben-voud">Aufgaben-VOUD</h4>
@@ -557,19 +524,6 @@ Tipp
 <section id="aufgaben-vocs" class="level4">
 <h4 class="anchored" data-anchor-id="aufgaben-vocs">Aufgaben-VOCS</h4>
 <p>Zu jeder Aufgabe kann im IQB-Studio ein entsprechendes Kodierschema angelegt werden. Bei Ausgabe der Aufgabe erzeugt das Studio eine Datei mit der Endung <strong>.VOCS</strong>. In dieser Datei sind die erstellten Kodierregeln enthalten. In Verbindung mit den Kodiervariablen in der Aufgaben-XML kann das Testcenter Bedingungen für Aufgaben-Verzweigungen (adaptives Testen) schaffen.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Hinweis
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Weitere Informationen zur Aufgabenkodierung sind den <a href="../../Referenzen/Aufgabenkodierung.qmd">Referenzen</a> zu entnehmen.</p>
-</div>
-</div>
 </section>
 <section id="player-html" class="level4">
 <h4 class="anchored" data-anchor-id="player-html">Player-HTML</h4>
@@ -618,19 +572,6 @@ Tipp
 <h2 class="anchored" data-anchor-id="geo-gebra">Geo-Gebra</h2>
 <p>Werden in Aufgaben GeoGebra-Elemente eingesetzt, muss eine entsprechende Ressource mit der Endung <strong>.ITCR</strong> mit zur Aufgabe in das Testcenter geladen werden. Das GeoGebra-Paket kann unter <a href="https://download.geogebra.org/package/geogebra-math-apps-bundle">https://download.geogebra.org/package/geogebra-math-apps-bundle</a> heruntergeladen werden. Die heruntergeladene Datei muss dann in GeoGebra.itcr.zip umbenannt werden und in den Arbeitsbereich geladen werden, in dem sich auch die Aufgaben-Definitionen mit den GeoGebra-Elementen befinden.</p>
 <p>Das Paket kann nicht mit ausgeliefert werden, da GeoGebra <a href="https://www.geogebra.org/license">diese Lizenz</a> verwendet.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Tipp
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Mehr Informationen zu GeoGebra sind auch den <a href="../../Referenzen/Geogebra.qmd">Referenzen</a> zu entnehmen.</p>
-</div>
-</div>
 </section>
 <section id="system-check" class="level2">
 <h2 class="anchored" data-anchor-id="system-check">System-Check</h2>
@@ -708,19 +649,6 @@ Tipp
 </section>
 <section id="antworten" class="level3">
 <h3 class="anchored" data-anchor-id="antworten">Antworten</h3>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Wichtig
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Der Modus der Studiendurchführung legt fest, ob Antworten gespeichert werden oder nicht. Mehr Informationen hierzu sind den <a href="../../Referenzen/Modi_der_Testdurchfuehrung.qmd">Referenzen</a> zu entnehmen.</p>
-</div>
-</div>
 <p>Als Antworten bezeichnen wir die Daten, die durch die Interaktion der Testperson mit dem Testsystem entstehen und als Zustände zum Ende der Bearbeitung gespeichert werden. Antworten absolvieren einen Verarbeitungsprozess vom Ursprung (sog. Basis-Variable, Rohdaten-Wert) über Ableitung, Cleaning, Kodierung bis zur Bewertung. Die Daten, die nach der Aufbereitung für die Datenanalyse bereitgestellt werden (z. B. IRT-/Rasch-Analyse), nennen wir Primärdaten.</p>
 <p>Die Antwortdaten werden als CSV-Datei aus dem Testcenter heruntergeladen. Die CSV ist wie folgt aufgebaut:</p>
 <div>
@@ -782,7 +710,7 @@ Wichtig
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Der Modus der Studiendurchführung legt fest, ob Logs gespeichert werden oder nicht. Mehr Informationen hierzu sind den <a href="../../Referenzen/Modi_der_Testdurchfuehrung.qmd">Referenzen</a> zu entnehmen.</p>
+<p>Der Modus der Studiendurchführung legt fest, ob Logs gespeichert werden oder nicht.</p>
 </div>
 </div>
 <p>Aus der Interaktion mit dem Testsystem resultieren weitere Daten, die Log-Daten. Diese beschreiben nicht Zustände zum Ende der Bearbeitung, sondern beschreiben Veränderungen während der Bearbeitung. Sie können zu weiteren Variablen führen.</p>
