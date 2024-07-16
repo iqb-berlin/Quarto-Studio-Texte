@@ -1,46 +1,54 @@
 ---
 lang: de
-title: Computerbasiertes Testen am IQB
+title: "Schulung Quarto, Git und MVSC"
 ---
 
-![](banner.png)
+## Git
 
-Das [Institut zur Qualitätsentwicklung im Bildungswesen](https://www.iqb.hu-berlin.de) veröffentlicht an dieser Stelle Informationen und Anleitungen zur Nutzung der IQB-Webanwendungen zum computerbasierten Testen. Diese Dokumentation bietet im Abschnitt [Einführung](Einfuehrung) einen allgemeinen Überblick über Verfahren, Akteure und Programmierungen zum computerbasierten Testen. Wer tiefer die Webanwendungen des IQB verstehen möchte, wählt links im Menü die entsprechenden Punkte.
+Git ist eine Versionsverwaltung für Dateien. Es wird überlicherweise von Softwareentwickler*innen verwendet, um gemeinsam an Softwareprojekten zu arbeiten und Änderungen verfolgen zu können.
 
-# Lizenz
+Hier mal der [Link](https://git-scm.com) zu Git.
 
-Die Anwendungen, Spezifikationen und Dokumentationen sind als Open Source veröffentlicht und können über eine freie Lizenz genutzt werden:
+Nach der Installation auf einem PC, kann mit Hilfe von Git-Befehlen eine Versionskontrolle lokaler Dateien erfolgen. Es gibt sehr viele mögliche Befehle. Hier mal die wichtigsten Befehle auf einen [Blick](https://training.github.com/downloads/de/github-git-cheat-sheet).
 
-* Spezifikationen und Dokumentationen unterliegen der Lizenz [CC0](https://open-educational-resources.de/was-die-cc0-freigabe-bedeutet-und-welche-moeglichkeiten-sie-eroeffnen/)
-* Programmierungen sind unter der Lizenz [MIT](https://iqb-berlin.github.io/license.html) veröffentlicht, angepasst für den deutschen Rechtsraum.
+Einen guten und leicht verständlichen Einblick bietet auch diese [Seite](https://rogerdudler.github.io/git-guide/index.de.html).
 
-Die Installation und Nutzung ist kostenfrei und ohne Zustimmung des IQB möglich.
+### Was ist Git-Hub?
 
-# Kontakt
+Git-Hub ist eine Plattform, die Git zur Versionsverwaltung nutzt und zusätzliche Funktionen bietet, wie bspw. Cloud-Speicher, Dokumentation, Werkzeuge zum kollaborativen Arbeiten und vieles, vieles mehr. Als Gegenstück zu Git-Hub sei an dieser Stelle mal Git-Lab genannt.
 
-* Für Anfragen zur Nutzung der IQB-Web-Anwendungen wenden Sie sich bitte an die Support-Adresse [iqb-tbadev-support@hu-berlin.de](mailto:iqb-tbadev-support@hu-berlin.de). Wir sind auch dankbar für Hinweise zu diesen Dokumentationen und fügen auch gern Erfahrungen Dritter hier ein.
-* Für Probleme, die offensichtlich durch eine fehlerhafte Programmierung verursacht werden, können Sie sich auch direkt an das Entwickler-Team wenden über die Adresse [iqb-tbadev@hu-berlin.de](mailto:iqb-tbadev@hu-berlin.de)
-* Wenn Sie über Neuigkeiten zu den Themen der Informationssammlung informiert werden wollen, können Sie über [unseren Mailing-Server](https://sympa.cms.hu-berlin.de/sympa/subscribe/iqb-tbadev-news) einen Newsletter abonnieren. Ältere Ausgaben sind [hier](https://sympa.cms.hu-berlin.de/sympa/arc/iqb-tbadev-news) zu finden.
+In Git-Hub kann man nach Anmeldung ein Repository erzeugen. Dieses Repo enthält dann alle Dateien, die einer Versionskontrolle unterliegen sollen. Das Repo kann lokal auf einen PC gespiegelt werden (clonen). Änderungen können dann lokal erfolgen und auf Wunsch wieder in das Repo hochgeladen werden. Hierfür werden die Git-Befehle genutzt. Auf diese Weise können mehrere Personen Änderungen an den Dateien eines Repos erzeugen und somit gemeinsam die Code-Entwicklung vorantreiben.
 
-# Impressum
+Git-Hub bietet auch die Funktion eine Webseite zu hosten. Das wird später im Zusammenhang mit Quarto noch wichtig.
 
-### Postanschrift
-Humboldt-Universität zu Berlin<br/>
-Institut zur Qualitätsentwicklung im Bildungswesen<br/>
-Unter den Linden 6<br/>
-10099 Berlin
+## Microsoft Visual Studio Code (MVSC)
 
-### Sitz
-Luisenstr. 56<br/>
-10117 Berlin<br/>
-Tel: +49 [30] 2093 - 46500 (Zentrale)<br/>
-Fax: +49 [30] 2093 - 46599<br/>
-E-Mail: [iqboffice@iqb.hu-berlin.de](mailto:iqboffice@iqb.hu-berlin.de)
+MVSC ist eine kostenfreie Entwicklungsumgebung (IDE) für die Entwicklung von Software. MVSC stellt hierfür eine Reihe von Programmierwerkzeugen zur Verfügung und unterstützt alle gängigen Programmiersprachen und die Versionsverwaltung mittels Git. MVSC kann um viele weitere Funktionen erweitert werden. Hier mal der [Link](https://code.visualstudio.com) zu MVSC.
+Es gibt viele weitere IDE's, diese Schulung bezieht sich allerdings auf MVSC.
 
-### Name und Anschrift der Datenschutzbeauftragten
-Frau Gesine Hoffmann-Holland<br/>
-Unter den Linden 6<br/>
-10099 Berlin<br/>
-Tel: +49 (30) 2093-20020<br/>
-E-Mail: [datenschutz@uv.hu-berlin.de](mailto:datenschutz@uv.hu-berlin.de)<br/>
-[www.hu-berlin.de/de/datenschutz](www.hu-berlin.de/de/datenschutz)
+## Quarto
+
+Quarto ist ein umfangreiches Werkzeug für die Erstellung wissenschaftlicher Dokumentationen. Auf Grundlage von speziellen Quarto-Dateien (.qmd) und Konfigurationsdateien (.yml, .json etc.) können kompakte Webseiten, PDF- oder Word-Dateien erzeugt werden (rendern). 
+
+Hier der Link zur Quarto [Dokumentation](https://quarto.org/docs/guide).
+
+### Wie nutzen wir Quarto für die TBA-Doku?
+
+Quarto erzeugt in unserem Fall eine Website, also Html-Dateien. Diese Webseite hosten wir auf Git-Hub mit Hilfe der kostenfreien Funktion: Git-Hub Pages. Alle Dateien von Quarto, die zur Erzeugung der Webseite benötigt werden, befinden sich in dem folgenden Git-Hub [Repository](https://github.com/iqb-berlin/Quarto-Studio-Texte).
+
+Die daraus erzeugte Webseite ist [hier](https://iqb-berlin.github.io/Quarto-Studio-Texte) zu sehen.
+
+### Wie werden Quarto Inhalte bearbeitet?
+
+Das oben genannte Repo wird mit Hilfe des Befehls: **git clone https://github.com/iqb-berlin/Quarto-Studio-Texte.git** auf den lokalen PC kopiert, mit MVSC geöffnet und bearbeitet. Jede Änderung wird in MVSC mit Hilfe der integrierten Git-Funktion angezeigt und kann bei Bedarf mit den Git-Befehlen in das Remote-Repo geladen werden. Die gleichzeitige Bearbeitung einer Datei von mehreren Personen kann zu Konflikten führen, die dann mühselig behoben werden müssen. Daher sollten im Vorfeld Absprachen getroffen werden, wer an welcher Datei arbeitet. Ist eine gemeinsame Bearbeitung einer Datei gewünscht, sollte folgendes beachtet werden:
+
+1. Nach dem Öffnen des lokalen Repos sollte zuerst der Befehl: **git pull** abgesetzt werden. Das stellt sicher, dass alle lokalen Dateien auf dem aktuellen Stand sind.
+2. Es sollte in der Git-Konfiguration die Möglichkeit eines Rebases festgelegt werden. Dies geschieht mit dem Befehl: git config pull.rebase true. Wird beim Laden lokaler Änderungen in das Remote-Repo ein Konflikt angezeigt, wird nun zur Konfliklösung gleich ein Merge-Editor in MVSC angeboten. Anschließend kann die Änderung mit git commit -m "commit message" in das Remote Repo geladen werden.
+
+
+
+
+
+
+
+

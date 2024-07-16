@@ -31,8 +31,8 @@ website:
     lang: de
     collapse-level: 1
     contents:
-      - text: "Schulungsinhalte"
-        href: Schulungsinhalte/index.qmd
+      - href: index.qmd
+        text: Schulungsinhalte
       - section: "Beispiele"
         href: Beispiele/index.qmd
         contents:
