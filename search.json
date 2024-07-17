@@ -10,8 +10,8 @@
     ]
   },
   {
-    "objectID": "index.html#git",
-    "href": "index.html#git",
+    "objectID": "index.html#githhhh",
+    "href": "index.html#githhhh",
     "title": "Schulung Quarto, Git und MVSC",
     "section": "",
     "text": "Git ist eine Versionsverwaltung für Dateien. Es wird überlicherweise von Softwareentwickler*innen verwendet, um gemeinsam an Softwareprojekten zu arbeiten und Änderungen verfolgen zu können.\nHier mal der Link zu Git.\nNach der Installation auf einem PC, kann mit Hilfe von Git-Befehlen eine Versionskontrolle lokaler Dateien erfolgen. Es gibt sehr viele mögliche Befehle. Hier mal die wichtigsten Befehle auf einen Blick.\nEinen guten und leicht verständlichen Einblick bietet auch diese Seite.\n\n\nGit-Hub ist eine Plattform, die Git zur Versionsverwaltung nutzt und zusätzliche Funktionen bietet, wie bspw. Cloud-Speicher, Dokumentation, Werkzeuge zum kollaborativen Arbeiten und vieles, vieles mehr. Als Gegenstück zu Git-Hub sei an dieser Stelle mal Git-Lab genannt.\nIn Git-Hub kann man nach Anmeldung ein Repository erzeugen. Dieses Repo enthält dann alle Dateien, die einer Versionskontrolle unterliegen sollen. Das Repo kann lokal auf einen PC gespiegelt werden (clonen). Änderungen können dann lokal erfolgen und auf Wunsch wieder in das Repo hochgeladen werden. Hierfür werden die Git-Befehle genutzt. Auf diese Weise können mehrere Personen Änderungen an den Dateien eines Repos erzeugen und somit gemeinsam die Code-Entwicklung vorantreiben.\nGit-Hub bietet auch die Funktion eine Webseite zu hosten. Das wird später im Zusammenhang mit Quarto noch wichtig.",
