@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/index.html</loc>
-    <lastmod>2024-07-16T09:59:05.908Z</lastmod>
+    <lastmod>2024-07-17T09:49:56.026Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/index.html</loc>
@@ -13,36 +13,28 @@
     <lastmod>2024-07-16T09:31:01.188Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Verwaltung_und_Organisation/index.html</loc>
-    <lastmod>2024-07-03T09:09:28.565Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Gruppenmonitor/index.html</loc>
+    <lastmod>2024-07-02T08:26:30.079Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/Daten_Upload.html</loc>
-    <lastmod>2024-07-16T09:51:46.695Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/index.html</loc>
+    <lastmod>2024-07-16T10:14:52.916Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/Daten_Download.html</loc>
-    <lastmod>2024-07-16T10:13:27.592Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/System_Check/index.html</loc>
+    <lastmod>2024-07-04T07:31:37.109Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/index.html</loc>
-    <lastmod>2024-07-16T09:35:14.796Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/faq/index.html</loc>
+    <lastmod>2024-07-03T10:24:32.507Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/index.html</loc>
-    <lastmod>2024-07-05T07:46:25.950Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/Vorbetrachtungen.html</loc>
+    <lastmod>2024-07-16T10:15:26.196Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/Studienverhalten_konfigurieren.html</loc>
-    <lastmod>2024-07-05T08:44:14.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Testmethodik/index.html</loc>
-    <lastmod>2024-06-28T12:12:45.306Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/offline.html</loc>
-    <lastmod>2024-07-10T07:19:16.092Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/index.html</loc>
+    <lastmod>2024-07-11T07:33:50.207Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/load-test.html</loc>
@@ -53,44 +45,28 @@
     <lastmod>2024-06-14T08:32:53.900Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Schulungsinhalte/index.html</loc>
-    <lastmod>2024-07-16T10:24:47.109Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/offline.html</loc>
+    <lastmod>2024-07-10T07:19:16.092Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/E2E_Tests.html</loc>
-    <lastmod>2024-07-02T08:31:27.857Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/Studienverhalten_konfigurieren.html</loc>
+    <lastmod>2024-07-05T08:44:14.182Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/configuration.html</loc>
-    <lastmod>2024-07-11T07:34:02.599Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/index.html</loc>
+    <lastmod>2024-07-05T07:46:25.950Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/index.html</loc>
-    <lastmod>2024-07-11T07:33:50.207Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/index.html</loc>
+    <lastmod>2024-07-17T08:34:40.675Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Typische_Probleme/index.html</loc>
-    <lastmod>2024-06-19T10:09:45.092Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/Daten_Download.html</loc>
+    <lastmod>2024-07-17T08:29:17.362Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/Vorbetrachtungen.html</loc>
-    <lastmod>2024-07-16T10:15:26.196Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/faq/index.html</loc>
-    <lastmod>2024-07-03T10:24:32.507Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/System_Check/index.html</loc>
-    <lastmod>2024-07-04T07:31:37.109Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/index.html</loc>
-    <lastmod>2024-07-16T10:14:52.916Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Gruppenmonitor/index.html</loc>
-    <lastmod>2024-07-02T08:26:30.079Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/Daten_Upload.html</loc>
+    <lastmod>2024-07-16T11:46:04.636Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/faq/index.html</loc>

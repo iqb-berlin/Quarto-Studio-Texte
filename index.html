@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Quarto Texte Studio - Computerbasiertes Testen am IQB</title>
+<title>Quarto Texte Studio - Schulung Quarto, Git und MVSC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -29,6 +63,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./Beispiele/index.html" rel="next">
 <link href="./favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -97,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Computerbasiertes Testen am IQB</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Schulungsinhalte</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -111,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Schulungsinhalte/index.html" class="sidebar-item-text sidebar-link">
+  <a href="./index.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Schulungsinhalte</span></a>
   </div>
 </li>
@@ -135,12 +170,6 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Beispiele/install/configuration.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Konfiguration</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./Beispiele/install/load-test.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lastverhalten</span></a>
   </div>
@@ -157,20 +186,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Offline-Szenario</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./Beispiele/install/E2E_Tests.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Testen der Anwendung</span></a>
-  </div>
-</li>
       </ul>
   </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./Beispiele/Verwaltung_und_Organisation/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Verwaltung und Organisation</span></a>
-  </div>
-</li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="./Beispiele/Daten_und_Prozesse/index.html" class="sidebar-item-text sidebar-link">
@@ -237,12 +254,6 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Beispiele/Typische_Probleme/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Typische Probleme</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./Beispiele/faq/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Häufig gestellte Fragen</span></a>
   </div>
@@ -288,13 +299,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Auf dieser Seite</h2>
    
   <ul>
-  <li><a href="#lizenz" id="toc-lizenz" class="nav-link active" data-scroll-target="#lizenz">Lizenz</a></li>
-  <li><a href="#kontakt" id="toc-kontakt" class="nav-link" data-scroll-target="#kontakt">Kontakt</a></li>
-  <li><a href="#impressum" id="toc-impressum" class="nav-link" data-scroll-target="#impressum">Impressum</a>
+  <li><a href="#git" id="toc-git" class="nav-link active" data-scroll-target="#git">Git</a>
   <ul class="collapse">
-  <li><a href="#postanschrift" id="toc-postanschrift" class="nav-link" data-scroll-target="#postanschrift">Postanschrift</a></li>
-  <li><a href="#sitz" id="toc-sitz" class="nav-link" data-scroll-target="#sitz">Sitz</a></li>
-  <li><a href="#name-und-anschrift-der-datenschutzbeauftragten" id="toc-name-und-anschrift-der-datenschutzbeauftragten" class="nav-link" data-scroll-target="#name-und-anschrift-der-datenschutzbeauftragten">Name und Anschrift der Datenschutzbeauftragten</a></li>
+  <li><a href="#was-ist-git-hub" id="toc-was-ist-git-hub" class="nav-link" data-scroll-target="#was-ist-git-hub">Was ist Git-Hub?</a></li>
+  </ul></li>
+  <li><a href="#microsoft-visual-studio-code-mvsc" id="toc-microsoft-visual-studio-code-mvsc" class="nav-link" data-scroll-target="#microsoft-visual-studio-code-mvsc">Microsoft Visual Studio Code (MVSC)</a></li>
+  <li><a href="#quarto" id="toc-quarto" class="nav-link" data-scroll-target="#quarto">Quarto</a>
+  <ul class="collapse">
+  <li><a href="#wie-nutzen-wir-quarto-für-die-tba-doku" id="toc-wie-nutzen-wir-quarto-für-die-tba-doku" class="nav-link" data-scroll-target="#wie-nutzen-wir-quarto-für-die-tba-doku">Wie nutzen wir Quarto für die TBA-Doku?</a></li>
+  <li><a href="#wie-werden-quarto-inhalte-bearbeitet" id="toc-wie-werden-quarto-inhalte-bearbeitet" class="nav-link" data-scroll-target="#wie-werden-quarto-inhalte-bearbeitet">Wie werden Quarto Inhalte bearbeitet?</a></li>
+  <li><a href="#wie-müssen-die-quelldateien-.qmd-aufgebaut-sein" id="toc-wie-müssen-die-quelldateien-.qmd-aufgebaut-sein" class="nav-link" data-scroll-target="#wie-müssen-die-quelldateien-.qmd-aufgebaut-sein">Wie müssen die Quelldateien (.qmd) aufgebaut sein?</a></li>
+  <li><a href="#wie-ist-quarto-aufgebaut" id="toc-wie-ist-quarto-aufgebaut" class="nav-link" data-scroll-target="#wie-ist-quarto-aufgebaut">Wie ist Quarto aufgebaut?</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/iqb-berlin/Quarto-Studio-Texte/issues/new" class="toc-action"><i class="bi bi-github"></i>Problem melden</a></li></ul></div></nav>
@@ -304,7 +319,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Computerbasiertes Testen am IQB</h1>
+<h1 class="title">Schulung Quarto, Git und MVSC</h1>
 </div>
 
 
@@ -321,38 +336,65 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="banner.png" class="img-fluid"></p>
-<p>Das <a href="https://www.iqb.hu-berlin.de">Institut zur Qualitätsentwicklung im Bildungswesen</a> veröffentlicht an dieser Stelle Informationen und Anleitungen zur Nutzung der IQB-Webanwendungen zum computerbasierten Testen. Diese Dokumentation bietet im Abschnitt <a href="Einfuehrung">Einführung</a> einen allgemeinen Überblick über Verfahren, Akteure und Programmierungen zum computerbasierten Testen. Wer tiefer die Webanwendungen des IQB verstehen möchte, wählt links im Menü die entsprechenden Punkte.</p>
-<section id="lizenz" class="level1">
-<h1>Lizenz</h1>
-<p>Die Anwendungen, Spezifikationen und Dokumentationen sind als Open Source veröffentlicht und können über eine freie Lizenz genutzt werden:</p>
-<ul>
-<li>Spezifikationen und Dokumentationen unterliegen der Lizenz <a href="https://open-educational-resources.de/was-die-cc0-freigabe-bedeutet-und-welche-moeglichkeiten-sie-eroeffnen/">CC0</a></li>
-<li>Programmierungen sind unter der Lizenz <a href="https://iqb-berlin.github.io/license.html">MIT</a> veröffentlicht, angepasst für den deutschen Rechtsraum.</li>
-</ul>
-<p>Die Installation und Nutzung ist kostenfrei und ohne Zustimmung des IQB möglich.</p>
+<section id="git" class="level2">
+<h2 class="anchored" data-anchor-id="git">Git</h2>
+<p>Git ist eine Versionsverwaltung für Dateien. Es wird überlicherweise von Softwareentwickler*innen verwendet, um gemeinsam an Softwareprojekten zu arbeiten und Änderungen verfolgen zu können.</p>
+<p>Hier mal der <a href="https://git-scm.com">Link</a> zu Git.</p>
+<p>Nach der Installation auf einem PC, kann mit Hilfe von Git-Befehlen eine Versionskontrolle lokaler Dateien erfolgen. Es gibt sehr viele mögliche Befehle.&nbsp;Hier mal die wichtigsten Befehle auf einen <a href="https://training.github.com/downloads/de/github-git-cheat-sheet">Blick</a>.</p>
+<p>Einen guten und leicht verständlichen Einblick bietet auch diese <a href="https://rogerdudler.github.io/git-guide/index.de.html">Seite</a>.</p>
+<section id="was-ist-git-hub" class="level3">
+<h3 class="anchored" data-anchor-id="was-ist-git-hub">Was ist Git-Hub?</h3>
+<p>Git-Hub ist eine Plattform, die Git zur Versionsverwaltung nutzt und zusätzliche Funktionen bietet, wie bspw. Cloud-Speicher, Dokumentation, Werkzeuge zum kollaborativen Arbeiten und vieles, vieles mehr. Als Gegenstück zu Git-Hub sei an dieser Stelle mal Git-Lab genannt.</p>
+<p>In Git-Hub kann man nach Anmeldung ein Repository erzeugen. Dieses Repo enthält dann alle Dateien, die einer Versionskontrolle unterliegen sollen. Das Repo kann lokal auf einen PC gespiegelt werden (clonen). Änderungen können dann lokal erfolgen und auf Wunsch wieder in das Repo hochgeladen werden. Hierfür werden die Git-Befehle genutzt. Auf diese Weise können mehrere Personen Änderungen an den Dateien eines Repos erzeugen und somit gemeinsam die Code-Entwicklung vorantreiben.</p>
+<p>Git-Hub bietet auch die Funktion eine Webseite zu hosten. Das wird später im Zusammenhang mit Quarto noch wichtig.</p>
 </section>
-<section id="kontakt" class="level1">
-<h1>Kontakt</h1>
-<ul>
-<li>Für Anfragen zur Nutzung der IQB-Web-Anwendungen wenden Sie sich bitte an die Support-Adresse <a href="mailto:iqb-tbadev-support@hu-berlin.de">iqb-tbadev-support@hu-berlin.de</a>. Wir sind auch dankbar für Hinweise zu diesen Dokumentationen und fügen auch gern Erfahrungen Dritter hier ein.</li>
-<li>Für Probleme, die offensichtlich durch eine fehlerhafte Programmierung verursacht werden, können Sie sich auch direkt an das Entwickler-Team wenden über die Adresse <a href="mailto:iqb-tbadev@hu-berlin.de">iqb-tbadev@hu-berlin.de</a></li>
-<li>Wenn Sie über Neuigkeiten zu den Themen der Informationssammlung informiert werden wollen, können Sie über <a href="https://sympa.cms.hu-berlin.de/sympa/subscribe/iqb-tbadev-news">unseren Mailing-Server</a> einen Newsletter abonnieren. Ältere Ausgaben sind <a href="https://sympa.cms.hu-berlin.de/sympa/arc/iqb-tbadev-news">hier</a> zu finden.</li>
-</ul>
 </section>
-<section id="impressum" class="level1">
-<h1>Impressum</h1>
-<section id="postanschrift" class="level3">
-<h3 class="anchored" data-anchor-id="postanschrift">Postanschrift</h3>
-<p>Humboldt-Universität zu Berlin<br> Institut zur Qualitätsentwicklung im Bildungswesen<br> Unter den Linden 6<br> 10099 Berlin</p>
+<section id="microsoft-visual-studio-code-mvsc" class="level2">
+<h2 class="anchored" data-anchor-id="microsoft-visual-studio-code-mvsc">Microsoft Visual Studio Code (MVSC)</h2>
+<p>MVSC ist eine kostenfreie Entwicklungsumgebung (IDE) für die Entwicklung von Software. MVSC stellt hierfür eine Reihe von Programmierwerkzeugen zur Verfügung und unterstützt alle gängigen Programmiersprachen und die Versionsverwaltung mittels Git. MVSC kann um viele weitere Funktionen erweitert werden.&nbsp;Hier mal der <a href="https://code.visualstudio.com">Link</a> zu MVSC. Es gibt viele weitere IDE’s, diese Schulung bezieht sich allerdings auf MVSC.</p>
 </section>
-<section id="sitz" class="level3">
-<h3 class="anchored" data-anchor-id="sitz">Sitz</h3>
-<p>Luisenstr. 56<br> 10117 Berlin<br> Tel: +49 [30] 2093 - 46500 (Zentrale)<br> Fax: +49 [30] 2093 - 46599<br> E-Mail: <a href="mailto:iqboffice@iqb.hu-berlin.de">iqboffice@iqb.hu-berlin.de</a></p>
+<section id="quarto" class="level2">
+<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
+<p>Quarto ist ein umfangreiches Werkzeug für die Erstellung wissenschaftlicher Dokumentationen. Auf Grundlage von speziellen Quarto-Dateien (.qmd) und Konfigurationsdateien (.yml, .json etc.) können kompakte Webseiten, PDF- oder Word-Dateien erzeugt werden (rendern).&nbsp;</p>
+<p>Hier der Link zur Quarto <a href="https://quarto.org/docs/guide">Dokumentation</a>.</p>
+<section id="wie-nutzen-wir-quarto-für-die-tba-doku" class="level3">
+<h3 class="anchored" data-anchor-id="wie-nutzen-wir-quarto-für-die-tba-doku">Wie nutzen wir Quarto für die TBA-Doku?</h3>
+<p>Quarto erzeugt in unserem Fall eine Website, also Html-Dateien. Diese Webseite hosten wir auf Git-Hub mit Hilfe der kostenfreien Funktion: Git-Hub Pages. Alle Dateien von Quarto, die zur Erzeugung der Webseite benötigt werden, befinden sich in dem folgenden Git-Hub <a href="https://github.com/iqb-berlin/Quarto-Studio-Texte">Repository</a>.</p>
+<p>Die daraus erzeugte Webseite ist <a href="https://iqb-berlin.github.io/Quarto-Studio-Texte">hier</a> zu sehen.</p>
 </section>
-<section id="name-und-anschrift-der-datenschutzbeauftragten" class="level3">
-<h3 class="anchored" data-anchor-id="name-und-anschrift-der-datenschutzbeauftragten">Name und Anschrift der Datenschutzbeauftragten</h3>
-<p>Frau Gesine Hoffmann-Holland<br> Unter den Linden 6<br> 10099 Berlin<br> Tel: +49 (30) 2093-20020<br> E-Mail: <a href="mailto:datenschutz@uv.hu-berlin.de">datenschutz@uv.hu-berlin.de</a><br> <a href="www.hu-berlin.de/de/datenschutz">www.hu-berlin.de/de/datenschutz</a></p>
+<section id="wie-werden-quarto-inhalte-bearbeitet" class="level3">
+<h3 class="anchored" data-anchor-id="wie-werden-quarto-inhalte-bearbeitet">Wie werden Quarto Inhalte bearbeitet?</h3>
+<p>Das oben genannte Repo wird mit Hilfe des Befehls: <strong>git clone&nbsp;https://github.com/iqb-berlin/Quarto-Studio-Texte.git</strong> auf den lokalen PC kopiert, mit MVSC geöffnet und bearbeitet. Jede Änderung wird in MVSC mit Hilfe der integrierten Git-Funktion angezeigt und kann bei Bedarf mit den Git-Befehlen in das Remote-Repo geladen werden. Die gleichzeitige Bearbeitung einer Datei von mehreren Personen kann zu Konflikten führen, die dann mühselig behoben werden müssen. Daher sollten im Vorfeld Absprachen getroffen werden, wer an welcher Datei arbeitet. Ist eine gemeinsame Bearbeitung einer Datei gewünscht, sollte folgendes beachtet werden:</p>
+<ol type="1">
+<li>Nach dem Öffnen des lokalen Repos sollte zuerst der Befehl: <strong>git pull</strong> abgesetzt werden. Das stellt sicher, dass alle lokalen Dateien auf dem aktuellen Stand sind.</li>
+<li>Es sollte in der Git-Konfiguration die Möglichkeit eines Rebases festgelegt werden. Dies geschieht mit dem Befehl:&nbsp;git config pull.rebase true. Wird beim Laden&nbsp;lokaler Änderungen in das Remote-Repo ein Konflikt angezeigt, wird nun zur Konfliktlösung gleich ein&nbsp;Merge-Editor in MVSC angeboten. Anschließend kann die Änderung mit git commit -m “commit message” in das Remote Repo geladen werden.</li>
+</ol>
+</section>
+<section id="wie-müssen-die-quelldateien-.qmd-aufgebaut-sein" class="level3">
+<h3 class="anchored" data-anchor-id="wie-müssen-die-quelldateien-.qmd-aufgebaut-sein">Wie müssen die Quelldateien (.qmd) aufgebaut sein?</h3>
+<p>Die Dateien mit der Endung <strong>.qmd</strong> enthalten die Inhalte, die später in HTML übersetzt werden. Damit der Quarto Interpreter die Inhalte übersetzen kann, müssen diese in der Auszeichnungssprache <strong>Markdown</strong> vorliegen.</p>
+<p>Mehr zu Markdown ist <a href="https://de.wikipedia.org/wiki/Markdown">hier</a> zu lesen.</p>
+<p>Es können weitere Inhalte, die nicht in Markdown verfasst sind, eingebunden werden. Solche Inhalte müssen speziell deklariert werden, damit der Quarto Interpreter diese erkennt und übersetzen kann. Die Einleitung erfolgt mit 3 Hochkommata und einem entsprechenden Bezeichner. Nachfolgend mal ein Beispiel für die Einbindung von XML-Code:</p>
+<p><img src="Einbindung_XML.png" class="img-fluid"></p>
+<p>Übersetzt in HTML sieht das dann so aus:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode xml code-with-copy"><code class="sourceCode xml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>&lt;<span class="kw">Buecher</span>&gt;</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    &lt;<span class="kw">Buch</span><span class="ot"> Kategorie=</span><span class="st">"kochen"</span>&gt;</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>        &lt;<span class="kw">Titel</span>&gt;tolle Suppen kochen&lt;/<span class="kw">Titel</span>&gt;</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>        &lt;<span class="kw">Autor</span>&gt;Sven Mustermann&lt;/<span class="kw">Autor</span>&gt;</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>        &lt;<span class="kw">Preis</span>&gt;20.00&lt;/<span class="kw">Preis</span>&gt;</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>    &lt;/<span class="kw">Buch</span>&gt;</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    &lt;<span class="kw">Buch</span><span class="ot"> Kategorie=</span><span class="st">"backen"</span>&gt;</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>        &lt;<span class="kw">Titel</span>&gt;tolle Kuchen backen&lt;/<span class="kw">Titel</span>&gt;</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>        &lt;<span class="kw">Autor</span>&gt;Sabine Mustermann&lt;/<span class="kw">Autor</span>&gt;</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>        &lt;<span class="kw">Preis</span>&gt;20.00&lt;/<span class="kw">Preis</span>&gt;</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    &lt;/<span class="kw">Buch</span>&gt;</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>&lt;/<span class="kw">Buecher</span>&gt;</span></code><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Mehr zum Thema könnt ihr dem Quarto-Guide entnehmen.</p>
+</section>
+<section id="wie-ist-quarto-aufgebaut" class="level3">
+<h3 class="anchored" data-anchor-id="wie-ist-quarto-aufgebaut">Wie ist Quarto aufgebaut?</h3>
+<p>Hier mal das Wesentliche für euch:</p>
+<p><img src="Quarto_Struktur.png" class="img-fluid"></p>
 
 
 </section>
@@ -766,6 +808,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./Beispiele/index.html" class="pagination-link" aria-label="Beispiele">
+        <span class="nav-page-text">Beispiele</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
