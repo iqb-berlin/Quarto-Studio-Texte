@@ -43,12 +43,43 @@ Die daraus erzeugte Webseite ist [hier](https://iqb-berlin.github.io/Quarto-Stud
 Das oben genannte Repo wird mit Hilfe des Befehls: **git clone https://github.com/iqb-berlin/Quarto-Studio-Texte.git** auf den lokalen PC kopiert, mit MVSC geöffnet und bearbeitet. Jede Änderung wird in MVSC mit Hilfe der integrierten Git-Funktion angezeigt und kann bei Bedarf mit den Git-Befehlen in das Remote-Repo geladen werden. Die gleichzeitige Bearbeitung einer Datei von mehreren Personen kann zu Konflikten führen, die dann mühselig behoben werden müssen. Daher sollten im Vorfeld Absprachen getroffen werden, wer an welcher Datei arbeitet. Ist eine gemeinsame Bearbeitung einer Datei gewünscht, sollte folgendes beachtet werden:
 
 1. Nach dem Öffnen des lokalen Repos sollte zuerst der Befehl: **git pull** abgesetzt werden. Das stellt sicher, dass alle lokalen Dateien auf dem aktuellen Stand sind.
-2. Es sollte in der Git-Konfiguration die Möglichkeit eines Rebases festgelegt werden. Dies geschieht mit dem Befehl: git config pull.rebase true. Wird beim Laden lokaler Änderungen in das Remote-Repo ein Konflikt angezeigt, wird nun zur Konfliklösung gleich ein Merge-Editor in MVSC angeboten. Anschließend kann die Änderung mit git commit -m "commit message" in das Remote Repo geladen werden.
+2. Es sollte in der Git-Konfiguration die Möglichkeit eines Rebases festgelegt werden. Dies geschieht mit dem Befehl: git config pull.rebase true. Wird beim Laden lokaler Änderungen in das Remote-Repo ein Konflikt angezeigt, wird nun zur Konfliktlösung gleich ein Merge-Editor in MVSC angeboten. Anschließend kann die Änderung mit git commit -m "commit message" in das Remote Repo geladen werden.
 
+### Wie müssen die Quelldateien (.qmd) aufgebaut sein?
 
+Die Dateien mit der Endung **.qmd** enthalten die Inhalte, die später in HTML übersetzt werden. Damit der Quarto Interpreter die Inhalte übersetzen kann, müssen diese in der Auszeichnungssprache **Markdown** vorliegen. 
 
+Mehr zu Markdown ist [hier](https://de.wikipedia.org/wiki/Markdown) zu lesen.
 
+Es können weitere Inhalte, die nicht in Markdown verfasst sind, eingebunden werden. Solche Inhalte müssen speziell deklariert werden, damit der Quarto Interpreter diese erkennt und übersetzen kann. Die Einleitung erfolgt mit 3 Hochkommata und einem entsprechenden Bezeichner. Nachfolgend mal ein Beispiel für die Einbindung von XML-Code:
 
+![](Einbindung_XML.png)
+
+Übersetzt in HTML sieht das dann so aus:
+
+```{.xml}
+<Buecher>
+    <Buch Kategorie="kochen">
+        <Titel>tolle Suppen kochen</Titel>
+        <Autor>Sven Mustermann</Autor>
+        <Preis>20.00</Preis>
+    </Buch>
+    <Buch Kategorie="backen">
+        <Titel>tolle Kuchen backen</Titel>
+        <Autor>Sabine Mustermann</Autor>
+        <Preis>20.00</Preis>
+    </Buch>
+</Buecher>
+
+```
+
+Mehr zum Thema könnt ihr dem Quarto-Guide entnehmen.
+
+### Wie ist Quarto aufgebaut?
+
+Hier mal das Wesentliche für euch:
+
+![](Quarto_Struktur.png)
 
 
 

@@ -39,12 +39,9 @@ website:
           - section: "Installation"
             href: Beispiele/install/index.qmd
             contents:
-            - Beispiele/install/configuration.qmd
             - Beispiele/install/load-test.qmd
             - Beispiele/install/security.qmd
             - Beispiele/install/offline.qmd
-            - Beispiele/install/E2E_Tests.qmd
-          - Beispiele/Verwaltung_und_Organisation/index.qmd
           - section: "Daten und Prozesse"
             href: Beispiele/Daten_und_Prozesse/index.qmd
             contents:
@@ -58,7 +55,6 @@ website:
               - Beispiele/Studiendurchfuehrung/Vorbetrachtungen.qmd
               - Beispiele/Studiendurchfuehrung/Studienverhalten_konfigurieren.qmd
               - Beispiele/Studiendurchfuehrung/faq/index.qmd
-          - Beispiele/Typische_Probleme/index.qmd
           - Beispiele/faq/index.qmd
       - section: "Studio"
         href: Studio/index.qmd
