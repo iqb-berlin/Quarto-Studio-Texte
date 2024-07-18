@@ -3,7 +3,7 @@ lang: de
 title: "Daten Download"
 ---
 
-# Welche Daten werden erzeugt???
+# Welche Daten werden erzeugt?
 
 ::: {.callout-important}
 Der Modus der Studiendurchführung legt fest, ob Daten gespeichert werden oder nicht.
