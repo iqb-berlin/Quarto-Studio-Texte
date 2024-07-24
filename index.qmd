@@ -6,6 +6,7 @@ title: "Schulung Quarto, Git und MVSC"
 ## Git
 
 Git ist eine Versionsverwaltung für Dateien. Es wird überlicherweise von Softwareentwickler*innen verwendet, um gemeinsam an Softwareprojekten zu arbeiten und Änderungen verfolgen zu können.
+test
 
 Hier mal der [Link](https://git-scm.com) zu Git.
 
