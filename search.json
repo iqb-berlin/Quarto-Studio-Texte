@@ -4,28 +4,48 @@
     "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html",
     "title": "Beispiele",
     "section": "",
-    "text": "Zurück nach oben"
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Beispiele"
+    ]
   },
   {
     "objectID": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
     "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
     "title": "Beispiele",
     "section": "",
-    "text": "Zurück nach oben"
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Beispiele"
+    ]
   },
   {
     "objectID": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html",
     "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html",
     "title": "Beispiele",
     "section": "",
-    "text": "Zurück nach oben"
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Beispiele"
+    ]
   },
   {
     "objectID": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.html",
     "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.html",
     "title": "Beispiele",
     "section": "",
-    "text": "Zurück nach oben"
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Beispiele"
+    ]
   },
   {
     "objectID": "index.html",
@@ -573,7 +593,7 @@
     "href": "Studio/index.html",
     "title": "Studio Überblick",
     "section": "",
-    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio. Testtext\n\n\n\n\n\n Zurück nach oben",
+    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Studio"
     ]
@@ -583,14 +603,24 @@
     "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent/index.html",
     "title": "Beispiele",
     "section": "",
-    "text": "Zurück nach oben"
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop"
+    ]
   },
   {
     "objectID": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
     "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
     "title": "Beispiele",
     "section": "",
-    "text": "Zurück nach oben"
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Beispiele"
+    ]
   },
   {
     "objectID": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/index.html",
@@ -600,7 +630,7 @@
     "text": "Zurück nach oben",
     "crumbs": [
       "Studio",
-      "Beispiele"
+      "Anlegen von Aufgaben im Standardmodus"
     ]
   }
 ]
