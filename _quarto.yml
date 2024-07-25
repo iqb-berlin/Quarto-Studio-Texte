@@ -59,9 +59,8 @@ website:
       - section: "Studio"
         href: Studio/index.qmd
         contents:
-            - Studio/Kapitel1/index.qmd
-            - Studio/Kapitel2/index.qmd
-            - Studio/Kapitel3/index.qmd
+            - Studio/Anlegen_von_Aufgaben_im_Standardmodus/index.qmd
+    
 format:
   html:
     theme: zephir
