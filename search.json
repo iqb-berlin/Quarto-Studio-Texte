@@ -573,7 +573,7 @@
     "href": "Studio/index.html",
     "title": "Studio Überblick",
     "section": "",
-    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
+    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio. Testtext\n\n\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Studio"
     ]
@@ -597,6 +597,10 @@
     "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/index.html",
     "title": "Beispiele",
     "section": "",
-    "text": "Zurück nach oben"
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Beispiele"
+    ]
   }
 ]
