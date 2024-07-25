@@ -40,3 +40,23 @@ Eingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, ind
 Nach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). 
 
 Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.
+
+## Editieren eines CMC-Items
+
+***Textelement Verlinkung***
+
+Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf die Optionentabelle Elemente des angelegten CMCs editieren. 
+
+![](CMC_Editieren_eins_Grafik.png)
+
+Im ersten Teil lassen sich die ID (hier „likert_3“) und die Beschriftung (Satzanfang) anpassen. Zusätzlich lässt sich eine sekundäre Beschriftung (Zeilenüberschrift) ins CMC einfügen: 
+
+![](CMC_Editieren_zwei_Grafik.png)
+
+Ebenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem ![](CMC_XSymbol_Grafik.png) - Symbol Optionen und Zeilen hinzufügen, mit dem ![](CMC_PlusSymbol_Grafik.png) -Symbol löschen und mit dem Schraubenschlüsselsymbol ![](CMC_Werkzeug-Symbol_Grafik.png) bearbeiten.
+
+![](CMC_Editieren_drei_Grafik.png) | ![](CMC_Editieren_vier_Grafik.png)
+
+Durch das Einstellen des Anteils der ersten Spalte lässt sich der Platz der Teilfragen/Teilaussagen im Verhältnis zum Platz für die Optionen bestimmen. 
+
+Beispiel:

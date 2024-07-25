@@ -9,7 +9,7 @@ title: "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten"
 
 Für diesen Assistenten muss erst der Assistent **Drag & Drop einseitig** ausgewählt werden, dann dort der Reiter **Zuordnung**.
 
-##Ausrichtung
+## Ausrichtung
 
 ![](DaD_Ausrichtung_Grafik.png)
 
