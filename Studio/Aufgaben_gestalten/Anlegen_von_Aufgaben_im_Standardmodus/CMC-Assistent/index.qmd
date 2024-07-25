@@ -23,7 +23,7 @@ Das Einfügen eines Satzanfanges ist optional. Der Text kann (ohne weitere Ausge
 
 Optionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen. 
 
-Eingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das + - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol ![](CMC_Bild-Symbol_Grafik.png) eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](CMC_Werkzeug-Symbol_Grafik.png) anpassen und mithilfe eines Klicks auf das X – Symbol auch löschen.
+Eingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das ![](CMC_PlusSymbol_Grafik.png) - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol ![](CMC_Bild-Symbol_Grafik.png) eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](CMC_Werkzeug-Symbol_Grafik.png) anpassen und mithilfe eines Klicks auf das ![](CMC_XSymbol_Grafik.png) – Symbol auch löschen.
 
 ## Zeilen
 
@@ -31,7 +31,7 @@ Eingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, in
 
 Die Zeilen sind Teilfragen/Teilaussagen, über die jeweils entschieden werden soll. 
 
-Eingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das + - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol ![](CMC_Bild-Symbol_Grafik.png) eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](CMC_Werkzeug-Symbol_Grafik.png) anpassen und mithilfe eines Klicks auf das X – Symbol auch löschen. 
+Eingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das ![](CMC_PlusSymbol_Grafik.png) - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol ![](CMC_Bild-Symbol_Grafik.png) eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](CMC_Werkzeug-Symbol_Grafik.png) anpassen und mithilfe eines Klicks auf das ![](CMC_XSymbol_Grafik.png) – Symbol auch löschen. 
 
 ## Bestätigen/Abbrechen
 
