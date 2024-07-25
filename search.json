@@ -63,14 +63,14 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
     "title": "CMC Assistent",
     "section": "Optionen",
-    "text": "Optionen\n\nOptionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen.\nEingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das + - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das X – Symbol auch löschen."
+    "text": "Optionen\n\nOptionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen.\nEingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen."
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
     "title": "CMC Assistent",
     "section": "Zeilen",
-    "text": "Zeilen\n\nDie Zeilen sind Teilfragen/Teilaussagen, über die jeweils entschieden werden soll.\nEingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das + - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das X – Symbol auch löschen."
+    "text": "Zeilen\n\nDie Zeilen sind Teilfragen/Teilaussagen, über die jeweils entschieden werden soll.\nEingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen."
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
@@ -653,7 +653,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html",
     "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
     "section": "",
-    "text": "Die Grafik muss noch angepasst werden\n##Ausrichtung\nDer Haken bei Elementliste über Ziellisten bleibt gesetzt. Für die andere Auswahl siehe nächste Anleitung (verlinken)."
+    "text": "Die Grafik muss noch angepasst werden\nFür diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Zuordnung.\n##Ausrichtung\nDer Haken bei Elementliste über Ziellisten bleibt gesetzt. Für die andere Auswahl siehe nächste Anleitung (verlinken)."
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#frageinstruktion",
@@ -661,6 +661,41 @@
     "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
     "section": "Frage/Instruktion",
     "text": "Frage/Instruktion\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#überschrift-elementliste",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#überschrift-elementliste",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
+    "section": "Überschrift Elementliste",
+    "text": "Überschrift Elementliste\n\nHier kann eine Überschrift für die zu verschiebenden Elemente eingetragen werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#elemente",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#elemente",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
+    "section": "Elemente",
+    "text": "Elemente\n\nHier werden die zu verschiedenen Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Ablagelisten."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#überschrift-ziellisten",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#überschrift-ziellisten",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
+    "section": "Überschrift Ziellisten",
+    "text": "Überschrift Ziellisten\n\nHier kann eine Überschrift für die Zielbeschriftungen eingetragen werden.\nDiesen Zielbeschriftungen sollen dann von den SuS die Elemente zugeordnet werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#zielbeschriftungen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#zielbeschriftungen",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
+    "section": "Zielbeschriftungen",
+    "text": "Zielbeschriftungen\n\nHier werden die Zielbeschriftungen eingetragen. Dazu wird eine Zielbeschriftung nach der anderen oben bei „Neue Zielbeschriftung“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Zielbeschriftungen können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Zielbeschriftungen aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe den Platz für die Zielbeschriftungen links."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html#bestätigenabbrechen",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
+    "section": "Bestätigen/Abbrechen",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein DaD durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss jeweils noch eine Auswahl über die ungefähre Länge der Elemente und Zielbeschriftungen getroffen werden.\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen."
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html",
