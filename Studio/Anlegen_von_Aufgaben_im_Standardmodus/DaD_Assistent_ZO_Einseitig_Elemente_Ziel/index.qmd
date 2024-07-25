@@ -1,0 +1,20 @@
+---
+lang: de
+title: "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten"
+---
+
+![](DaD_Main_Grafik.png)
+
+Die Grafik muss noch angepasst werden
+
+##Ausrichtung
+
+![](DaD_Ausrichtung_Grafik.png)
+
+Der Haken bei Elementliste über Ziellisten bleibt gesetzt. Für die andere Auswahl siehe nächste Anleitung (verlinken).
+
+## Frage/Instruktion
+
+![](DaD_Frage_Instruktion_Grafik.png)
+
+Im Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden. 
