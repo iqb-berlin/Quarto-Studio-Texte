@@ -59,7 +59,18 @@ website:
       - section: "Studio"
         href: Studio/index.qmd
         contents:
-            - Studio/Anlegen_von_Aufgaben_im_Standardmodus/index.qmd
+          - section: "Anlegen von Aufgaben im Standardmodus"
+            href: Studio/Anlegen_von_Aufgaben_im_Standardmodus/index.qmd
+            contents:
+              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.qmd
+              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.qmd
+              - section: "Drag & Drop"
+                href: Studio/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent/index.qmd
+                contents:
+                  #Hier dann die einzelnen Seiten einfügen
+              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.qmd
+              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.qmd
+              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.qmd
     
 format:
   html:
