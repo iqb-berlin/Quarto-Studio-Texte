@@ -52,7 +52,7 @@
     "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
     "title": "CMC Assistent",
     "section": "Optionen",
-    "text": "Optionen\n\nOptionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen. Eingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das + - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das X – Symbol auch löschen.",
+    "text": "Optionen\n\nOptionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen.\nEingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das + - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das X – Symbol auch löschen.",
     "crumbs": [
       "Studio",
       "Anlegen von Aufgaben im Standardmodus",
@@ -64,7 +64,19 @@
     "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
     "title": "CMC Assistent",
     "section": "Zeilen",
-    "text": "Zeilen\n\nNach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "text": "Zeilen\n\nDie Zeilen sind Teilfragen/Teilaussagen, über die jeweils entschieden werden soll.\nEingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das + - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das X – Symbol auch löschen.",
+    "crumbs": [
+      "Studio",
+      "Anlegen von Aufgaben im Standardmodus",
+      "CMC Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
+    "href": "Studio/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
+    "title": "CMC Assistent",
+    "section": "Bestätigen/Abbrechen",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
     "crumbs": [
       "Studio",
       "Anlegen von Aufgaben im Standardmodus",
