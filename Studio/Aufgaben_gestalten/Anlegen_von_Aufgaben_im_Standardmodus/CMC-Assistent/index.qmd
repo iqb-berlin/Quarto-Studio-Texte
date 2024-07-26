@@ -51,7 +51,7 @@ Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf die Optio
 
 Im ersten Teil lassen sich die ID (hier „likert_3“) und die Beschriftung (Satzanfang) anpassen. Zusätzlich lässt sich eine sekundäre Beschriftung (Zeilenüberschrift) ins CMC einfügen: 
 
-![](CMC_Editieren_zwei_Grafik.png)
+![](CMC_Editieren_zwei_Grafik.png){width=500}
 
 Ebenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem ![](CMC_XSymbol_Grafik.png){width=20} - Symbol Optionen und Zeilen hinzufügen, mit dem ![](CMC_PlusSymbol_Grafik.png){width=20} -Symbol löschen und mit dem Schraubenschlüsselsymbol ![](CMC_Werkzeug-Symbol_Grafik.png){width=20} bearbeiten.
 
