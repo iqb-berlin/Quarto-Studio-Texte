@@ -61,15 +61,19 @@ website:
         contents:
           - Studio/Arbeitsbereiche/index.qmd
           - section: "Aufgaben gestalten"
+            href: Studio/Aufgaben_gestalten/index.qmd
             contents:
               - Studio/Aufgaben_gestalten/Andere_Editoren/index.qmd
               - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_erweiterten_Modus/index.qmd
               - section: Anlegen von Aufgaben im Standardmodus
-                href: Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.qmd
+                #Seite für "Anlegen von Aufgaben im Standardmodus" ist im Moment rauskommentiert, kann aber durch Löschen des # und dieser Zeile wieder aktiviert werden
+                #href: Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.qmd
                 contents:
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.qmd
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.qmd
-                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.qmd
+                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.qmd
+                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.qmd
+                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.qmd
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.qmd
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.qmd
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.qmd
