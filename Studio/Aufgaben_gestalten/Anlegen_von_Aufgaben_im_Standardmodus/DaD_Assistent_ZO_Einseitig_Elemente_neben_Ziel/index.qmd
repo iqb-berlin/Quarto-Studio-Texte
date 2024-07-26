@@ -1,0 +1,18 @@
+---
+lang: de
+title: "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+---
+
+***Main Grafik noch einfügen***
+
+----------
+
+![](DaD_Auswahl_Grafik.PNG)
+
+Für diesen Assistenten muss erst der Assistent **Drag & Drop einseitig** ausgewählt werden, dann dort der Reiter **Zuordnung**. 
+
+## Ausrichtung
+
+![](DaD_Ausrichtung_Grafik.png)
+
+Der Haken bei **Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)** muss gesetzt werden! Für die andere Auswahl siehe vorherige Anleitung ***Link einfügen***.
