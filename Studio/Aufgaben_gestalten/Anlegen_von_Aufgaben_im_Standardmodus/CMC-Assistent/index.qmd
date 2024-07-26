@@ -13,7 +13,7 @@ Im Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe
 
 ## Satzanfang (optional)
 
-![](CMC_Satzanfang_Grafik.png)
+![](CMC_Satzanfang_Grafik.png){width=200}
 
 Das Einfügen eines Satzanfanges ist optional. Der Text kann (ohne weitere Ausgestaltungsoptionen) editiert werden. Wird kein Text eingetragen, erscheint auch im CMC kein Satzanfang.
 
@@ -23,7 +23,7 @@ Das Einfügen eines Satzanfanges ist optional. Der Text kann (ohne weitere Ausge
 
 Optionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen. 
 
-Eingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das ![](CMC_PlusSymbol_Grafik.png) - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol ![](CMC_Bild-Symbol_Grafik.png) eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](CMC_Werkzeug-Symbol_Grafik.png) anpassen und mithilfe eines Klicks auf das ![](CMC_XSymbol_Grafik.png) – Symbol auch löschen.
+Eingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das ![](CMC_PlusSymbol_Grafik.png){width=20} - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol ![](CMC_Bild-Symbol_Grafik.png) eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](CMC_Werkzeug-Symbol_Grafik.png){width=20} anpassen und mithilfe eines Klicks auf das ![](CMC_XSymbol_Grafik.png){width=20} – Symbol auch löschen.
 
 ## Zeilen
 
@@ -31,7 +31,7 @@ Eingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, in
 
 Die Zeilen sind Teilfragen/Teilaussagen, über die jeweils entschieden werden soll. 
 
-Eingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das ![](CMC_PlusSymbol_Grafik.png) - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol ![](CMC_Bild-Symbol_Grafik.png) eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](CMC_Werkzeug-Symbol_Grafik.png) anpassen und mithilfe eines Klicks auf das ![](CMC_XSymbol_Grafik.png) – Symbol auch löschen. 
+Eingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das ![](CMC_PlusSymbol_Grafik.png){width=20} - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol ![](CMC_Bild-Symbol_Grafik.png) eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](CMC_Werkzeug-Symbol_Grafik.png){width=20} anpassen und mithilfe eines Klicks auf das ![](CMC_XSymbol_Grafik.png){width=20} – Symbol auch löschen. 
 
 ## Bestätigen/Abbrechen
 
@@ -47,16 +47,42 @@ Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätig
 
 Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf die Optionentabelle Elemente des angelegten CMCs editieren. 
 
-![](CMC_Editieren_eins_Grafik.png)
+![](CMC_Editieren_eins_Grafik.png){width=200}
 
 Im ersten Teil lassen sich die ID (hier „likert_3“) und die Beschriftung (Satzanfang) anpassen. Zusätzlich lässt sich eine sekundäre Beschriftung (Zeilenüberschrift) ins CMC einfügen: 
 
 ![](CMC_Editieren_zwei_Grafik.png)
 
-Ebenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem ![](CMC_XSymbol_Grafik.png) - Symbol Optionen und Zeilen hinzufügen, mit dem ![](CMC_PlusSymbol_Grafik.png) -Symbol löschen und mit dem Schraubenschlüsselsymbol ![](CMC_Werkzeug-Symbol_Grafik.png) bearbeiten.
+Ebenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem ![](CMC_XSymbol_Grafik.png){width=20} - Symbol Optionen und Zeilen hinzufügen, mit dem ![](CMC_PlusSymbol_Grafik.png){width=20} -Symbol löschen und mit dem Schraubenschlüsselsymbol ![](CMC_Werkzeug-Symbol_Grafik.png){width=20} bearbeiten.
 
-![](CMC_Editieren_drei_Grafik.png) | ![](CMC_Editieren_vier_Grafik.png)
+::: {layout-ncol=2}
+![](CMC_Editieren_drei_Grafik.png)
+
+![](CMC_Editieren_vier_Grafik.png)
+:::
 
 Durch das Einstellen des Anteils der ersten Spalte lässt sich der Platz der Teilfragen/Teilaussagen im Verhältnis zum Platz für die Optionen bestimmen. 
 
 Beispiel:
+
+::: {layout-ncol=3}
+![Anteil der ersten Spalte: 1](CMC_Spalten_eins_Grafik.png)
+
+![Anteil der ersten Spalte: 3](CMC_Spalten_zwei_Grafik.png)
+
+![Anteil der ersten Spalte: 7](CMC_Spalten_drei_Grafik.png)
+:::
+
+Mit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das CMC maximal sein soll. Dies kann nützlich sein, wenn die Teilaufgaben/Teilfragen sehr kurz sind und dadurch die Optionen zu weit davon abrücken. Die Breite des CMC ist automatisch bereits durch die Breite der Seite begrenzt. 
+
+Eine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.
+
+![](CMC_Maximalbreite_eins_Grafik.png){width=200}
+
+Beispiel:
+
+::: {layout-ncol=2}
+![ohne Einstellen einer Maximalbreite](CMC_Maximalbreite_zwei_Grafik.png)
+
+![Maximalbreite 365](CMC_Maximalbreite_drei_Grafik.png)
+:::
