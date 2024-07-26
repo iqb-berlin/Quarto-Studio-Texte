@@ -56,9 +56,9 @@ Im ersten Teil lassen sich die ID (hier „likert_3“) und die Beschriftung (Sa
 Ebenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem ![](CMC_XSymbol_Grafik.png){width=20} - Symbol Optionen und Zeilen hinzufügen, mit dem ![](CMC_PlusSymbol_Grafik.png){width=20} -Symbol löschen und mit dem Schraubenschlüsselsymbol ![](CMC_Werkzeug-Symbol_Grafik.png){width=20} bearbeiten.
 
 ::: {layout-ncol=2}
-![](CMC_Editieren_drei_Grafik.png)
+![](CMC_Editieren_drei_Grafik.png){width=250}
 
-![](CMC_Editieren_vier_Grafik.png)
+![](CMC_Editieren_vier_Grafik.png){width=250}
 :::
 
 Durch das Einstellen des Anteils der ersten Spalte lässt sich der Platz der Teilfragen/Teilaussagen im Verhältnis zum Platz für die Optionen bestimmen. 
