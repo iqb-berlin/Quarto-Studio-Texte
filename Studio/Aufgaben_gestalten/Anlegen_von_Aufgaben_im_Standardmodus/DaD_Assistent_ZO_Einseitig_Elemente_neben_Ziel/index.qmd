@@ -3,7 +3,7 @@ lang: de
 title: "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
 ---
 
-***Main Grafik noch einfügen***
+![](DaD_Main_Grafik.PNG)
 
 ----------
 
