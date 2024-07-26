@@ -3,7 +3,7 @@ lang: de
 title: "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten"
 ---
 
-![](DaD_Main_bunt_Grafik.png)
+![](DaD_Main_Grafik.png)
 
 ![](DaD_Auswahl_Grafik.PNG)
 
