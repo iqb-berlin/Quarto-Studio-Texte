@@ -65,7 +65,7 @@ Durch das Einstellen des Anteils der ersten Spalte lässt sich der Platz der Tei
 
 Beispiel:
 
-::: {layout-ncol=3}
+::: {layout-ncol=3 layout-valign="bottom"}
 ![Anteil der ersten Spalte: 1](CMC_Spalten_eins_Grafik.png)
 
 ![Anteil der ersten Spalte: 3](CMC_Spalten_zwei_Grafik.png)
@@ -81,7 +81,7 @@ Eine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbrei
 
 Beispiel:
 
-::: {layout-ncol=2}
+::: {layout-ncol=2 layout-valign="bottom"}
 ![ohne Einstellen einer Maximalbreite](CMC_Maximalbreite_zwei_Grafik.png)
 
 ![Maximalbreite 365](CMC_Maximalbreite_drei_Grafik.png)
