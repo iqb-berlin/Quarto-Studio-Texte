@@ -59,19 +59,25 @@ website:
       - section: "Studio"
         href: Studio/index.qmd
         contents:
-          - section: "Anlegen von Aufgaben im Standardmodus"
-            href: Studio/Anlegen_von_Aufgaben_im_Standardmodus/index.qmd
+          - Studio/Arbeitsbereiche/index.qmd
+          - section: "Aufgaben gestalten"
             contents:
-              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.qmd
-              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.qmd
-              - section: "Drag & Drop"
-                href: Studio/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent/index.qmd
+              - Studio/Aufgaben_gestalten/Andere_Editoren/index.qmd
+              - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_erweiterten_Modus/index.qmd
+              - section: Anlegen von Aufgaben im Standardmodus
+                href: Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.qmd
                 contents:
-                  #Hier dann die einzelnen Seiten einfügen
-              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.qmd
-              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.qmd
-              - Studio/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.qmd
-          - Studio/Glossar/Glossar.qmd
+                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.qmd
+                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.qmd
+                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.qmd
+                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.qmd
+                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.qmd
+                  - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.qmd
+              - Studio/Aufgaben_gestalten/Glossar/Glossar.qmd
+              - Studio/Aufgaben_gestalten/IQB_Konventionen/index.qmd
+          - Studio/FAQ/index.qmd
+          - Studio/Installation/index.qmd
+          - Studio/Kodierschema/index.qmd
     
 format:
   html:
