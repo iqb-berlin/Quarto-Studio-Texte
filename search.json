@@ -138,7 +138,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#editieren-eines-cmc-items",
     "title": "CMC Assistent",
     "section": "Editieren eines CMC-Items",
-    "text": "Editieren eines CMC-Items\nTextelement Verlinkung\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf die Optionentabelle Elemente des angelegten CMCs editieren.\n\nIm ersten Teil lassen sich die ID (hier „likert_3“) und die Beschriftung (Satzanfang) anpassen. Zusätzlich lässt sich eine sekundäre Beschriftung (Zeilenüberschrift) ins CMC einfügen:\n\nEbenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem  - Symbol Optionen und Zeilen hinzufügen, mit dem  -Symbol löschen und mit dem Schraubenschlüsselsymbol  bearbeiten.\n | \nDurch das Einstellen des Anteils der ersten Spalte lässt sich der Platz der Teilfragen/Teilaussagen im Verhältnis zum Platz für die Optionen bestimmen.\nBeispiel:",
+    "text": "Editieren eines CMC-Items\nTextelement Verlinkung\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf die Optionentabelle Elemente des angelegten CMCs editieren.\n\nIm ersten Teil lassen sich die ID (hier „likert_3“) und die Beschriftung (Satzanfang) anpassen. Zusätzlich lässt sich eine sekundäre Beschriftung (Zeilenüberschrift) ins CMC einfügen:\n\nEbenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem  - Symbol Optionen und Zeilen hinzufügen, mit dem  -Symbol löschen und mit dem Schraubenschlüsselsymbol  bearbeiten.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDurch das Einstellen des Anteils der ersten Spalte lässt sich der Platz der Teilfragen/Teilaussagen im Verhältnis zum Platz für die Optionen bestimmen.\nBeispiel:\n\n\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 1\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 3\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 7\n\n\n\n\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das CMC maximal sein soll. Dies kann nützlich sein, wenn die Teilaufgaben/Teilfragen sehr kurz sind und dadurch die Optionen zu weit davon abrücken. Die Breite des CMC ist automatisch bereits durch die Breite der Seite begrenzt.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.\n\nBeispiel:\n\n\n\n\n\n\n\n\n\nohne Einstellen einer Maximalbreite\n\n\n\n\n\n\n\nMaximalbreite 365",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -742,7 +742,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_Ziel/index.html",
     "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
     "section": "",
-    "text": "Die Grafik muss noch angepasst werden\nFür diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Zuordnung.",
+    "text": "Für diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Zuordnung.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
