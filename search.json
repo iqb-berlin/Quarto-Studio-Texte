@@ -74,7 +74,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html",
     "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
     "section": "",
-    "text": "Main Grafik noch einfügen\nFür diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Zuordnung.",
+    "text": "Für diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Zuordnung.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -804,14 +804,66 @@
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html",
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html",
-    "title": "Quarto Texte Studio",
+    "title": "Drag & Drop einseitig – Sortieren",
     "section": "",
-    "text": "Back to top",
+    "text": "Für diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Sortieren.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "index.html"
+      "Drag & Drop einseitig – Sortieren"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html#frageinstruktion",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html#frageinstruktion",
+    "title": "Drag & Drop einseitig – Sortieren",
+    "section": "Frage/Instruktion",
+    "text": "Frage/Instruktion\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig – Sortieren"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html#nummerierung",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html#nummerierung",
+    "title": "Drag & Drop einseitig – Sortieren",
+    "section": "Nummerierung",
+    "text": "Nummerierung\n\nHier kann die Nummerierung für die Sortierliste aktiviert werden.\nDiese steht dann fest links neben den Elementen und bewegt sich beim Sortieren nicht mit.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig – Sortieren"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html#elemente",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html#elemente",
+    "title": "Drag & Drop einseitig – Sortieren",
+    "section": "Elemente",
+    "text": "Elemente\n\nHier werden die zu sortierenden Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Sortierliste.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig – Sortieren"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html#bestätigenabbrechen",
+    "title": "Drag & Drop einseitig – Sortieren",
+    "section": "Bestätigen/Abbrechen",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird eine Sortieraufgabe durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss noch eine Auswahl über die ungefähre Länge der Elemente getroffen werden. Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig – Sortieren"
     ]
   },
   {
