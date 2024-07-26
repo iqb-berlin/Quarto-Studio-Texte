@@ -3,7 +3,7 @@ lang: de
 title: "Drag & Drop einseitig – Sortieren"
 ---
 
-![](DaD_Main_Grafik.PNG)
+![](DaD_Main_Grafik.PNG){width=600}
 
 ----------
 
@@ -19,7 +19,7 @@ Im Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe
 
 ## Nummerierung
 
-![](DaD_Nummerierung_Grafik.png){width=250}
+![](DaD_Nummerierung_Grafik.png){width=200}
 
 Hier kann die Nummerierung für die Sortierliste aktiviert werden. 
 
