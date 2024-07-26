@@ -12,7 +12,7 @@ Außerdem kann ein Schreibschutz für Beispiele aktiviert werden.
 
 ![](DaD_Fragment_Grafik_eins.png)
 
-Ebenso lässt sich hier die Vorbelegung der Liste anpassen. Wie im Assistenten lassen sich mit dem +-Symbol Optionen hinzufügen, mit dem ![](XSymbol_Grafik.png) -Symbol löschen und mit dem Schraubenschlüsselsymbol ![](Werkzeug-Symbol_Grafik.png) bearbeiten. Außerdem lässt sich durch Verschieben mit der Maus die Reihenfolge der Optionen ändern.
+Ebenso lässt sich hier die Vorbelegung der Liste anpassen. Wie im Assistenten lassen sich mit dem +-Symbol Optionen hinzufügen, mit dem x -Symbol löschen und mit dem Schraubenschlüsselsymbol bearbeiten. Außerdem lässt sich durch Verschieben mit der Maus die Reihenfolge der Optionen ändern.
 
 ![](DaD_Fragment_Grafik_zwei.png)
 
