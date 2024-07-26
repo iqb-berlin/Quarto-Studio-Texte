@@ -226,11 +226,11 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#text",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#text",
     "title": "Markieren Assistent",
-    "section": "",
-    "text": "Bild",
+    "section": "Text",
+    "text": "Text\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -239,11 +239,24 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#text",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#text",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#tooltipp",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#tooltipp",
     "title": "Markieren Assistent",
-    "section": "Text",
-    "text": "Text\nBild\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.\nTooltipp Hinweisbox Aufgrund der Schwierigkeit des Aufgabenformats, wird die Verwendung des Tooltipps (Standardeinstellung) empfohlen. Der Tooltipp ist eine Schnellinfo/eine Kurzanleitung. Der Tooltipp-Text wird am Laptop/PC angezeigt, wenn sich der Mauszeiger auf der Glühbirne befindet. Am Tablet/Touchscreen ist zum Anzeigen ein aktives Tippen notwendig. Der Tooltipp-Text blendet sich dann nach erneutem Tippen auf die Glühbirne bzw. nach wenigen Sekunden automatisch wieder aus. Er kann beliebig oft aktiviert werden. Soll ein Tooltipp beim Item eingeblendet werden, muss das Häkchen bei „Anzeigen“ gesetzt bleiben. Wird kein Tooltipp gewünscht, muss das Häkchen bei „Anzeigen“ entfernt werden:\nBild\nBestätigen/Abbrechen\nBild\nNach allen gewünschten Einstellungen wird ein Markieren-Item durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\nFragment Texteditor",
+    "section": "Tooltipp",
+    "text": "Tooltipp\n\n\n\n\n\n\nHinweis\n\n\n\nAufgrund der Schwierigkeit des Aufgabenformats, wird die Verwendung des Tooltipps (Standardeinstellung) empfohlen.\n\n\nDer Tooltipp ist eine Schnellinfo/eine Kurzanleitung. Der Tooltipp-Text wird am Laptop/PC angezeigt, wenn sich der Mauszeiger auf der Glühbirne befindet. Am Tablet/Touchscreen ist zum Anzeigen ein aktives Tippen notwendig. Der Tooltipp-Text blendet sich dann nach erneutem Tippen auf die Glühbirne bzw. nach wenigen Sekunden automatisch wieder aus. Er kann beliebig oft aktiviert werden. Soll ein Tooltipp beim Item eingeblendet werden, muss das Häkchen bei „Anzeigen“ gesetzt bleiben. Wird kein Tooltipp gewünscht, muss das Häkchen bei „Anzeigen“ entfernt werden:",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Markieren Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#bestätigenabbrechen",
+    "title": "Markieren Assistent",
+    "section": "Bestätigen/Abbrechen",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein Markieren-Item durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\nFragment Texteditor",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
