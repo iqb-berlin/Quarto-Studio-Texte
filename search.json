@@ -880,7 +880,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#tooltipp",
     "title": "Markieren Assistent",
     "section": "Tooltipp",
-    "text": "Tooltipp\n\n\n\n\n\n\nHinweis\n\n\n\nAufgrund der Schwierigkeit des Aufgabenformats, wird die Verwendung des Tooltipps (Standardeinstellung) empfohlen.\n\n\nDer Tooltipp ist eine Schnellinfo/eine Kurzanleitung. Der Tooltipp-Text wird am Laptop/PC angezeigt, wenn sich der Mauszeiger auf der Glühbirne befindet. Am Tablet/Touchscreen ist zum Anzeigen ein aktives Tippen notwendig. Der Tooltipp-Text blendet sich dann nach erneutem Tippen auf die Glühbirne bzw. nach wenigen Sekunden automatisch wieder aus. Er kann beliebig oft aktiviert werden. Soll ein Tooltipp beim Item eingeblendet werden, muss das Häkchen bei „Anzeigen“ gesetzt bleiben. Wird kein Tooltipp gewünscht, muss das Häkchen bei „Anzeigen“ entfernt werden:",
+    "text": "Tooltipp\n\n\n\n\n\n\nHinweis\n\n\n\nAufgrund der Schwierigkeit des Aufgabenformats, wird die Verwendung des Tooltipps (Standardeinstellung) empfohlen.\n\n\nDer Tooltipp ist eine Schnellinfo/eine Kurzanleitung. Der Tooltipp-Text wird am Laptop/PC angezeigt, wenn sich der Mauszeiger auf der Glühbirne befindet. Am Tablet/Touchscreen ist zum Anzeigen ein aktives Tippen notwendig. Der Tooltipp-Text blendet sich dann nach erneutem Tippen auf die Glühbirne bzw. nach wenigen Sekunden automatisch wieder aus. Er kann beliebig oft aktiviert werden.\nSoll ein Tooltipp beim Item eingeblendet werden, muss das Häkchen bei „Anzeigen“ gesetzt bleiben. Wird kein Tooltipp gewünscht, muss das Häkchen bei „Anzeigen“ entfernt werden:",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -893,7 +893,20 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#bestätigenabbrechen",
     "title": "Markieren Assistent",
     "section": "Bestätigen/Abbrechen",
-    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein Markieren-Item durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\nFragment Texteditor",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein Markieren-Item durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Markieren Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#editieren-eines-markieren-items",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html#editieren-eines-markieren-items",
+    "title": "Markieren Assistent",
+    "section": "Editieren eines Markieren-Items",
+    "text": "Editieren eines Markieren-Items\nIm rechten Reiter „Eigenschaften“ lässt sich das Textelement editieren.\nIm ersten Teil lassen sich die ID (hier „text_1“) und mit einem Klick auf das Stift-Symbol auch der Text editieren.\n\nIm zweiten Teil lässt sich die Anzahl der Spalten einstellen.\n\nIn manchen Fällen (z.B. bei Gedichten oder Zeitungsartikeln) kann es sinnvoll sein, die Anzahl der Spalten anzupassen:\n\n\n\n\n\n\n\n\n\nAnzahl der Spalten: 1\n\n\n\n\n\n\n\nAnzahl der Spalten: 2\n\n\n\n\n\n\n\nAnzahl der Spalten: 3\n\n\n\n\n\nEbenso lassen sich im Textelement Markierfarben einstellen. Dies ist nur bei Stimulustexten sinnvoll. In der Sekundarstufe I werden Markierfarben vor allem als Werkzeug zur Texterschließung eingesetzt. In der Grundschule findet diese Einstellung hauptsächlich im Rahmen eines (Markier-)Items, in der Regel mit der gelben Markierfarbe, Anwendung:\n\n\n\n\n\n\n\n\n\nEinstellung im Textelement des Stimulus\n\n\n\n\n\n\n\nVorschau (Stimulustext)\n\n\n\n\n\nDer Radiergummiknopf  wird mit dem Einstellen von mindestens einer Markierfarbe automatisch hinzugefügt und kann nicht entfernt werden.\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) der Text maximal sein soll. Die Breite ist automatisch bereits durch die Breite der Seite begrenzt.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.\n\nBeispiel Maximalbreite Textelement:\n\n\n\n\n\n\n\n\n\nohne Einstellen einer Maximalbreite\n\n\n\n\n\n\n\nMaximalbreite 400",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
