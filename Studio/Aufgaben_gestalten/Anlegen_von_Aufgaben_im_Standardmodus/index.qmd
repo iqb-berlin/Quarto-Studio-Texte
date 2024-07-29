@@ -1,7 +1,13 @@
 ---
 lang: de
 title: "Studio Anlegen"
+listing:
+  template: gallery.ejs
+  contents: tiles.yml
+toc: false
+page-layout: full
 ---
+
 
 ::: {.callout-note}
 Diese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.
