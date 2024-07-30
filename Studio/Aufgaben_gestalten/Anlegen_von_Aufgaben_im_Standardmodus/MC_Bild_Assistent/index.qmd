@@ -1,9 +1,71 @@
 ---
 lang: de
-title: "Studio Anlegen"
+title: "MC mit Bild-Assistent"
 ---
 
+![](uebersichtsgrafikmcbild.png)
+
+## Frage
+
+![](MC_Bild_Frage.png)
+
+Im Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.
+
+## Optionen
+
+![](MC_Bild_Optionen.png)
+
+Hochgeladene Grafiken bei „Neue Option“ können ins MC hinzugefügt werden, indem auf das Bild- Symbol ![](MC_Bild-Symbol_Grafik.png) geklickt wird. Dann erscheint ein weiteres Fenster: 
+
+![](MC_Bild_Uebersicht_zwei.png)
+
+In diesem Fenster kann über die Schaltfläche „Bild laden“ ein Bild eingefügt, ggf. ein Text hinzugefügt und die Bildposition bestimmt und alle Einstellungen für diese Option gespeichert werden. 
+
 ::: {.callout-note}
-Diese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.
+![](MC_Bild_Hinweis.png){width=300}
+
+Die Grafiken, die unter der Eingabemaske abgebildet sind, erscheinen dann im MC. Hochgeladene Grafiken lassen sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](MC_Werkzeug-Symbol_Grafik.png){width=20} anpassen und mithilfe eines Klicks auf das ![](MC_XSymbol_Grafik.png){width=20} – Symbol auch löschen. 
 :::
 
+## Bilder je Zeile 
+
+Wie viele Bilder pro Zeile erscheinen sollen, kann ebenso angepasst werden. 
+
+![](MC_Bild_BilderjeZeile.png){width=200}
+
+::: {.callout-note}
+4 Bilder pro Zeile: empfohlen für kleine Bilder oder einseitige Aufgaben
+2 Bilder pro Zeile: empfohlen für zweiseitige Aufgaben oder große Bilder
+:::
+
+## Bestätigen/Abbrechen
+
+![](MC_Bild_BestatigenAbbrechen.png)
+
+Wenn die Aufgabe fertig angelegt ist im Assistenten, wird auf Bestätigen geklickt, der Assistent wird automatisch geschlossen (siehe Bild oben). 
+
+Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen. 
+
+## Editieren eines Optionfelds mit Bild-Element
+
+***Verlinkung Textelement***
+
+Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Optionsfelder mit Bild-Element (MC) editieren. 
+
+![](MC_Bild_Editieren.png)
+
+Im ersten Teil lassen sich die ID (hier „radio-group_images_1“) und die Beschriftung einfügen bzw. anpassen. 
+
+In Ausnahmefällen soll ein MC-Item nicht bearbeitbar sein. Dazu muss ein Häkchen bei „schreibgeschützt“ gesetzt werden. Auch eher selten (bei Beispielen) kann ein MC vorbelegt, also eine Option bereits vorausgewählt, werden. Dies ist über das Ausklappmenü bei „Vorbelegung“ möglich. 
+
+Ebenso lassen sich im Optionsfelder mit Bild-Element die Optionen sowie deren Anordnung (Häkchen bei „Element je Zeile begrenzen“ setzen und gewünschte Zahl eintragen) anpassen.
+
+![](MC_Bild_Editieren_zwei.png){width=200}
+
+Mit einem Klick auf das Bild-Symbol ![](MC_Bild-Symbol_Grafik.png){width=20} lassen sich neue Grafiken als Optionen hinzufügen, mit dem ![](MC_XSymbol_Grafik.png){width=20} -Symbol bereits hochgeladene Grafiken löschen und mit dem Schraubenschlüsselsymbol ![](MC_Werkzeug-Symbol_Grafik.png){width=20} bearbeiten.
+
+Mit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das MC maximal sein soll. Die Breite des MCs ist automatisch bereits durch die Breite der Seite begrenzt. Diese Einstellung ist in der Regel nicht nötig und sollte nur in begründeten Ausnahmefällen genutzt werden.  
+
+Eine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.
+
+![](MC_Bild_Editieren_drei.png){width=200}
