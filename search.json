@@ -1284,16 +1284,68 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
-    "title": "Studio Anlegen",
-    "section": "",
-    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#frage",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#frage",
+    "title": "MC mit Bild-Assistent",
+    "section": "Frage",
+    "text": "Frage\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Studio Anlegen"
+      "MC mit Bild-Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#optionen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#optionen",
+    "title": "MC mit Bild-Assistent",
+    "section": "Optionen",
+    "text": "Optionen\n\nHochgeladene Grafiken bei „Neue Option“ können ins MC hinzugefügt werden, indem auf das Bild- Symbol  geklickt wird. Dann erscheint ein weiteres Fenster:\n\nIn diesem Fenster kann über die Schaltfläche „Bild laden“ ein Bild eingefügt, ggf. ein Text hinzugefügt und die Bildposition bestimmt und alle Einstellungen für diese Option gespeichert werden.\n\n\n\n\n\n\nHinweis\n\n\n\n\nDie Grafiken, die unter der Eingabemaske abgebildet sind, erscheinen dann im MC. Hochgeladene Grafiken lassen sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "MC mit Bild-Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#bilder-je-zeile",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#bilder-je-zeile",
+    "title": "MC mit Bild-Assistent",
+    "section": "Bilder je Zeile",
+    "text": "Bilder je Zeile\nWie viele Bilder pro Zeile erscheinen sollen, kann ebenso angepasst werden.\n\n\n\n\n\n\n\nHinweis\n\n\n\n4 Bilder pro Zeile: empfohlen für kleine Bilder oder einseitige Aufgaben 2 Bilder pro Zeile: empfohlen für zweiseitige Aufgaben oder große Bilder",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "MC mit Bild-Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#bestätigenabbrechen",
+    "title": "MC mit Bild-Assistent",
+    "section": "Bestätigen/Abbrechen",
+    "text": "Bestätigen/Abbrechen\n\nWenn die Aufgabe fertig angelegt ist im Assistenten, wird auf Bestätigen geklickt, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "MC mit Bild-Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#editieren-eines-optionfelds-mit-bild-element",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html#editieren-eines-optionfelds-mit-bild-element",
+    "title": "MC mit Bild-Assistent",
+    "section": "Editieren eines Optionfelds mit Bild-Element",
+    "text": "Editieren eines Optionfelds mit Bild-Element\nVerlinkung Textelement\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Optionsfelder mit Bild-Element (MC) editieren.\n\nIm ersten Teil lassen sich die ID (hier „radio-group_images_1“) und die Beschriftung einfügen bzw. anpassen.\nIn Ausnahmefällen soll ein MC-Item nicht bearbeitbar sein. Dazu muss ein Häkchen bei „schreibgeschützt“ gesetzt werden. Auch eher selten (bei Beispielen) kann ein MC vorbelegt, also eine Option bereits vorausgewählt, werden. Dies ist über das Ausklappmenü bei „Vorbelegung“ möglich.\nEbenso lassen sich im Optionsfelder mit Bild-Element die Optionen sowie deren Anordnung (Häkchen bei „Element je Zeile begrenzen“ setzen und gewünschte Zahl eintragen) anpassen.\n\nMit einem Klick auf das Bild-Symbol  lassen sich neue Grafiken als Optionen hinzufügen, mit dem  -Symbol bereits hochgeladene Grafiken löschen und mit dem Schraubenschlüsselsymbol  bearbeiten.\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das MC maximal sein soll. Die Breite des MCs ist automatisch bereits durch die Breite der Seite begrenzt. Diese Einstellung ist in der Regel nicht nötig und sollte nur in begründeten Ausnahmefällen genutzt werden.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "MC mit Bild-Assistent"
     ]
   },
   {
