@@ -1,9 +1,56 @@
 ---
 lang: de
-title: "Studio Anlegen"
+title: "MC mit Text-Assistent"
 ---
 
-::: {.callout-note}
-Diese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.
-:::
+![](Uebersichtsgrafik_MC_Text.png)
 
+## Text
+
+![](textmctext.png)
+
+(z. B. Absätze, Einrückung, Bild einfügen) editiert werden. 
+
+## Satzanfang (optional)
+
+![](satzanfangmctext.png)
+
+Das Einfügen eines Satzanfanges ist optional. Der Text kann (ohne weitere Ausgestaltungsoptionen) editiert werden. Wird kein Text eingetragen, erscheint auch im MC kein Satzanfang.
+
+## Optionen
+
+![](optionenmctext.png)
+
+Eingetragene Worte bei „Neue Option“ können ins MC hinzugefügt werden, indem auf das ![](MC_PlusSymbol_Grafik.png){width=20} - Symbol geklickt wird. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im MC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol ![](MC_Werkzeug-Symbol_Grafik.png){width=20} anpassen und mithilfe eines Klicks auf das ![](MC_XSymbol_Grafik.png){width=20} – Symbol auch löschen. 
+
+## Bestätigen/Abbrechen
+
+![](besttigenabbrechenmctext.png)
+
+Wenn die Aufgabe fertig angelegt ist im Assistenten, wird auf Bestätigen geklickt, der Assistent wird automatisch geschlossen (siehe Bild oben). 
+
+Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen. 
+
+## Editieren eines Optionsfelder-Elements
+
+***Verlinkung Textelement***
+
+Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Optionsfelder-Element (MC) editieren. 
+
+![](Editieren_Eigenschaften.png){width=300}
+
+Im ersten Teil lassen sich die ID (hier „radio_1“) und die Beschriftung (Satzanfang) anpassen bzw. einfügen. 
+
+In Ausnahmefällen soll ein MC-Item nicht bearbeitbar sein. Dazu muss ein Häkchen bei „schreibgeschützt“ gesetzt werden. Auch eher selten (bei Beispielen) kann ein MC vorbelegt, also eine Option bereits vorausgewählt, werden. Dies ist über das Ausklappmenü bei „Vorbelegung“ möglich. 
+
+Ebenso lassen sich im Optionsfelder-Element die Optionen sowie deren Ausrichtung (mithilfe des Ausklappmenüs) anpassen.
+
+![](Editieren_zwei.png){width=300}
+
+Mit dem ![](MC_PlusSymbol_Grafik.png){width=20} - Symbol lassen sich neue Optionen hinzufügen, mit dem ![](MC_XSymbol_Grafik.png){width=20} -Symbol eingetragene Optionen löschen und mit dem Schraubenschlüsselsymbol ![](MC_Werkzeug-Symbol_Grafik.png){width=20} bearbeiten.
+
+Mit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das MC maximal sein soll. Die Breite des MCs ist automatisch bereits durch die Breite der Seite begrenzt. Diese Einstellung ist in der Regel nicht nötig und sollte nur in begründeten Ausnahmefällen genutzt werden.
+
+Eine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.
+
+![](Maximalbreite.png){width=200}
