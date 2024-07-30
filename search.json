@@ -263,16 +263,68 @@
     "text": "Editieren der Rechenkästchen-Elemente\n[Textelement Verlinkung]\nIm rechten Reiter „Eigenschaften“ lässt sich nach einem Klick auf das Rechenkästchen-Element selbiges editieren.\n\nIm ersten Teil lassen sich die ID (hier „math-table_1“) und die Termzeilen anpassen.\nIm unteren Teil lässt sich die untere Hilfszeile und die Ergebniszeile editieren:\n\nDie Größe der automatisch generierten Rechenkästchen ist IQB-Standard. Mit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Rechenkästchen-Item maximal sein soll. Dadurch verändert sich auch die Größe der einzelnen Rechenkästchen. Um nicht vom IQB-Standard abzuweichen, sollte diese Einstellung nur in begründeten Ausnahmefällen genutzt werden."
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
-    "title": "Studio Anlegen",
-    "section": "",
-    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#text",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#text",
+    "title": "MC mit Text-Assistent",
+    "section": "Text",
+    "text": "Text\n\n(z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Studio Anlegen"
+      "MC mit Text-Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#satzanfang-optional",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#satzanfang-optional",
+    "title": "MC mit Text-Assistent",
+    "section": "Satzanfang (optional)",
+    "text": "Satzanfang (optional)\n\nDas Einfügen eines Satzanfanges ist optional. Der Text kann (ohne weitere Ausgestaltungsoptionen) editiert werden. Wird kein Text eingetragen, erscheint auch im MC kein Satzanfang.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "MC mit Text-Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#optionen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#optionen",
+    "title": "MC mit Text-Assistent",
+    "section": "Optionen",
+    "text": "Optionen\n\nEingetragene Worte bei „Neue Option“ können ins MC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im MC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "MC mit Text-Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#bestätigenabbrechen",
+    "title": "MC mit Text-Assistent",
+    "section": "Bestätigen/Abbrechen",
+    "text": "Bestätigen/Abbrechen\n\nWenn die Aufgabe fertig angelegt ist im Assistenten, wird auf Bestätigen geklickt, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "MC mit Text-Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#editieren-eines-optionsfelder-elements",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html#editieren-eines-optionsfelder-elements",
+    "title": "MC mit Text-Assistent",
+    "section": "Editieren eines Optionsfelder-Elements",
+    "text": "Editieren eines Optionsfelder-Elements\nVerlinkung Textelement\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Optionsfelder-Element (MC) editieren.\n\nIm ersten Teil lassen sich die ID (hier „radio_1“) und die Beschriftung (Satzanfang) anpassen bzw. einfügen.\nIn Ausnahmefällen soll ein MC-Item nicht bearbeitbar sein. Dazu muss ein Häkchen bei „schreibgeschützt“ gesetzt werden. Auch eher selten (bei Beispielen) kann ein MC vorbelegt, also eine Option bereits vorausgewählt, werden. Dies ist über das Ausklappmenü bei „Vorbelegung“ möglich.\nEbenso lassen sich im Optionsfelder-Element die Optionen sowie deren Ausrichtung (mithilfe des Ausklappmenüs) anpassen.\n\nMit dem  - Symbol lassen sich neue Optionen hinzufügen, mit dem  -Symbol eingetragene Optionen löschen und mit dem Schraubenschlüsselsymbol  bearbeiten.\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das MC maximal sein soll. Die Breite des MCs ist automatisch bereits durch die Breite der Seite begrenzt. Diese Einstellung ist in der Regel nicht nötig und sollte nur in begründeten Ausnahmefällen genutzt werden.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "MC mit Text-Assistent"
     ]
   },
   {
