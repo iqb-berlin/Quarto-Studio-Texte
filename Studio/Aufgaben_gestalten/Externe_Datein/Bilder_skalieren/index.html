@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>How to: Bilder einfärben – Quarto Texte Studio</title>
+<title>How to: Bilder skalieren in Gimp – Quarto Texte Studio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -97,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">How to: Bilder einfärben</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">How to: Bilder skalieren in Gimp</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -370,29 +370,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Auf dieser Seite</h2>
    
   <ul>
-  <li><a href="#grundlegendes" id="toc-grundlegendes" class="nav-link active" data-scroll-target="#grundlegendes">Grundlegendes</a>
+  <li><a href="#warum-sollen-bilder-skaliert-werden" id="toc-warum-sollen-bilder-skaliert-werden" class="nav-link active" data-scroll-target="#warum-sollen-bilder-skaliert-werden">Warum sollen Bilder skaliert werden?</a></li>
+  <li><a href="#gimp-herunterladen" id="toc-gimp-herunterladen" class="nav-link" data-scroll-target="#gimp-herunterladen">Gimp herunterladen</a></li>
+  <li><a href="#zieldatei-bild-das-skaliert-werden-soll-öffnen" id="toc-zieldatei-bild-das-skaliert-werden-soll-öffnen" class="nav-link" data-scroll-target="#zieldatei-bild-das-skaliert-werden-soll-öffnen">Zieldatei (Bild, das skaliert werden soll) öffnen</a></li>
+  <li><a href="#bild-skalieren" id="toc-bild-skalieren" class="nav-link" data-scroll-target="#bild-skalieren">Bild skalieren</a>
   <ul class="collapse">
-  <li><a href="#allgemeiner-hinweis-zum-zeichnen-harter-linien" id="toc-allgemeiner-hinweis-zum-zeichnen-harter-linien" class="nav-link" data-scroll-target="#allgemeiner-hinweis-zum-zeichnen-harter-linien">Allgemeiner Hinweis zum Zeichnen harter Linien</a></li>
+  <li><a href="#bild-mit-unterschiedlicher-höhe-und-breite-skalieren" id="toc-bild-mit-unterschiedlicher-höhe-und-breite-skalieren" class="nav-link" data-scroll-target="#bild-mit-unterschiedlicher-höhe-und-breite-skalieren">Bild mit unterschiedlicher Höhe und Breite skalieren</a></li>
   </ul></li>
-  <li><a href="#farben-zur-bearbeitung-auswählen" id="toc-farben-zur-bearbeitung-auswählen" class="nav-link" data-scroll-target="#farben-zur-bearbeitung-auswählen">Farben zur Bearbeitung auswählen</a></li>
-  <li><a href="#einfärben-mit-dem-pinselwerkzeug" id="toc-einfärben-mit-dem-pinselwerkzeug" class="nav-link" data-scroll-target="#einfärben-mit-dem-pinselwerkzeug">Einfärben mit dem Pinselwerkzeug</a>
-  <ul class="collapse">
-  <li><a href="#achtung-linienbildung-bei-füll-und-pinsel-werkzeug-in-kombination" id="toc-achtung-linienbildung-bei-füll-und-pinsel-werkzeug-in-kombination" class="nav-link" data-scroll-target="#achtung-linienbildung-bei-füll-und-pinsel-werkzeug-in-kombination">Achtung, Linienbildung bei Füll und Pinsel Werkzeug in Kombination</a></li>
-  </ul></li>
-  <li><a href="#einfärben-mit-dem-füllen-werkzeug" id="toc-einfärben-mit-dem-füllen-werkzeug" class="nav-link" data-scroll-target="#einfärben-mit-dem-füllen-werkzeug">Einfärben mit dem Füllen Werkzeug</a>
-  <ul class="collapse">
-  <li><a href="#hinweis-zum-subpixel-antialiasing" id="toc-hinweis-zum-subpixel-antialiasing" class="nav-link" data-scroll-target="#hinweis-zum-subpixel-antialiasing">Hinweis zum Subpixel-Antialiasing</a></li>
-  </ul></li>
-  <li><a href="#bereiche-auswählen-und-bearbeiten" id="toc-bereiche-auswählen-und-bearbeiten" class="nav-link" data-scroll-target="#bereiche-auswählen-und-bearbeiten">Bereiche auswählen und bearbeiten</a></li>
-  <li><a href="#arbeiten-mit-ebenen" id="toc-arbeiten-mit-ebenen" class="nav-link" data-scroll-target="#arbeiten-mit-ebenen">Arbeiten mit Ebenen</a></li>
-  <li><a href="#beispiel" id="toc-beispiel" class="nav-link" data-scroll-target="#beispiel">Beispiel</a>
-  <ul class="collapse">
-  <li><a href="#erster-arbeitsschritt" id="toc-erster-arbeitsschritt" class="nav-link" data-scroll-target="#erster-arbeitsschritt">Erster Arbeitsschritt</a></li>
-  <li><a href="#zweiter-arbeitsschritt" id="toc-zweiter-arbeitsschritt" class="nav-link" data-scroll-target="#zweiter-arbeitsschritt">Zweiter Arbeitsschritt</a></li>
-  <li><a href="#dritter-arbeitsschritt" id="toc-dritter-arbeitsschritt" class="nav-link" data-scroll-target="#dritter-arbeitsschritt">Dritter Arbeitsschritt</a></li>
-  <li><a href="#vierter-arbeitsschritt" id="toc-vierter-arbeitsschritt" class="nav-link" data-scroll-target="#vierter-arbeitsschritt">Vierter Arbeitsschritt</a></li>
-  <li><a href="#exportieren-von-bilden-als-png-jpg" id="toc-exportieren-von-bilden-als-png-jpg" class="nav-link" data-scroll-target="#exportieren-von-bilden-als-png-jpg">Exportieren von Bilden als PNG / JPG</a></li>
-  </ul></li>
+  <li><a href="#bild-als-.jpg-oder-.png-exportieren" id="toc-bild-als-.jpg-oder-.png-exportieren" class="nav-link" data-scroll-target="#bild-als-.jpg-oder-.png-exportieren">Bild als .jpg oder .png exportieren</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/iqb-berlin/Quarto-Studio-Texte/issues/new" class="toc-action"><i class="bi bi-github"></i>Problem melden</a></li></ul></div></nav>
     </div>
@@ -401,7 +386,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">How to: Bilder einfärben</h1>
+<h1 class="title">How to: Bilder skalieren in Gimp</h1>
 </div>
 
 
@@ -418,10 +403,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Das How To wird anhand von der Software GIMP (Version 2.10) durchgeführt, alternativ lässt sich jede andere Software zur Bildbearbeitung verwenden. Zu beachten ist natürlich, dass entsprechende Funktionen evtl. anders funktionieren oder anders benannt werden.</p>
-<p>Ziel dieser Anleitung ist es, grundlegende Kenntnisse darüber zu vermitteln, wie Bilder, die keine oder andere Farben haben, vor allem Zeichnungen farbig gestaltet werden können.</p>
-<p>Es existiert eine offizielle Funktionsreferenz von Gimp, dort können Infos zu allen Werkzeugen und Menüs abgerufen werden. <a href="https://docs.gimp.org/de/gimp-function-reference.html">Teil III. Funktionsrefernz gimp.org</a></p>
-<p><img src="Wildschweine_im_Wald_mit_grauem_Schatten.jpg" class="img-fluid" width="200"></p>
+<section id="warum-sollen-bilder-skaliert-werden" class="level2">
+<h2 class="anchored" data-anchor-id="warum-sollen-bilder-skaliert-werden">Warum sollen Bilder skaliert werden?</h2>
+<p>Nicht alle Bilder passen in ihrer Ursprungsgröße sinnvoll in das IQB-Teststudio (z. B. beim Stimulus). Auch bei der Anlegung der Items sollten in der Regel alle Bilder gleich groß sein, da es visuell sonst zu Problemen kommt. Es sieht verwirrend aus, wenn beispielsweise alle Bilder in einer Drag &amp; Drop Liste oder bei einem Multiple Choice-Item unterschiedlich groß sind.</p>
+<p>Um die gewünschten Bilder in Bezug auf die Größe anzupassen, skalieren wir sie zuvor in gimp und laden sie im Anschluss ins IQB-Teststudio hoch.</p>
+</section>
+<section id="gimp-herunterladen" class="level2">
+<h2 class="anchored" data-anchor-id="gimp-herunterladen">Gimp herunterladen</h2>
+<p>Gimp für Windows, Linux oder Mac unter https://www.gimp.org/downloads/ kostenfrei herunterladen und installieren.</p>
+</section>
+<section id="zieldatei-bild-das-skaliert-werden-soll-öffnen" class="level2">
+<h2 class="anchored" data-anchor-id="zieldatei-bild-das-skaliert-werden-soll-öffnen">Zieldatei (Bild, das skaliert werden soll) öffnen</h2>
+<p>(bevorzugt vorher Kopie der Zieldatei erstellen, um diese nicht aus Versehen zu überschreiben)</p>
+<p><img src="Zieldatei.jpeg" class="img-fluid"></p>
+<p>Eventuell muss GIMP noch per „Andere App auswählen“ manuell ausgewählt werden (dazu die Dateien von GIMP ausfindig machen und die .exe Datei auswählen, danach sollte GIMP standardmäßig in dieser Liste zur Auswahl stehen).</p>
+</section>
+<section id="bild-skalieren" class="level2">
+<h2 class="anchored" data-anchor-id="bild-skalieren">Bild skalieren</h2>
+<p>Im IQB-Teststudio skalieren wir die Bilder im Regelfall wie folgt:</p>
+<ul>
+<li><p>Drag-and-Drop mehrere Bilder nebeneinander auf 150x150 Pixel, damit 3 Bilder auch auf kleinen Bildschirmen nebeneinander passen (z. B. Vo2_DnD_Bilder_B)</p></li>
+<li><p>Drag-and-Drop mehrere Bilder untereinander auf 175x175 Pixel (z. B. Vo2_DnD_Bilder_A)</p></li>
+</ul>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -432,142 +435,34 @@ Hinweis
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Sollte nur ein Überblick über die Arbeitsschritte des Einfärbens gewünscht sein, dann empfiehlt es sich direkt zu dem Abschnitt „Beispiel“ zu springen (Seite 15). Details zu den einzelnen Arbeitsschritten und Werkzeugen können den entsprechenden Abschnitten entnommen werden.</p>
+<p>bei Drag-and-Drop-Items sollen alle Bilder quadratisch sein, bei Multiple Choice-Items sollen alle Bilder dieselbe Breite haben</p>
 </div>
 </div>
-<section id="grundlegendes" class="level2">
-<h2 class="anchored" data-anchor-id="grundlegendes">Grundlegendes</h2>
-<p>Es gibt verschiedene Wege ein Bild einzufärben. Beispielhaft werde ich das an dem über diesen Abschnitt gezeigtem Bild durchführen. Das Bild findet sich im gemeinschaftlichen Arbeitsordner des TBA Teams, so dass die Arbeitsschritte entsprechend selbst nachvollzogen werden können.</p>
-<p>Die Bearbeitung des Bildes sollte grundsätzlich in Originalgröße stattfinden. Die Zoomstufe kann in der Mitte des Fensters unter dem Bild eingestellt werden, dort ist es auch möglich die Skalenbeschriftung für die das Bild umgebene Skala zu ändern.</p>
-<p><img src="Bilder_einfarben_Grundlegendes.png" class="img-fluid"></p>
-<p>Erklärungen zu den Werkzeugen finden sich unter:</p>
-<p><a href="https://docs.gimp.org/de/gimp-tools-paint.html#gimp-tool-brush">Malwerkzeuge gimp.org</a></p>
-<section id="allgemeiner-hinweis-zum-zeichnen-harter-linien" class="level3">
-<h3 class="anchored" data-anchor-id="allgemeiner-hinweis-zum-zeichnen-harter-linien">Allgemeiner Hinweis zum Zeichnen harter Linien</h3>
-<p>Gimp verwendet bei allen Malwerkzeugen automatisch das sogenannte Subpixel-Antialiasing, welches dazu führt, dass Kanten gezeichneter Striche zu zackig aussehen. D.h. selbst wenn man mit einem Pinsel arbeitet, der eine harte Kante hat, dann werden Pixel am Rand des Strichs nicht vollständig gefärbt. Sollte also ein pixelgenaues Arbeiten notwendig sein, dann empfiehlt es sich den Stift als Werkzeug zu verwenden, da dieser das Subpixel-Antialiasing nicht nutzt und damit tatsächlich harte Kanten nutzt.</p>
-<p>In den folgenden Abschnitten wird erklärt, wie man möglichst genau mit den anderen Werkzeugen arbeitet, im Regelfall reicht dieses Vorgehen für das Ausmalen von Bildern aus. Sollte aufgrund einer geringen Auflösung aber mal tatsächlich pixelgenaues Arbeiten mit harten Kanten notwendig sein, dann sollte zumindest für die Kanten das Stift Werkzeug genutzt werden.</p>
-</section>
-</section>
-<section id="farben-zur-bearbeitung-auswählen" class="level2">
-<h2 class="anchored" data-anchor-id="farben-zur-bearbeitung-auswählen">Farben zur Bearbeitung auswählen</h2>
-<p>Zum Auswählen von Farben gibt es verschiedene Möglichkeiten.</p>
-<ul>
-<li><p>Die erste Funktion findet sich in der Werkzeugleiste links oben in der Ecke: das Pipetten Werkzeug <img src="Bilder_einfarben_Pipette.png" class="img-fluid" width="20"> . Durch Auswahl dieses Werkzeugs ist es möglich per Linksklick Farben aus einem Bild zu extrahieren und die Nutzung durch andere Werkzeuge zu ermöglichen.</p></li>
-<li><p>Die so ausgewählte Farbe ist in den zwei leicht überlappenden Quadraten <img src="Bilder_einfarben_Quadrate.png" class="img-fluid" width="20"> zu sehen; die Farbe im vorne liegenden Quadrat ist die aktive Farbauswahl, die sogenannte Vordergrundfarbe (VG-Farbe). Dementsprechend nennt sich die Farbe im hinteren Quadrat Hintergrundfarbe (HG-Farbe).</p></li>
-<li><p>Eine Farbauswahl kann mit dieser Option auch aus einem anderen Bild übertragen werden. Dazu muss das Bild, welches als Vorlage dienen soll, auch in Gimp geöffnet werden, anschließend wählt man mit der Pipette die gewünschte Farbe aus dem Bild aus und kann über den Reiter oben in der Mitte des Bildschirms wieder zurück zu dem zu bearbeitenden Bild wechseln.</p></li>
-<li><p>Es besteht auch die Möglichkeit 2 Farben auszuwählen und durch den Klick auf die kleinen Pfeile rechts oben neben den Quadraten zwischen ihnen hin und her zu schalten. Um eine zweite Farbe auszuwählen, muss die Option „Hintergrundfarbe festlegen“ im Eigenschaftsfenster des Pipetten Werkzeugs ausgewählt werden oder durch einen Klick auf die Pfeile, rechts oben neben den Quadraten die Farbe, umgeschaltet werden.</p></li>
-</ul>
-<p>Weitere Möglichkeiten der Farbauswahl finden sich, wenn man auf die 2 Quadrate links klickt.</p>
-<ul>
-<li><p>Das Fenster „Vordergrundfarbe ändern“ ermöglicht es über die Reiter links im Fenster sowohl Farben im Farbverlauf auszuwählen als auch über einen CMYK Farbcode (Reiter 2 von links). Rechts im Fenster findet sich die Möglichkeit zur Eingabe eines RGB-Farbcodes. Neben diesen Möglichkeiten bietet das Fenster auch ein Pipetten Werkzeug, welches genauso genutzt werden kann wie das zuvor beschriebene.</p></li>
-<li><p>Mit dem Unterschied, dass die ausgewählte Farbe in eine Farbpalette übertragen und für später gespeichert werden kann; diese erkennt man rechts unten im Fenster. Links daneben findet sich die aktuelle und zuvor ausgewählte Farbe, durch einen Klick auf den Pfeil <img src="Bilder_einfarben_Pfeil.png" class="img-fluid" width="20"> , ist es möglich die aktuelle Farbe in die Palette zu übertragen und für später vorzuhalten.</p></li>
-</ul>
-<p><img src="Bilder_einfarben_Vordergrundfarben.png" class="img-fluid"></p>
-<p>Der große Vorteil der Pipetten Funktion ist, dass nicht jedes Mal Farbcodes eingetragen werden müssen und Vorlagen, wie z.B. das Foto eines Wildschweins wie in unserem Beispiel, als Farbvorlage dienen kann.</p>
-<p><strong>Achtung:</strong></p>
-<ul>
-<li><p>Zu beachten ist, dass die Pipette immer nur gezielt <strong>einen Pixel</strong> auswählt.</p></li>
-<li><p>Bei hochauflösenden Fotos ist es oft so das verschiedene Farbpixel den Farbeindruck gestalten. Will man versuchen diesen Eindruck zu extrahieren kann es sinnvoll sein die Option „Mittelwert bilden“ im Eigenschaftsfenster des Farbpipetten Werkzeuges auszuwählen. Dann wird der gemittelte Farbwert der Umgebenden Pixel verwendet. Dies kann eine Option sein eine gewünschte Farbe aus einem Bild zu extrahieren.</p></li>
-<li><p>Diese Option findet sich nur bei dem Pipettenwerkzeug aus der Werkzeugleiste und kann durch links Klick auf das Kästchen links daneben ausgewählt werden.</p>
-<p><img src="Bilder_einfarben_Farbpipette.png" class="img-fluid"></p></li>
-</ul>
-<p>Generell ist es ratsam bei hochauflösenden Bildern, gerade Fotos auf Pixelebene, ranzuzoomen, um sicher zu gehen, dass man die richtige Farbe auswählt.</p>
-</section>
-<section id="einfärben-mit-dem-pinselwerkzeug" class="level2">
-<h2 class="anchored" data-anchor-id="einfärben-mit-dem-pinselwerkzeug">Einfärben mit dem Pinselwerkzeug</h2>
-<ul>
-<li><p>Das Pinselwerkzeug (neuntes von links in der Werkzeugleiste) <img src="Bilder_einfarben_Pinsel.png" class="img-fluid">[width=20] ist das grundlegende Werkzeug zum Ausmalen von Flächen, es ermöglicht sowohl harte als auch weiche Striche zu ziehen und kann pixelgenau skaliert werden, so dass auch einzelne Pixel farblich verändert werden können.</p></li>
-<li><p>Auch kann es hilfreich sein, um große Flächen schnell einzufärben, wenn diese nicht klar abgetrennt sind.</p></li>
-<li><p>Sollte man versuchen mit dem Pinsel Bereiche auszumalen, dann empfiehlt es sich eine entsprechend große Zoomstufe zu wählen, um detail- bzw. pixelgenau arbeiten zu können.</p></li>
-<li><p>Gerade bei nicht hoch aufgelösten Bildern ist es oft notwendig die Ränder mit dem Pinsel manuell zu bearbeiten, um Pixel mit der falschen Farbe zu färben. Ein schwarzer Pixel in sonst nur roten sticht einfach leicht heraus.</p></li>
-</ul>
-<p>Einstellungen:</p>
-<p><img src="Bilder_einfarben_Pinsel_Einstellungen.png" class="img-fluid"></p>
-<p>Es können verschiedene Einstellungen vorgenommen werden. Der Modus kann in den meisten Fällen auf „Normal“ gelassen werden. Nur in Sonderfällen ist es beim Ausmalen von Bildern sinnvoll die anderen Modi zu benutzen. Die Deckkraft ist in der Regel bei 100 zu setzen, nur wenn weniger Deckkraft gewünscht ist wie z.B. beim Erstellen von Schatten.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
+<p>Menüleiste oben ➔ Bild ➔ Bild skalieren</p>
+<p><img src="Skalieren.jpeg" class="img-fluid"></p>
+<p>Anschließend die gewünscht Anzahl von Pixeln bei Breite oder Höhe eingeben, der jeweils andere Wert wird automatisch angepasst. Anschließend auf „Skalieren“ klicken.</p>
+<p><img src="Skalieren_zwei.jpeg" class="img-fluid"></p>
+<div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Exkurs: Erstellen von Schatten mit dem Pinselwerkzeug
+Wichtig
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Schatten können mit der Pinselfunktion dadurch erstellt werden, dass ein Pinsel mit einer passenden Härte ausgewählt wird, z.B. 75 und die Farbe schwarz ausgewählt wird. Die Deckkraft wird dann reduziert, um den eigentlichen Schatteneffekt zu erzeugen. Dabei ist es abhängig davon, wie dunkel der Schatten sein soll welchen Wert man wählt. Am besten startet man mit 50,0 und bewegt sich dann nach oben oder unten und schaut, was am besten zum Bild passt. Zu beachten ist, dass der Schatten in einem Zug gezeichnet werden sollte, was vielleicht dazu führt, dass der Vorgang etwas schwieriger wird. Das heißt man darf beim Malen des Schattens die linke Maustaste nicht loslassen, man kann über einen Bereich mehrfach drüber gehen, aber nur solange man die Maustaste gedrückt hält, ansonsten übermalt das Werkzeug den zuvor gezeichneten Schatten und dieser wird dunkler.</p>
-<p>Eine Fortgeschrittene Variante nutzt dasselbe Vorgehen, kombiniert es allerdings mit der Ebenen Struktur. Man erstellt also rechts unten in dem entsprechenden Fenster eine neue Ebene. An den Einstellungen der Ebene muss man erstmal nichts verändern. Danach wählt man in dem Feld darüber die neue erstellte Ebene durch einen Linksklick aus und zeichnet auf dieser dann die Schatten auf das Bild. Das hat den Vorteil, dass die Schatten auf einer eigenen Ebene liegen und man die schattierte Farbe im Originalbild noch verändern kann. Für genaue Erläuterungen wie Ebenen funktionieren, siehe Abschnitt 5 (Video 5).</p>
-<p><img src="Bilder_einfarben_Pinsel_Exkurs.png" class="img-fluid"></p>
+<p>Die Klammer im roten Kreis muss geschlossen bleiben, damit die Seitenverhältnisse beibehalten werden. Bei einem Bild, dessen Höhe und Breite gleich ist, ist das zwar irrelevant. Wenn ich aber ein Bild mit z.B. 1200 x 1000 Pixel auf 200 x 200 skaliere, wird das Bild dabei verzerrt.</p>
 </div>
 </div>
-<ul>
-<li><p>Die dritte Option des Reiters dreht sich um die Art des Pinsels, dazu sei gesagt, dass man bis auf die Form des Pinsels alle Einstellungen, die der Pinsel mit sich bringt, verändern kann.</p></li>
-<li><p>Grundsätzlich geht es bei den Grundarten (den runden Pinseln) um den Härtegrad (Härte), welche wir auch manuell verändern könne, je nachdem wie sanft der Übergang zu anderen Farbbereichen sein soll. Die wichtigsten Optionen sind somit die Größe und die Härte.</p></li>
-</ul>
-<p>Die restlichen Eigenschaften werden im Abschnitt Werkzeugeigenschaften erklärt.</p>
-<ul>
-<li><p>In Kombination mit dem Füllen Werkzeug ist es nützlich, um Lücken in Zeichnungen zu schließen und so geschlossene Bereiche zu schaffen die gut von dem Füllen Werkzeug erfasst werden können.</p></li>
-<li><p>Dies ist vor allem dann sinnvoll, wenn zwischen 2 eigentlich getrennt zu färbenden Flächen keine Trennung vorgenommen wurde, wie z.B. bei dem mittleren Baum unseres Beispiels. Die Baumkrone muss eine andere Farbe bekommen als der Baumstamm. Um das zu erreichen, kann man mit dem Pinsel entsprechend eine farbliche Trennlinie einzeichnen und so 2 getrennte und durch das Füllwerkzeug bearbeitbare Bereiche schaffen. Man erspart sich viel Arbeit, wenn man nach diesen Lücken sucht und sie farblich schließt, statt das Bild mit dem Pinsel auszumalen.</p></li>
-<li><p>Wichtig ist dabei sie farblich zu schließen und nicht die Ränder nachzubauen. Oft sind die Lücken Absicht und tragen zur optischen Gestalt des Bildes bei.</p></li>
-</ul>
-<section id="achtung-linienbildung-bei-füll-und-pinsel-werkzeug-in-kombination" class="level3">
-<h3 class="anchored" data-anchor-id="achtung-linienbildung-bei-füll-und-pinsel-werkzeug-in-kombination">Achtung, Linienbildung bei Füll und Pinsel Werkzeug in Kombination</h3>
-<ul>
-<li><p>Aufgrund des Subpixel-Antialiasing von Gimp kommt es dazu, dass sich zwischen dem mit dem Füllwerkzeug nach der Abtrennung gefüllten Bereich und der Trennlinie eine weiße Linie bildet. Diese Linie kann einfach mit dem Pinselwerkzeug in entsprechender Größe übermalt werden.</p></li>
-<li><p>Diese Linienbildung kann vermieden werden, wenn statt des Pinselwerkzeugs das Stiftwerkzeug verwendet wird.</p></li>
-<li><p>Allerdings muss dann der Übergang zu dem benachbarten andersfarbigen Bereich auch nachbearbeitet werden, um keinen harten Übergang zu erzeugen, dies kann je nach Bild aufwendiger sein als die Linie mit dem Pinselwerkzeug nachzuziehen.</p></li>
-</ul>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row quarto-layout-valign-bottom">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="Bilder_einfarben_Linien_eins.png" class="img-fluid"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="Bilder_einfarben_Linien_zwei.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
+<section id="bild-mit-unterschiedlicher-höhe-und-breite-skalieren" class="level3">
+<h3 class="anchored" data-anchor-id="bild-mit-unterschiedlicher-höhe-und-breite-skalieren">Bild mit unterschiedlicher Höhe und Breite skalieren</h3>
 </section>
 </section>
-<section id="einfärben-mit-dem-füllen-werkzeug" class="level2">
-<h2 class="anchored" data-anchor-id="einfärben-mit-dem-füllen-werkzeug">Einfärben mit dem Füllen Werkzeug</h2>
-<section id="hinweis-zum-subpixel-antialiasing" class="level3">
-<h3 class="anchored" data-anchor-id="hinweis-zum-subpixel-antialiasing">Hinweis zum Subpixel-Antialiasing</h3>
-</section>
-</section>
-<section id="bereiche-auswählen-und-bearbeiten" class="level2">
-<h2 class="anchored" data-anchor-id="bereiche-auswählen-und-bearbeiten">Bereiche auswählen und bearbeiten</h2>
-</section>
-<section id="arbeiten-mit-ebenen" class="level2">
-<h2 class="anchored" data-anchor-id="arbeiten-mit-ebenen">Arbeiten mit Ebenen</h2>
-</section>
-<section id="beispiel" class="level2">
-<h2 class="anchored" data-anchor-id="beispiel">Beispiel</h2>
-<section id="erster-arbeitsschritt" class="level3">
-<h3 class="anchored" data-anchor-id="erster-arbeitsschritt">Erster Arbeitsschritt</h3>
-</section>
-<section id="zweiter-arbeitsschritt" class="level3">
-<h3 class="anchored" data-anchor-id="zweiter-arbeitsschritt">Zweiter Arbeitsschritt</h3>
-</section>
-<section id="dritter-arbeitsschritt" class="level3">
-<h3 class="anchored" data-anchor-id="dritter-arbeitsschritt">Dritter Arbeitsschritt</h3>
-</section>
-<section id="vierter-arbeitsschritt" class="level3">
-<h3 class="anchored" data-anchor-id="vierter-arbeitsschritt">Vierter Arbeitsschritt</h3>
-<section id="weichzeichnen" class="level4">
-<h4 class="anchored" data-anchor-id="weichzeichnen">Weichzeichnen</h4>
-</section>
-<section id="bereiche-nachbelichtenabwedeln" class="level4">
-<h4 class="anchored" data-anchor-id="bereiche-nachbelichtenabwedeln">Bereiche Nachbelichten/Abwedeln</h4>
-</section>
-</section>
-<section id="exportieren-von-bilden-als-png-jpg" class="level3">
-<h3 class="anchored" data-anchor-id="exportieren-von-bilden-als-png-jpg">Exportieren von Bilden als PNG / JPG</h3>
+<section id="bild-als-.jpg-oder-.png-exportieren" class="level2">
+<h2 class="anchored" data-anchor-id="bild-als-.jpg-oder-.png-exportieren">Bild als .jpg oder .png exportieren</h2>
 
 
-</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Zurück nach oben</a></main> <!-- /main -->
