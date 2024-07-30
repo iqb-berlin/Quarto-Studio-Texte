@@ -67,7 +67,7 @@ website:
               - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_erweiterten_Modus/index.qmd
               - section: Anlegen von Aufgaben im Standardmodus
                 #Seite für "Anlegen von Aufgaben im Standardmodus" ist im Moment rauskommentiert, kann aber durch Löschen des # und dieser Zeile wieder aktiviert werden
-                #href: Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.qmd
+                href: Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.qmd
                 contents:
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.qmd
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.qmd
