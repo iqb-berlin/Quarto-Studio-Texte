@@ -2,158 +2,166 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/FAQ/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.509Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.370Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.509Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.370Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Kodierschema/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.509Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.370Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Glossar/Video_Medium_Fragment.html</loc>
-    <lastmod>2024-07-29T14:49:58.497Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.358Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Text_ST_Assistent/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.493Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.350Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.477Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.493Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.485Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.509Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/IQB_Konventionen/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.509Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/faq/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/security.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/load-test.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/Studienverhalten_konfigurieren.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/Daten_Download.html</loc>
-    <lastmod>2024-07-29T14:49:58.465Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/System_Check/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/Daten_Upload.html</loc>
-    <lastmod>2024-07-29T14:49:58.465Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.465Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/Vorbetrachtungen.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/faq/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Gruppenmonitor/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/offline.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.521Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_erweiterten_Modus/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.493Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.489Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.485Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.485Z</lastmod>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.346Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.489Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.342Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Tabellen_Assistent/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/IQB_Konventionen/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.370Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/faq/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/security.html</loc>
+    <lastmod>2024-07-30T08:10:36.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/load-test.html</loc>
+    <lastmod>2024-07-30T08:10:36.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/Studienverhalten_konfigurieren.html</loc>
+    <lastmod>2024-07-30T08:10:36.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/Daten_Download.html</loc>
+    <lastmod>2024-07-30T08:10:36.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/System_Check/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/Daten_Upload.html</loc>
+    <lastmod>2024-07-30T08:10:36.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Daten_und_Prozesse/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/Vorbetrachtungen.html</loc>
+    <lastmod>2024-07-30T08:10:36.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Studiendurchfuehrung/faq/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/Gruppenmonitor/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Beispiele/install/offline.html</loc>
+    <lastmod>2024-07-30T08:10:36.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_erweiterten_Modus/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html</loc>
+    <lastmod>2024-07-30T08:10:36.334Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.485Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.342Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Andere_Editoren/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.330Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Glossar/Glossar.html</loc>
-    <lastmod>2024-07-29T14:49:58.497Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.358Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Arbeitsbereiche/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.473Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.330Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Installation/index.html</loc>
-    <lastmod>2024-07-29T14:49:58.509Z</lastmod>
+    <lastmod>2024-07-30T08:10:36.370Z</lastmod>
   </url>
 </urlset>

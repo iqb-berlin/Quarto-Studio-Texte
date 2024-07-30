@@ -81,71 +81,63 @@
     "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\nTextelement Verlinkung"
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html",
-    "title": "Stimulus Audio-Assistent",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html",
+    "title": "Verbundelement Lückentext",
     "section": "",
-    "text": "Der Assistent für einen Stimulus mit Audio, bei dem sich die Instruktion und der Hörtext zusammen in einer Datei befinden, wird mithilfe eines Klicks auf das entsprechende Aufklapp-Menü geöffnet:\n\n\n\nMit einem Klick auf den „Medienquelle ändern“-Knopf, öffnet sich ein Fenster, in dem die gewünschte Datei ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden kann.\n\nWenn gewünscht, kann die maximale Abspielhäufigkeit für dieses Audio eingestellt werden.\n\n\n\n\n\n\nHinweis\n\n\n\nSollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements eine Anzeige mit der bisherigen Anzahl der Audiostarts im Verhältnis zu den maximal verfügbaren Audiostarts generiert. \n\n\n\n\n\n\nNach allen gewünschten Einstellungen wird ein Abschnitt mit Audio durch einen Klick auf „Bestätigen“ generiert (dazu muss ein Audio hochgeladen sein), der Assistent wird automatisch geschlossen (siehe Bild oben). Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Text „Drücke zuerst auf das Dreieck, dann startet das Audio.“ kann nachträglich angepasst werden.\n\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des jeweiligen Audios erscheint automatisch, sofern das Audio fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden."
+    "text": "Mit einem Klick auf das (Verbund-)Element „Lückentext“ wird automatisch ein Lückentext mit generiert. Im rechten Reiter „Eigenschaften“ können Einstellungen im Lückentext vorgenommen werden.\nNeben der Anpassung der ID (hier: „cloze_1“) können mit einem Klick auf den „Text und Elemente editieren“-Knopf die Inhalte des Lückentextes editiert werden. Außerdem lässt dich ganz unten noch die Maximalbreite des gesamten Lückentextes einstellen.\nEin Lückentext kann Text enthalten und außerdem 5 verschiedene Elemente innerhalb des Textes, die sich über Anklicken des jeweiligen Elements oben einfügen lassen. Diese Elemente lassen sich nach Speichern des Lückentextes rechts in den Einstellungen anpassen. Dafür muss dann jeweils das gewünscht Element im Lückentext angeklickt werden."
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#audio",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#audio",
-    "title": "Stimulus Audio-Assistent",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#eingabefeld",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#eingabefeld",
+    "title": "Verbundelement Lückentext",
+    "section": "Eingabefeld",
+    "text": "Eingabefeld\nDer „klassische“ Lückentext – SuS können, wie bei normalen Eingabefelder, Text eintragen. Außer der ID, Schreibschutz und einer Vorbelegung für Beispiele kann auch noch die Breite des Eingabefelds eingestellt werden. Siehe auch Fragment Eingabefeld für genauere Erklärungen"
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#ablegeliste",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#ablegeliste",
+    "title": "Verbundelement Lückentext",
+    "section": "Ablegeliste",
+    "text": "Ablegeliste\nMit Ablegelisten können Zuordnungsaufgaben in Lückentexten angelegt werden.\nGenauso wie auch bei den Eingabefeldern muss auch hier eine feste Breite eingestellt werden.\nZu den Einstellungsmöglichkeiten von Ablegelisten siehe Fragment Ablegelisten im Glossar."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#optionsfeld",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#optionsfeld",
+    "title": "Verbundelement Lückentext",
+    "section": "Optionsfeld",
+    "text": "Optionsfeld\nMit Optionsfeldern können MC-Aufgabe in Lückentexten angelegt werden. Dabei kann entweder eine richtige Antwort farbig markiert oder eine falsche Antwort durchgestrichen werden. Dazu muss dann der Haken „Gewählte Option durchstreichen“ gesetzt werden.\n\n\nSiehe auch Fragment Optionsfelder Text für genauere Erklärungen."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#knopf",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#knopf",
+    "title": "Verbundelement Lückentext",
+    "section": "Knopf",
+    "text": "Knopf\nMit dem Knopf können Tooltipps als Knopf, Bild oder Hyperlinks angelegt werden.\n\nDazu muss nach dem Anlegen rechts in den Einstellungen ein Tooltipp-Text festgelegt werden.\n\nGenauso wie auch bei den Eingabefeldern muss auch hier eine feste Breite eingestellt werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#kontrollkästchen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#kontrollkästchen",
+    "title": "Verbundelement Lückentext",
+    "section": "Kontrollkästchen",
+    "text": "Kontrollkästchen\nMit den Kontrollkästchen können einzelne Wörter durchstreichbar gemacht werden. Durch Wiederanklicken des durchgestrichenen Worts können SuS die Durchstreichung wieder aufheben.\nAußer der ID, der Beschriftung (das durchzustreichende Wort), einem Schreibschutz und einer Vorbelegung (durchgestrichen = wahr) für Beispiele kann auch noch eine Maximalbreite eingestellt werden (hier nicht empfohlen)."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html",
+    "title": "Beispiele",
     "section": "",
-    "text": "Mit einem Klick auf den „Medienquelle ändern“-Knopf, öffnet sich ein Fenster, in dem die gewünschte Datei ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden kann.\n\nWenn gewünscht, kann die maximale Abspielhäufigkeit für dieses Audio eingestellt werden.\n\n\n\n\n\n\nHinweis\n\n\n\nSollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements eine Anzeige mit der bisherigen Anzahl der Audiostarts im Verhältnis zu den maximal verfügbaren Audiostarts generiert."
+    "text": "Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Beispiele"
+    ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#bestätigenabbrechen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#bestätigenabbrechen",
-    "title": "Stimulus Audio-Assistent",
-    "section": "",
-    "text": "Nach allen gewünschten Einstellungen wird ein Abschnitt mit Audio durch einen Klick auf „Bestätigen“ generiert (dazu muss ein Audio hochgeladen sein), der Assistent wird automatisch geschlossen (siehe Bild oben). Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Text „Drücke zuerst auf das Dreieck, dann startet das Audio.“ kann nachträglich angepasst werden.\n\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des jeweiligen Audios erscheint automatisch, sofern das Audio fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#instruktionsaudio",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#instruktionsaudio",
-    "title": "Stimulus Audio-Assistent",
-    "section": "Instruktionsaudio",
-    "text": "Instruktionsaudio\nMit einem Klick auf den „Medienquelle ändern“-Knopf, öffnet sich ein Fenster, in dem die gewünschte Datei ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden kann.\n\nWenn gewünscht, kann die maximale Abspielhäufigkeit für dieses Audio eingestellt werden.\n\n\n\n\n\n\nHinweis\n\n\n\nSollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements eine Anzeige mit der bisherigen Anzahl der Audiostarts im Verhältnis zu den maximal verfügbaren Audiostarts generiert."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#stimulusaudio",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#stimulusaudio",
-    "title": "Stimulus Audio-Assistent",
-    "section": "Stimulusaudio",
-    "text": "Stimulusaudio\nDie Einstellungen können wie beim Instruktionsvideo-Verlinkung getätigt werden."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#sprache",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#sprache",
-    "title": "Stimulus Audio-Assistent",
-    "section": "Sprache",
-    "text": "Sprache\nIm Aufklapp-Menü lässt sich die Sprache der Beschriftung der Audios auswählen.\n\n\n\n\nAuswahl\nBeschriftung der Audios\n\n\n\n\ndeutsch\nInstruktion, Hörtext\n\n\nenglisch\nInstruction, audio recording\n\n\nfranzösisch\nl’instruction, texte audio"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#situierung-frage-operator-hinweise-o.-ä.",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#situierung-frage-operator-hinweise-o.-ä.",
-    "title": "Stimulus Audio-Assistent",
-    "section": "Situierung, Frage, Operator, Hinweise, o. Ä.",
-    "text": "Situierung, Frage, Operator, Hinweise, o. Ä.\nDer eingetragene Text im Textelement kann im Assistenten editiert werden. Absatzabstände sind bereits voreingestellt, der Text muss nur inhaltlich angepasst werden."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#bestätigenabbrechen-1",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#bestätigenabbrechen-1",
-    "title": "Stimulus Audio-Assistent",
-    "section": "Bestätigen/Abbrechen",
-    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein Abschnitt mit beiden Audios und Situierungstext durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss jeweils noch ein Audio hochgeladen und die Sprache ausgewählt werden.\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des jeweiligen Audios erscheint automatisch, sofern das Audio fünf Sekunden nach Betreten der Seite bzw. nach dem Abspielen des vorherigen Audios nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden.\n\n\nEditieren Verlinkung"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.html",
-    "title": "Studio Anlegen",
-    "section": "",
-    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n\n\n\n  \n    \n      TBA - Einführung\n      \n        Verstehen und Anwenden: Die Webanwendungen des IQB zum computerbasierten Testen.\n      \n      \n        \n      \n    \n  \n\n\nKeine Treffer\n\n Zurück nach oben"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
     "title": "Studio Anlegen",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
@@ -157,69 +149,115 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#text",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#text",
-    "title": "CMC Assistent",
-    "section": "Text",
-    "text": "Text\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "",
+    "text": "Für diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Zuordnung.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#satzanfang-optional",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#satzanfang-optional",
-    "title": "CMC Assistent",
-    "section": "Satzanfang (optional)",
-    "text": "Satzanfang (optional)\n\nDas Einfügen eines Satzanfanges ist optional. Der Text kann (ohne weitere Ausgestaltungsoptionen) editiert werden. Wird kein Text eingetragen, erscheint auch im CMC kein Satzanfang.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#ausrichtung",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#ausrichtung",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Ausrichtung",
+    "text": "Ausrichtung\n\nDer Haken bei Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben) muss gesetzt werden! Für die andere Auswahl siehe vorherige Anleitung Link einfügen.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
-    "title": "CMC Assistent",
-    "section": "Optionen",
-    "text": "Optionen\n\nOptionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen.\nEingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#frageinstruktion",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#frageinstruktion",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Frage/Instruktion",
+    "text": "Frage/Instruktion\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
-    "title": "CMC Assistent",
-    "section": "Zeilen",
-    "text": "Zeilen\n\nDie Zeilen sind Teilfragen/Teilaussagen, über die jeweils entschieden werden soll.\nEingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-elementliste",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-elementliste",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Überschrift Elementliste",
+    "text": "Überschrift Elementliste\n\nHier kann eine Überschrift für die zu verschiebenden Elemente eingetragen werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
-    "title": "CMC Assistent",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#elemente",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#elemente",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Elemente",
+    "text": "Elemente\n\nHier werden die zu verschiedenen Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Elementlisten und Ziellisten.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-ziellisten",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-ziellisten",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Überschrift Ziellisten",
+    "text": "Überschrift Ziellisten\n\nHier kann eine Überschrift für die Zielbeschriftungen eingetragen werden.\nDiesen Zielbeschriftungen sollen dann von den SuS die Elemente zugeordnet werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#zielbeschriftung",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#zielbeschriftung",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Zielbeschriftung",
+    "text": "Zielbeschriftung\n\nHier werden die Zielbeschriftungen eingetragen. Dazu wird eine Zielbeschriftung nach der anderen oben bei „Neue Zielbeschriftung“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Zielbeschriftungen können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Zielbeschriftungen aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe den Platz für die Zielbeschriftungen links.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#bestätigenabbrechen",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
     "section": "Bestätigen/Abbrechen",
-    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein DaD durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss jeweils noch eine Auswahl über die ungefähre Länge der Elemente und Zielbeschriftungen getroffen werden. Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
     ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Tabellen_Assistent/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Tabellen_Assistent/index.html",
+    "title": "Verbundelement Tabelle",
+    "section": "",
+    "text": "Mit einem Klick auf das (Verbund-)Element „Tabelle“ wird automatisch eine Tabelle mit jeweils zwei Spalten und Zeilen generiert. Im rechten Reiter „Eigenschaften“ können vielfältige Einstellungen im Tabellenelement („toolbox.table“) vorgenommen werden.\nNeben der Anpassung der ID (hier: „table_1“) können mit einem Klick auf den „Elemente anpassen“-Knopf in einzelne Tabellenzellen Elemente aus dem Editor eingefügt werden.\n\n\n\n\n\n\nHinweis\n\n\n\nDas sich öffnende Menü für die Auswahl der Tabellenelemente kann auch über einen Doppelklick auf die Tabelle geöffnet werden.\n\n\n\nNach einem Klick auf das gewünschte Element, wird in die Tabelle dieses Element eingefügt. Es lässt sich ein Element pro Tabellenzelle einfügen.\nJedes angeklickte Element, das in eine Tabellenzelle eingefügt wurde, kann im rechten Reiter „Eigenschaften“ separat editiert werden (siehe dazu Anleitungen (oder wie es dann heißt; hier müsste auf jeden Fall eine Verlinkung auf die Kachelansicht)).\n\n\n\n\n\n\nTipp\n\n\n\nSind Elemente in Tabellenzellen eingefügt, kann es gezielter Klick auf das Tabellenelement an sich (z. B. um es anzupassen) schwierig sein. Mit einem Klick auf den ersten pinken Knopf am Abschnitt, kann gezielter die Tabelle (hier wird dann die jeweilige ID angezeigt) ausgewählt werden.\n\n\n\nIn den Eigenschaften der Tabelle (rechter Reiter) kann die Anzahl der Zeilen und Spalten und deren Anteile oder Bildpunkte angepasst werden.\n\n\n\n\n\n\n\n\n\n\n\n\n\nEbenso lassen sich mit dem Setzen eines Häkchens bei „Tabellenränder zeichnen“:\n\n\n\n\n\n\n\n\n\nohne Tabellenränder\n\n\n\n\n\n\n\nmit Tabellenrändern\n\n\n\n\n\nDarüber hinaus lässt sich mit der Maximalbreite einstellen, wie breit (in Pixeln) die Tabelle maximal sein soll. Dies kann nützlich sein, wenn die Eintragungen oder Elemente in den einzelnen Tabellenzellen sehr kurz sind. Die Breite der Tabelle ist automatisch bereits durch die Breite der Seite begrenzt.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.\n\nBeispiel:\n\n\n\n\n\n\n\n\n\nohne Einstellen einer Maximalbreite\n\n\n\n\n\n\n\nMaximalbreite 300\n\n\n\n\n\nVerlinkungen Fragmente: Textelement, Eingabefeld, Kontrollkästchen, Ablageliste, Bild, Audio\n\n\n\n Zurück nach oben"
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.html",
@@ -967,112 +1005,73 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "",
-    "text": "Für diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Zuordnung.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#text",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#text",
+    "title": "CMC Assistent",
+    "section": "Text",
+    "text": "Text\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#ausrichtung",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#ausrichtung",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Ausrichtung",
-    "text": "Ausrichtung\n\nDer Haken bei Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben) muss gesetzt werden! Für die andere Auswahl siehe vorherige Anleitung Link einfügen.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#satzanfang-optional",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#satzanfang-optional",
+    "title": "CMC Assistent",
+    "section": "Satzanfang (optional)",
+    "text": "Satzanfang (optional)\n\nDas Einfügen eines Satzanfanges ist optional. Der Text kann (ohne weitere Ausgestaltungsoptionen) editiert werden. Wird kein Text eingetragen, erscheint auch im CMC kein Satzanfang.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#frageinstruktion",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#frageinstruktion",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Frage/Instruktion",
-    "text": "Frage/Instruktion\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
+    "title": "CMC Assistent",
+    "section": "Optionen",
+    "text": "Optionen\n\nOptionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen.\nEingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-elementliste",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-elementliste",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Überschrift Elementliste",
-    "text": "Überschrift Elementliste\n\nHier kann eine Überschrift für die zu verschiebenden Elemente eingetragen werden.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
+    "title": "CMC Assistent",
+    "section": "Zeilen",
+    "text": "Zeilen\n\nDie Zeilen sind Teilfragen/Teilaussagen, über die jeweils entschieden werden soll.\nEingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#elemente",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#elemente",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Elemente",
-    "text": "Elemente\n\nHier werden die zu verschiedenen Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Elementlisten und Ziellisten.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-ziellisten",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-ziellisten",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Überschrift Ziellisten",
-    "text": "Überschrift Ziellisten\n\nHier kann eine Überschrift für die Zielbeschriftungen eingetragen werden.\nDiesen Zielbeschriftungen sollen dann von den SuS die Elemente zugeordnet werden.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#zielbeschriftung",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#zielbeschriftung",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Zielbeschriftung",
-    "text": "Zielbeschriftung\n\nHier werden die Zielbeschriftungen eingetragen. Dazu wird eine Zielbeschriftung nach der anderen oben bei „Neue Zielbeschriftung“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Zielbeschriftungen können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Zielbeschriftungen aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe den Platz für die Zielbeschriftungen links.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#bestätigenabbrechen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#bestätigenabbrechen",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
+    "title": "CMC Assistent",
     "section": "Bestätigen/Abbrechen",
-    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein DaD durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss jeweils noch eine Auswahl über die ungefähre Länge der Elemente und Zielbeschriftungen getroffen werden. Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
     "title": "Studio Anlegen",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
@@ -1084,17 +1083,67 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html",
-    "title": "Beispiele",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/index.html",
+    "title": "Studio Anlegen",
     "section": "",
-    "text": "Zurück nach oben",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Beispiele"
-    ]
+    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n\n\n\n  \n    \n      TBA - Einführung\n      \n        Verstehen und Anwenden: Die Webanwendungen des IQB zum computerbasierten Testen.\n      \n      \n        \n      \n    \n  \n\n\nKeine Treffer\n\n Zurück nach oben"
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html",
+    "title": "Stimulus Audio-Assistent",
+    "section": "",
+    "text": "Der Assistent für einen Stimulus mit Audio, bei dem sich die Instruktion und der Hörtext zusammen in einer Datei befinden, wird mithilfe eines Klicks auf das entsprechende Aufklapp-Menü geöffnet:\n\n\n\nMit einem Klick auf den „Medienquelle ändern“-Knopf, öffnet sich ein Fenster, in dem die gewünschte Datei ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden kann.\n\nWenn gewünscht, kann die maximale Abspielhäufigkeit für dieses Audio eingestellt werden.\n\n\n\n\n\n\nHinweis\n\n\n\nSollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements eine Anzeige mit der bisherigen Anzahl der Audiostarts im Verhältnis zu den maximal verfügbaren Audiostarts generiert. \n\n\n\n\n\n\nNach allen gewünschten Einstellungen wird ein Abschnitt mit Audio durch einen Klick auf „Bestätigen“ generiert (dazu muss ein Audio hochgeladen sein), der Assistent wird automatisch geschlossen (siehe Bild oben). Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Text „Drücke zuerst auf das Dreieck, dann startet das Audio.“ kann nachträglich angepasst werden.\n\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des jeweiligen Audios erscheint automatisch, sofern das Audio fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#audio",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#audio",
+    "title": "Stimulus Audio-Assistent",
+    "section": "",
+    "text": "Mit einem Klick auf den „Medienquelle ändern“-Knopf, öffnet sich ein Fenster, in dem die gewünschte Datei ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden kann.\n\nWenn gewünscht, kann die maximale Abspielhäufigkeit für dieses Audio eingestellt werden.\n\n\n\n\n\n\nHinweis\n\n\n\nSollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements eine Anzeige mit der bisherigen Anzahl der Audiostarts im Verhältnis zu den maximal verfügbaren Audiostarts generiert."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#bestätigenabbrechen",
+    "title": "Stimulus Audio-Assistent",
+    "section": "",
+    "text": "Nach allen gewünschten Einstellungen wird ein Abschnitt mit Audio durch einen Klick auf „Bestätigen“ generiert (dazu muss ein Audio hochgeladen sein), der Assistent wird automatisch geschlossen (siehe Bild oben). Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Text „Drücke zuerst auf das Dreieck, dann startet das Audio.“ kann nachträglich angepasst werden.\n\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des jeweiligen Audios erscheint automatisch, sofern das Audio fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#instruktionsaudio",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#instruktionsaudio",
+    "title": "Stimulus Audio-Assistent",
+    "section": "Instruktionsaudio",
+    "text": "Instruktionsaudio\nMit einem Klick auf den „Medienquelle ändern“-Knopf, öffnet sich ein Fenster, in dem die gewünschte Datei ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden kann.\n\nWenn gewünscht, kann die maximale Abspielhäufigkeit für dieses Audio eingestellt werden.\n\n\n\n\n\n\nHinweis\n\n\n\nSollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements eine Anzeige mit der bisherigen Anzahl der Audiostarts im Verhältnis zu den maximal verfügbaren Audiostarts generiert."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#stimulusaudio",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#stimulusaudio",
+    "title": "Stimulus Audio-Assistent",
+    "section": "Stimulusaudio",
+    "text": "Stimulusaudio\nDie Einstellungen können wie beim Instruktionsvideo-Verlinkung getätigt werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#sprache",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#sprache",
+    "title": "Stimulus Audio-Assistent",
+    "section": "Sprache",
+    "text": "Sprache\nIm Aufklapp-Menü lässt sich die Sprache der Beschriftung der Audios auswählen.\n\n\n\n\nAuswahl\nBeschriftung der Audios\n\n\n\n\ndeutsch\nInstruktion, Hörtext\n\n\nenglisch\nInstruction, audio recording\n\n\nfranzösisch\nl’instruction, texte audio"
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#situierung-frage-operator-hinweise-o.-ä.",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#situierung-frage-operator-hinweise-o.-ä.",
+    "title": "Stimulus Audio-Assistent",
+    "section": "Situierung, Frage, Operator, Hinweise, o. Ä.",
+    "text": "Situierung, Frage, Operator, Hinweise, o. Ä.\nDer eingetragene Text im Textelement kann im Assistenten editiert werden. Absatzabstände sind bereits voreingestellt, der Text muss nur inhaltlich angepasst werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#bestätigenabbrechen-1",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html#bestätigenabbrechen-1",
+    "title": "Stimulus Audio-Assistent",
+    "section": "Bestätigen/Abbrechen",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein Abschnitt mit beiden Audios und Situierungstext durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss jeweils noch ein Audio hochgeladen und die Sprache ausgewählt werden.\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des jeweiligen Audios erscheint automatisch, sofern das Audio fünf Sekunden nach Betreten der Seite bzw. nach dem Abspielen des vorherigen Audios nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden.\n\n\nEditieren Verlinkung"
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.html",
