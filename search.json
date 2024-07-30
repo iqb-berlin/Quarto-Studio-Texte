@@ -136,8 +136,43 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html",
+    "title": "Rechenkästchen Assistent",
+    "section": "",
+    "text": "Um eine Additionsaufgabe zu erstellen, muss bei „Rechenart“ beim Ausklappmenü „Addition“ ausgewählt werden:\n\n\n\n\n\nTerme können mittels eines Klicks in das jeweilige Feld eingetragen werden. Mit einem Klick auf das + - Symbol („Termzeile hinzufügen“) können weitere Termzeilen eingefügt, mit einem Klick auf das X – Symbol können Termzeilen entfernt werden.\n\n\n\n\n\nNach allen gewünschten Einstellungen wird das Rechenkästchen durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Text „Rechne schriftlich.“ kann nachträglich angepasst werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html#anlegen-eines-additions-items-mit-dem-rechenkästchen-assistenten",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html#anlegen-eines-additions-items-mit-dem-rechenkästchen-assistenten",
+    "title": "Rechenkästchen Assistent",
+    "section": "",
+    "text": "Um eine Additionsaufgabe zu erstellen, muss bei „Rechenart“ beim Ausklappmenü „Addition“ ausgewählt werden:\n\n\n\n\n\nTerme können mittels eines Klicks in das jeweilige Feld eingetragen werden. Mit einem Klick auf das + - Symbol („Termzeile hinzufügen“) können weitere Termzeilen eingefügt, mit einem Klick auf das X – Symbol können Termzeilen entfernt werden.\n\n\n\n\n\nNach allen gewünschten Einstellungen wird das Rechenkästchen durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Text „Rechne schriftlich.“ kann nachträglich angepasst werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html#anlegen-eines-subtraktion-items-mit-dem-rechenkästchen-assistenten",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html#anlegen-eines-subtraktion-items-mit-dem-rechenkästchen-assistenten",
+    "title": "Rechenkästchen Assistent",
+    "section": "Anlegen eines Subtraktion-Items mit dem Rechenkästchen-Assistenten",
+    "text": "Anlegen eines Subtraktion-Items mit dem Rechenkästchen-Assistenten\n\nUm eine Subtraktionsaufgabe zu erstellen, muss bei „Rechenart“ beim Ausklappmenü „Subtraktion“ ausgewählt werden:\n\n\nTermzeilen\n\nTerme können mittels eines Klicks in das jeweilige Feld eingetragen werden. Mit einem Klick auf das + - Symbol („Termzeile hinzufügen“) können weitere Termzeilen eingefügt, mit einem Klick auf das X – Symbol können Termzeilen entfernt werden.\n\n\n\nBestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird das Rechenkästchen durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss mindestens noch eine Rechenart/Operation ausgewählt werden.\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Text „Rechne schriftlich.“ kann nachträglich im Standardmodus angepasst werden. Der automatisch generierte Tooltipp „In den kleinen Feldern oberhalb der Rechnung kannst du mehrstellige Überträge eintragen. Wenn du einen Übertrag durchstreichen möchtest, drücke zweimal hintereinander auf das jeweilige Feld.“ kann nur im erweiterten Modus angepasst werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html#anlegen-eines-multiplikation-items-mit-mehrstelligen-zahlen-mit-dem-rechenkästchen-assistenten",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html#anlegen-eines-multiplikation-items-mit-mehrstelligen-zahlen-mit-dem-rechenkästchen-assistenten",
+    "title": "Rechenkästchen Assistent",
+    "section": "Anlegen eines Multiplikation-Items mit mehrstelligen Zahlen mit dem Rechenkästchen-Assistenten",
+    "text": "Anlegen eines Multiplikation-Items mit mehrstelligen Zahlen mit dem Rechenkästchen-Assistenten\n\nUm eine Multiplikationsaufgabe mit mehrstelligen Zahlen zu erstellen, muss bei „Rechenart“ beim Ausklappmenü „Multiplikation mit mehrstelligen Zahlen“ ausgewählt werden:\n\n\nTermzeilen\n\nTerme können mittels eines Klicks in das jeweilige Feld eingetragen werden. Mit einem Klick auf das X – Symbol können Termzeilen entfernt werden, es können maximal zwei Termzeilen für ein Item generiert werden.\n\n\nBestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird das Rechenkästchen durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss mindestens noch eine Rechenart/Operation ausgewählt werden.\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\n\n\n\n\n\n\nHinweis\n\n\n\nDie bei der Itemerstellung automatisch generierten Texte „Rechne schriftlich.“ und der Tipp kann nachträglich angepasst werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html#editieren-der-rechenkästchen-elemente",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html#editieren-der-rechenkästchen-elemente",
+    "title": "Rechenkästchen Assistent",
+    "section": "Editieren der Rechenkästchen-Elemente",
+    "text": "Editieren der Rechenkästchen-Elemente\n[Textelement Verlinkung]\nIm rechten Reiter „Eigenschaften“ lässt sich nach einem Klick auf das Rechenkästchen-Element selbiges editieren.\n\nIm ersten Teil lassen sich die ID (hier „math-table_1“) und die Termzeilen anpassen.\nIm unteren Teil lässt sich die untere Hilfszeile und die Ergebniszeile editieren:\n\nDie Größe der automatisch generierten Rechenkästchen ist IQB-Standard. Mit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Rechenkästchen-Item maximal sein soll. Dadurch verändert sich auch die Größe der einzelnen Rechenkästchen. Um nicht vom IQB-Standard abzuweichen, sollte diese Einstellung nur in begründeten Ausnahmefällen genutzt werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
     "title": "Studio Anlegen",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
@@ -149,107 +184,68 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "",
-    "text": "Für diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Zuordnung.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#text",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#text",
+    "title": "CMC Assistent",
+    "section": "Text",
+    "text": "Text\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#ausrichtung",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#ausrichtung",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Ausrichtung",
-    "text": "Ausrichtung\n\nDer Haken bei Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben) muss gesetzt werden! Für die andere Auswahl siehe vorherige Anleitung Link einfügen.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#satzanfang-optional",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#satzanfang-optional",
+    "title": "CMC Assistent",
+    "section": "Satzanfang (optional)",
+    "text": "Satzanfang (optional)\n\nDas Einfügen eines Satzanfanges ist optional. Der Text kann (ohne weitere Ausgestaltungsoptionen) editiert werden. Wird kein Text eingetragen, erscheint auch im CMC kein Satzanfang.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#frageinstruktion",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#frageinstruktion",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Frage/Instruktion",
-    "text": "Frage/Instruktion\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
+    "title": "CMC Assistent",
+    "section": "Optionen",
+    "text": "Optionen\n\nOptionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen.\nEingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-elementliste",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-elementliste",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Überschrift Elementliste",
-    "text": "Überschrift Elementliste\n\nHier kann eine Überschrift für die zu verschiebenden Elemente eingetragen werden.",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
+    "title": "CMC Assistent",
+    "section": "Zeilen",
+    "text": "Zeilen\n\nDie Zeilen sind Teilfragen/Teilaussagen, über die jeweils entschieden werden soll.\nEingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#elemente",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#elemente",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Elemente",
-    "text": "Elemente\n\nHier werden die zu verschiedenen Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Elementlisten und Ziellisten.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-ziellisten",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-ziellisten",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Überschrift Ziellisten",
-    "text": "Überschrift Ziellisten\n\nHier kann eine Überschrift für die Zielbeschriftungen eingetragen werden.\nDiesen Zielbeschriftungen sollen dann von den SuS die Elemente zugeordnet werden.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#zielbeschriftung",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#zielbeschriftung",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
-    "section": "Zielbeschriftung",
-    "text": "Zielbeschriftung\n\nHier werden die Zielbeschriftungen eingetragen. Dazu wird eine Zielbeschriftung nach der anderen oben bei „Neue Zielbeschriftung“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Zielbeschriftungen können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Zielbeschriftungen aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe den Platz für die Zielbeschriftungen links.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#bestätigenabbrechen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#bestätigenabbrechen",
-    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
+    "title": "CMC Assistent",
     "section": "Bestätigen/Abbrechen",
-    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein DaD durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss jeweils noch eine Auswahl über die ungefähre Länge der Elemente und Zielbeschriftungen getroffen werden. Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+      "CMC Assistent"
     ]
   },
   {
@@ -1005,73 +1001,147 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#text",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#text",
-    "title": "CMC Assistent",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#text",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#text",
+    "title": "GeoGebra Assistent",
     "section": "Text",
-    "text": "Text\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
-    ]
+    "text": "Text\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden."
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#satzanfang-optional",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#satzanfang-optional",
-    "title": "CMC Assistent",
-    "section": "Satzanfang (optional)",
-    "text": "Satzanfang (optional)\n\nDas Einfügen eines Satzanfanges ist optional. Der Text kann (ohne weitere Ausgestaltungsoptionen) editiert werden. Wird kein Text eingetragen, erscheint auch im CMC kein Satzanfang.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
-    ]
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#geogebra-datei",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#geogebra-datei",
+    "title": "GeoGebra Assistent",
+    "section": "GeoGebra-Datei",
+    "text": "GeoGebra-Datei\nMit einem Klick auf das Stiftsymbol öffnet sich ein Fenster, in dem die GeoGebra-Datei ausgewählt und durch einen Klick auf „Öffnen“ im IQB-Studio hochgeladen wird. Nach erfolgreicher Auswahl der GeoGebra-Datei wechselt der Text auf „Definition vorhanden“."
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#optionen",
-    "title": "CMC Assistent",
-    "section": "Optionen",
-    "text": "Optionen\n\nOptionen (z. B. „stimmt/stimmt nicht“ oder „ja/nein“) werden als auswählbare und sich ausschließende Kategorien eingetragen.\nEingetragene Worte bei „Neue Option“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
-    ]
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#tooltipp",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#tooltipp",
+    "title": "GeoGebra Assistent",
+    "section": "Tooltipp",
+    "text": "Tooltipp\n\n\n\n\n\n\nHinweis\n\n\n\nAufgrund der Schwierigkeit des Aufgabenformats, wird bei Zeichenaufgaben die Verwendung des Tooltipps (Standardeinstellung) empfohlen.\n\n\nDer Tooltipp ist eine Schnellinfo/eine Kurzanleitung. Der Tooltipp-Text wird am Laptop/PC angezeigt, wenn sich der Mauszeiger auf der Glühbirne befindet. Am Tablet/Touchscreen ist zum Anzeigen ein aktives Tippen notwendig. Der Tooltipp-Text blendet sich dann nach erneutem Tippen auf die Glühbirne bzw. nach wenigen Sekunden automatisch wieder aus. Er kann beliebig oft aktiviert werden.\nSoll ein Tooltipp beim Item eingeblendet werden, muss das Häkchen bei „Anzeigen“ gesetzt bleiben. Wird kein Tooltipp gewünscht, muss das Häkchen bei „Anzeigen“ entfernt werden:"
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#zeilen",
-    "title": "CMC Assistent",
-    "section": "Zeilen",
-    "text": "Zeilen\n\nDie Zeilen sind Teilfragen/Teilaussagen, über die jeweils entschieden werden soll.\nEingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, indem auf das  - Symbol geklickt wird. Stattdessen kann auch ein Bild über das Bild-Symbol  eingefügt werden. Die Worte, die unter der jeweiligen Eingabemaske abgebildet sind, erscheinen dann im CMC. Eingetragenes lässt sich mithilfe eines Klicks auf das Schraubenschlüssel-Symbol  anpassen und mithilfe eines Klicks auf das  – Symbol auch löschen.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.html#bestätigenabbrechen",
-    "title": "CMC Assistent",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#bestätigenabbrechen",
+    "title": "GeoGebra Assistent",
     "section": "Bestätigen/Abbrechen",
-    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein GeoGebra-Item durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#editieren-eines-geogebra-items",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#editieren-eines-geogebra-items",
+    "title": "GeoGebra Assistent",
+    "section": "Editieren eines GeoGebra-Items",
+    "text": "Editieren eines GeoGebra-Items\nVerlinkung Textelment\nMit einem Klick auf die GeoGebra-Datei im Editor, öffnet sich im rechten Reiter „Eigenschaften“ das GeoGebra-Element, in dem Anpassungen vorgenommen werden können.\nIm ersten Teil lässt sich die ID (hier „geometry_2“) editieren und mit einem Klick auf das Stift-Symbol auch die vorhandene GeoGebra-Datei ersetzen.\n\nIm Aufklapp-Menü „Ergebnisvariablen“ können die für die Auswertung relevanten Variablen in GeoGebra ausgewählt werden. Diese werden dann gesondert aus der GeoGebra ausgelesen.\n\nIm unteren Teil können noch Breite und Höhe des GeoGebra-Elements eingestellt werden. Dies verändert hier nicht nur die Breite und Höhe des Elements, sondern auch die Größe des angezeigten Ausschnitts aus der GeoGebra-Datei. Falls der gewünschte Ausschnitt nicht in die gewünschte Größe passt, muss er in GeoGebra verkleinert werden. Siehe dazu GGB-Anleitung Verlinkung\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Quellen-Text kann nachträglich angepasst werden (Link zum Textelement). Sollte keine Quelle nötig sein, kann das Element gelöscht werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "",
+    "text": "Für diesen Assistenten muss erst der Assistent Drag & Drop einseitig ausgewählt werden, dann dort der Reiter Zuordnung.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "CMC Assistent"
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.html",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#ausrichtung",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#ausrichtung",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Ausrichtung",
+    "text": "Ausrichtung\n\nDer Haken bei Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben) muss gesetzt werden! Für die andere Auswahl siehe vorherige Anleitung Link einfügen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#frageinstruktion",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#frageinstruktion",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Frage/Instruktion",
+    "text": "Frage/Instruktion\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-elementliste",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-elementliste",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Überschrift Elementliste",
+    "text": "Überschrift Elementliste\n\nHier kann eine Überschrift für die zu verschiebenden Elemente eingetragen werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#elemente",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#elemente",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Elemente",
+    "text": "Elemente\n\nHier werden die zu verschiedenen Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Elementlisten und Ziellisten.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-ziellisten",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#überschrift-ziellisten",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Überschrift Ziellisten",
+    "text": "Überschrift Ziellisten\n\nHier kann eine Überschrift für die Zielbeschriftungen eingetragen werden.\nDiesen Zielbeschriftungen sollen dann von den SuS die Elemente zugeordnet werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#zielbeschriftung",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#zielbeschriftung",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Zielbeschriftung",
+    "text": "Zielbeschriftung\n\nHier werden die Zielbeschriftungen eingetragen. Dazu wird eine Zielbeschriftung nach der anderen oben bei „Neue Zielbeschriftung“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Zielbeschriftungen können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Zielbeschriftungen aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe den Platz für die Zielbeschriftungen links.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#bestätigenabbrechen",
+    "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
+    "section": "Bestätigen/Abbrechen",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein DaD durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss jeweils noch eine Auswahl über die ungefähre Länge der Elemente und Zielbeschriftungen getroffen werden. Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.html",
     "title": "Studio Anlegen",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
