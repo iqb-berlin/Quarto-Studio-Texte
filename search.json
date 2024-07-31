@@ -2,12 +2,12 @@
   {
     "objectID": "Studio/FAQ/index.html",
     "href": "Studio/FAQ/index.html",
-    "title": "Studio Überblick",
+    "title": "FAQ",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Studio",
-      "Studio Überblick"
+      "FAQ"
     ]
   },
   {
@@ -23,90 +23,13 @@
   {
     "objectID": "Studio/Kodierschema/index.html",
     "href": "Studio/Kodierschema/index.html",
-    "title": "Studio Überblick",
+    "title": "Kodierschema",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Studio",
-      "Studio Überblick"
+      "Kodierschema"
     ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html",
-    "title": "How to: Bilder einfärben",
-    "section": "",
-    "text": "Das How To wird anhand von der Software GIMP (Version 2.10) durchgeführt, alternativ lässt sich jede andere Software zur Bildbearbeitung verwenden. Zu beachten ist natürlich, dass entsprechende Funktionen evtl. anders funktionieren oder anders benannt werden.\nZiel dieser Anleitung ist es, grundlegende Kenntnisse darüber zu vermitteln, wie Bilder, die keine oder andere Farben haben, vor allem Zeichnungen farbig gestaltet werden können.\nEs existiert eine offizielle Funktionsreferenz von Gimp, dort können Infos zu allen Werkzeugen und Menüs abgerufen werden. Teil III. Funktionsrefernz gimp.org"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#grundlegendes",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#grundlegendes",
-    "title": "How to: Bilder einfärben",
-    "section": "Grundlegendes",
-    "text": "Grundlegendes\nEs gibt verschiedene Wege ein Bild einzufärben. Beispielhaft werde ich das an dem über diesen Abschnitt gezeigtem Bild durchführen. Das Bild findet sich im gemeinschaftlichen Arbeitsordner des TBA Teams, so dass die Arbeitsschritte entsprechend selbst nachvollzogen werden können.\nDie Bearbeitung des Bildes sollte grundsätzlich in Originalgröße stattfinden. Die Zoomstufe kann in der Mitte des Fensters unter dem Bild eingestellt werden, dort ist es auch möglich die Skalenbeschriftung für die das Bild umgebene Skala zu ändern.\n\nErklärungen zu den Werkzeugen finden sich unter:\nMalwerkzeuge gimp.org\n\nAllgemeiner Hinweis zum Zeichnen harter Linien\nGimp verwendet bei allen Malwerkzeugen automatisch das sogenannte Subpixel-Antialiasing, welches dazu führt, dass Kanten gezeichneter Striche zu zackig aussehen. D.h. selbst wenn man mit einem Pinsel arbeitet, der eine harte Kante hat, dann werden Pixel am Rand des Strichs nicht vollständig gefärbt. Sollte also ein pixelgenaues Arbeiten notwendig sein, dann empfiehlt es sich den Stift als Werkzeug zu verwenden, da dieser das Subpixel-Antialiasing nicht nutzt und damit tatsächlich harte Kanten nutzt.\nIn den folgenden Abschnitten wird erklärt, wie man möglichst genau mit den anderen Werkzeugen arbeitet, im Regelfall reicht dieses Vorgehen für das Ausmalen von Bildern aus. Sollte aufgrund einer geringen Auflösung aber mal tatsächlich pixelgenaues Arbeiten mit harten Kanten notwendig sein, dann sollte zumindest für die Kanten das Stift Werkzeug genutzt werden."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#farben-zur-bearbeitung-auswählen",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#farben-zur-bearbeitung-auswählen",
-    "title": "How to: Bilder einfärben",
-    "section": "Farben zur Bearbeitung auswählen",
-    "text": "Farben zur Bearbeitung auswählen\nZum Auswählen von Farben gibt es verschiedene Möglichkeiten.\n\nDie erste Funktion findet sich in der Werkzeugleiste links oben in der Ecke: das Pipetten Werkzeug  . Durch Auswahl dieses Werkzeugs ist es möglich per Linksklick Farben aus einem Bild zu extrahieren und die Nutzung durch andere Werkzeuge zu ermöglichen.\nDie so ausgewählte Farbe ist in den zwei leicht überlappenden Quadraten  zu sehen; die Farbe im vorne liegenden Quadrat ist die aktive Farbauswahl, die sogenannte Vordergrundfarbe (VG-Farbe). Dementsprechend nennt sich die Farbe im hinteren Quadrat Hintergrundfarbe (HG-Farbe).\nEine Farbauswahl kann mit dieser Option auch aus einem anderen Bild übertragen werden. Dazu muss das Bild, welches als Vorlage dienen soll, auch in Gimp geöffnet werden, anschließend wählt man mit der Pipette die gewünschte Farbe aus dem Bild aus und kann über den Reiter oben in der Mitte des Bildschirms wieder zurück zu dem zu bearbeitenden Bild wechseln.\nEs besteht auch die Möglichkeit 2 Farben auszuwählen und durch den Klick auf die kleinen Pfeile rechts oben neben den Quadraten zwischen ihnen hin und her zu schalten. Um eine zweite Farbe auszuwählen, muss die Option „Hintergrundfarbe festlegen“ im Eigenschaftsfenster des Pipetten Werkzeugs ausgewählt werden oder durch einen Klick auf die Pfeile, rechts oben neben den Quadraten die Farbe, umgeschaltet werden.\n\nWeitere Möglichkeiten der Farbauswahl finden sich, wenn man auf die 2 Quadrate links klickt.\n\nDas Fenster „Vordergrundfarbe ändern“ ermöglicht es über die Reiter links im Fenster sowohl Farben im Farbverlauf auszuwählen als auch über einen CMYK Farbcode (Reiter 2 von links). Rechts im Fenster findet sich die Möglichkeit zur Eingabe eines RGB-Farbcodes. Neben diesen Möglichkeiten bietet das Fenster auch ein Pipetten Werkzeug, welches genauso genutzt werden kann wie das zuvor beschriebene.\nMit dem Unterschied, dass die ausgewählte Farbe in eine Farbpalette übertragen und für später gespeichert werden kann; diese erkennt man rechts unten im Fenster. Links daneben findet sich die aktuelle und zuvor ausgewählte Farbe, durch einen Klick auf den Pfeil  , ist es möglich die aktuelle Farbe in die Palette zu übertragen und für später vorzuhalten.\n\n\nDer große Vorteil der Pipetten Funktion ist, dass nicht jedes Mal Farbcodes eingetragen werden müssen und Vorlagen, wie z.B. das Foto eines Wildschweins wie in unserem Beispiel, als Farbvorlage dienen kann.\nAchtung:\n\nZu beachten ist, dass die Pipette immer nur gezielt einen Pixel auswählt.\nBei hochauflösenden Fotos ist es oft so das verschiedene Farbpixel den Farbeindruck gestalten. Will man versuchen diesen Eindruck zu extrahieren kann es sinnvoll sein die Option „Mittelwert bilden“ im Eigenschaftsfenster des Farbpipetten Werkzeuges auszuwählen. Dann wird der gemittelte Farbwert der Umgebenden Pixel verwendet. Dies kann eine Option sein eine gewünschte Farbe aus einem Bild zu extrahieren.\nDiese Option findet sich nur bei dem Pipettenwerkzeug aus der Werkzeugleiste und kann durch links Klick auf das Kästchen links daneben ausgewählt werden.\n\n\nGenerell ist es ratsam bei hochauflösenden Bildern, gerade Fotos auf Pixelebene, ranzuzoomen, um sicher zu gehen, dass man die richtige Farbe auswählt."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#einfärben-mit-dem-pinselwerkzeug",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#einfärben-mit-dem-pinselwerkzeug",
-    "title": "How to: Bilder einfärben",
-    "section": "Einfärben mit dem Pinselwerkzeug",
-    "text": "Einfärben mit dem Pinselwerkzeug\n\nDas Pinselwerkzeug (neuntes von links in der Werkzeugleiste) [width=20] ist das grundlegende Werkzeug zum Ausmalen von Flächen, es ermöglicht sowohl harte als auch weiche Striche zu ziehen und kann pixelgenau skaliert werden, so dass auch einzelne Pixel farblich verändert werden können.\nAuch kann es hilfreich sein, um große Flächen schnell einzufärben, wenn diese nicht klar abgetrennt sind.\nSollte man versuchen mit dem Pinsel Bereiche auszumalen, dann empfiehlt es sich eine entsprechend große Zoomstufe zu wählen, um detail- bzw. pixelgenau arbeiten zu können.\nGerade bei nicht hoch aufgelösten Bildern ist es oft notwendig die Ränder mit dem Pinsel manuell zu bearbeiten, um Pixel mit der falschen Farbe zu färben. Ein schwarzer Pixel in sonst nur roten sticht einfach leicht heraus.\n\nEinstellungen:\n\nEs können verschiedene Einstellungen vorgenommen werden. Der Modus kann in den meisten Fällen auf „Normal“ gelassen werden. Nur in Sonderfällen ist es beim Ausmalen von Bildern sinnvoll die anderen Modi zu benutzen. Die Deckkraft ist in der Regel bei 100 zu setzen, nur wenn weniger Deckkraft gewünscht ist wie z.B. beim Erstellen von Schatten.\n\n\n\n\n\n\nExkurs: Erstellen von Schatten mit dem Pinselwerkzeug\n\n\n\nSchatten können mit der Pinselfunktion dadurch erstellt werden, dass ein Pinsel mit einer passenden Härte ausgewählt wird, z.B. 75 und die Farbe schwarz ausgewählt wird. Die Deckkraft wird dann reduziert, um den eigentlichen Schatteneffekt zu erzeugen. Dabei ist es abhängig davon, wie dunkel der Schatten sein soll welchen Wert man wählt. Am besten startet man mit 50,0 und bewegt sich dann nach oben oder unten und schaut, was am besten zum Bild passt. Zu beachten ist, dass der Schatten in einem Zug gezeichnet werden sollte, was vielleicht dazu führt, dass der Vorgang etwas schwieriger wird. Das heißt man darf beim Malen des Schattens die linke Maustaste nicht loslassen, man kann über einen Bereich mehrfach drüber gehen, aber nur solange man die Maustaste gedrückt hält, ansonsten übermalt das Werkzeug den zuvor gezeichneten Schatten und dieser wird dunkler.\nEine Fortgeschrittene Variante nutzt dasselbe Vorgehen, kombiniert es allerdings mit der Ebenen Struktur. Man erstellt also rechts unten in dem entsprechenden Fenster eine neue Ebene. An den Einstellungen der Ebene muss man erstmal nichts verändern. Danach wählt man in dem Feld darüber die neue erstellte Ebene durch einen Linksklick aus und zeichnet auf dieser dann die Schatten auf das Bild. Das hat den Vorteil, dass die Schatten auf einer eigenen Ebene liegen und man die schattierte Farbe im Originalbild noch verändern kann. Für genaue Erläuterungen wie Ebenen funktionieren, siehe Abschnitt 5 (Video 5).\n\n\n\n\nDie dritte Option des Reiters dreht sich um die Art des Pinsels, dazu sei gesagt, dass man bis auf die Form des Pinsels alle Einstellungen, die der Pinsel mit sich bringt, verändern kann.\nGrundsätzlich geht es bei den Grundarten (den runden Pinseln) um den Härtegrad (Härte), welche wir auch manuell verändern könne, je nachdem wie sanft der Übergang zu anderen Farbbereichen sein soll. Die wichtigsten Optionen sind somit die Größe und die Härte.\n\nDie restlichen Eigenschaften werden im Abschnitt Werkzeugeigenschaften erklärt.\n\nIn Kombination mit dem Füllen Werkzeug ist es nützlich, um Lücken in Zeichnungen zu schließen und so geschlossene Bereiche zu schaffen die gut von dem Füllen Werkzeug erfasst werden können.\nDies ist vor allem dann sinnvoll, wenn zwischen 2 eigentlich getrennt zu färbenden Flächen keine Trennung vorgenommen wurde, wie z.B. bei dem mittleren Baum unseres Beispiels. Die Baumkrone muss eine andere Farbe bekommen als der Baumstamm. Um das zu erreichen, kann man mit dem Pinsel entsprechend eine farbliche Trennlinie einzeichnen und so 2 getrennte und durch das Füllwerkzeug bearbeitbare Bereiche schaffen. Man erspart sich viel Arbeit, wenn man nach diesen Lücken sucht und sie farblich schließt, statt das Bild mit dem Pinsel auszumalen.\nWichtig ist dabei sie farblich zu schließen und nicht die Ränder nachzubauen. Oft sind die Lücken Absicht und tragen zur optischen Gestalt des Bildes bei.\n\n\nAchtung, Linienbildung bei Füll und Pinsel Werkzeug in Kombination\n\nAufgrund des Subpixel-Antialiasing von Gimp kommt es dazu, dass sich zwischen dem mit dem Füllwerkzeug nach der Abtrennung gefüllten Bereich und der Trennlinie eine weiße Linie bildet. Diese Linie kann einfach mit dem Pinselwerkzeug in entsprechender Größe übermalt werden.\nDiese Linienbildung kann vermieden werden, wenn statt des Pinselwerkzeugs das Stiftwerkzeug verwendet wird.\nAllerdings muss dann der Übergang zu dem benachbarten andersfarbigen Bereich auch nachbearbeitet werden, um keinen harten Übergang zu erzeugen, dies kann je nach Bild aufwendiger sein als die Linie mit dem Pinselwerkzeug nachzuziehen."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#einfärben-mit-dem-füllen-werkzeug",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#einfärben-mit-dem-füllen-werkzeug",
-    "title": "How to: Bilder einfärben",
-    "section": "Einfärben mit dem Füllen Werkzeug",
-    "text": "Einfärben mit dem Füllen Werkzeug\n\nHinweis zum Subpixel-Antialiasing"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#bereiche-auswählen-und-bearbeiten",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#bereiche-auswählen-und-bearbeiten",
-    "title": "How to: Bilder einfärben",
-    "section": "Bereiche auswählen und bearbeiten",
-    "text": "Bereiche auswählen und bearbeiten"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#arbeiten-mit-ebenen",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#arbeiten-mit-ebenen",
-    "title": "How to: Bilder einfärben",
-    "section": "Arbeiten mit Ebenen",
-    "text": "Arbeiten mit Ebenen"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#beispiel",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_einfarben/index.html#beispiel",
-    "title": "How to: Bilder einfärben",
-    "section": "Beispiel",
-    "text": "Beispiel\n\nErster Arbeitsschritt\n\n\nZweiter Arbeitsschritt\n\n\nDritter Arbeitsschritt\n\n\nVierter Arbeitsschritt\n\nWeichzeichnen\n\n\nBereiche Nachbelichten/Abwedeln\n\n\n\nExportieren von Bilden als PNG / JPG"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Glossar/Video_Medium_Fragment.html",
-    "href": "Studio/Aufgaben_gestalten/Glossar/Video_Medium_Fragment.html",
-    "title": "Quarto Texte Studio",
-    "section": "",
-    "text": "—   lang: de   —"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Glossar/Video_Medium_Fragment.html#medium-video",
-    "href": "Studio/Aufgaben_gestalten/Glossar/Video_Medium_Fragment.html#medium-video",
-    "title": "Quarto Texte Studio",
-    "section": "Medium: Video",
-    "text": "Medium: Video\n\nMit Klick auf das Element „Video“ der Elementengruppe „Medium“ öffnet sich unmittelbar ein Fenster, in dem die gewünschte Datei ausgewählt und durch einen Klick „Öffnen“ im IQB-Studio hochgeladen wird.\n\n\n\n\n\n\n\nNote\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des Fortschrittbalkens vom Video erscheint automatisch, sofern das Video fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Glossar/Video_Medium_Fragment.html#editieren-eines-video-elements",
-    "href": "Studio/Aufgaben_gestalten/Glossar/Video_Medium_Fragment.html#editieren-eines-video-elements",
-    "title": "Quarto Texte Studio",
-    "section": "Editieren eines Video-Elements",
-    "text": "Editieren eines Video-Elements\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Video Einstellungen vornehmen. Hier kann die ID („video_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf im sich öffnenden Fenster das bereits eingefügte Video durch ein anderes Video ersetzt werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Video maximal sein soll. Die Breite ist automatisch bereits durch die Breite der Seite begrenzt. In der Regel nimmt ein Video die gesamte Seite ein. Die Maximalbreite sollte nur in begründeten Ausnahmefällen angepasst werden.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird."
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Text_ST_Assistent/index.html#text",
@@ -159,6 +82,27 @@
       "Anlegen von Aufgaben im Standardmodus",
       "Stimulus: Text-Assistent"
     ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Video_Medium_Fragment.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Video_Medium_Fragment.html",
+    "title": "Quarto Texte Studio",
+    "section": "",
+    "text": "—   lang: de   —"
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Video_Medium_Fragment.html#medium-video",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Video_Medium_Fragment.html#medium-video",
+    "title": "Quarto Texte Studio",
+    "section": "Medium: Video",
+    "text": "Medium: Video\n\nMit Klick auf das Element „Video“ der Elementengruppe „Medium“ öffnet sich unmittelbar ein Fenster, in dem die gewünschte Datei ausgewählt und durch einen Klick „Öffnen“ im IQB-Studio hochgeladen wird.\n\n\n\n\n\n\n\nNote\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des Fortschrittbalkens vom Video erscheint automatisch, sofern das Video fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden."
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Video_Medium_Fragment.html#editieren-eines-video-elements",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Video_Medium_Fragment.html#editieren-eines-video-elements",
+    "title": "Quarto Texte Studio",
+    "section": "Editieren eines Video-Elements",
+    "text": "Editieren eines Video-Elements\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Video Einstellungen vornehmen. Hier kann die ID („video_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf im sich öffnenden Fenster das bereits eingefügte Video durch ein anderes Video ersetzt werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Video maximal sein soll. Die Breite ist automatisch bereits durch die Breite der Seite begrenzt. In der Regel nimmt ein Video die gesamte Seite ein. Die Maximalbreite sollte nur in begründeten Ausnahmefällen angepasst werden.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird."
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.html",
@@ -649,15 +593,93 @@
     ]
   },
   {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html",
+    "title": "How to: Bilder skalieren in Gimp",
+    "section": "",
+    "text": "Nicht alle Bilder passen in ihrer Ursprungsgröße sinnvoll in das IQB-Teststudio (z. B. beim Stimulus). Auch bei der Anlegung der Items sollten in der Regel alle Bilder gleich groß sein, da es visuell sonst zu Problemen kommt. Es sieht verwirrend aus, wenn beispielsweise alle Bilder in einer Drag & Drop Liste oder bei einem Multiple Choice-Item unterschiedlich groß sind.\nUm die gewünschten Bilder in Bezug auf die Größe anzupassen, skalieren wir sie zuvor in gimp und laden sie im Anschluss ins IQB-Teststudio hoch.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder skalieren in Gimp"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#warum-sollen-bilder-skaliert-werden",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#warum-sollen-bilder-skaliert-werden",
+    "title": "How to: Bilder skalieren in Gimp",
+    "section": "",
+    "text": "Nicht alle Bilder passen in ihrer Ursprungsgröße sinnvoll in das IQB-Teststudio (z. B. beim Stimulus). Auch bei der Anlegung der Items sollten in der Regel alle Bilder gleich groß sein, da es visuell sonst zu Problemen kommt. Es sieht verwirrend aus, wenn beispielsweise alle Bilder in einer Drag & Drop Liste oder bei einem Multiple Choice-Item unterschiedlich groß sind.\nUm die gewünschten Bilder in Bezug auf die Größe anzupassen, skalieren wir sie zuvor in gimp und laden sie im Anschluss ins IQB-Teststudio hoch.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder skalieren in Gimp"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#gimp-herunterladen",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#gimp-herunterladen",
+    "title": "How to: Bilder skalieren in Gimp",
+    "section": "Gimp herunterladen",
+    "text": "Gimp herunterladen\nGimp für Windows, Linux oder Mac unter https://www.gimp.org/downloads/ kostenfrei herunterladen und installieren.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder skalieren in Gimp"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#zieldatei-bild-das-skaliert-werden-soll-öffnen",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#zieldatei-bild-das-skaliert-werden-soll-öffnen",
+    "title": "How to: Bilder skalieren in Gimp",
+    "section": "Zieldatei (Bild, das skaliert werden soll) öffnen",
+    "text": "Zieldatei (Bild, das skaliert werden soll) öffnen\n(bevorzugt vorher Kopie der Zieldatei erstellen, um diese nicht aus Versehen zu überschreiben)\n\nEventuell muss GIMP noch per „Andere App auswählen“ manuell ausgewählt werden (dazu die Dateien von GIMP ausfindig machen und die .exe Datei auswählen, danach sollte GIMP standardmäßig in dieser Liste zur Auswahl stehen).",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder skalieren in Gimp"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#bild-skalieren",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#bild-skalieren",
+    "title": "How to: Bilder skalieren in Gimp",
+    "section": "Bild skalieren",
+    "text": "Bild skalieren\nIm IQB-Teststudio skalieren wir die Bilder im Regelfall wie folgt:\n\nDrag-and-Drop mehrere Bilder nebeneinander auf 150x150 Pixel, damit 3 Bilder auch auf kleinen Bildschirmen nebeneinander passen (z. B. Vo2_DnD_Bilder_B)\nDrag-and-Drop mehrere Bilder untereinander auf 175x175 Pixel (z. B. Vo2_DnD_Bilder_A)\n\n\n\n\n\n\n\nHinweis\n\n\n\nbei Drag-and-Drop-Items sollen alle Bilder quadratisch sein, bei Multiple Choice-Items sollen alle Bilder dieselbe Breite haben\n\n\nMenüleiste oben ➔ Bild ➔ Bild skalieren\n\nAnschließend die gewünscht Anzahl von Pixeln bei Breite oder Höhe eingeben, der jeweils andere Wert wird automatisch angepasst. Anschließend auf „Skalieren“ klicken.\n\n\n\n\n\n\n\nWichtig\n\n\n\nDie Klammer im roten Kreis muss geschlossen bleiben, damit die Seitenverhältnisse beibehalten werden. Bei einem Bild, dessen Höhe und Breite gleich ist, ist das zwar irrelevant. Wenn ich aber ein Bild mit z.B. 1200 x 1000 Pixel auf 200 x 200 skaliere, wird das Bild dabei verzerrt.\n\n\n\nBild mit unterschiedlicher Höhe und Breite skalieren\nHat das Bild, das skaliert werden soll, eine unterschiedliche Höhe und Breite, ist der Vorgang der Skalierung anders als bei Bildern, bei denen Höhe und Breite sind nicht unterscheiden, da es sonst zu Verzerrungen kommt.\nBeipsiel:\n\n\n\n\n\n\n\n\n\n546 x 288 Pixel sollen skaliert werden\n\n\n\n\n\n\n\n200 x 200 Pixel sehen verzerrt aus\n\n\n\n\n\nLösung: Bild „zu klein“ skalieren, dann weißen Hintergrund auf gewünschte Maße vergrößern\n\na) Bild so skalieren, dass die längere der beiden Seiten den gewünschten Wert annimmt (Klammer weiterhin geschlossen lassen!)\n\nSolange die Klammer geschlossen ist, bleibt das Seitenverhältnis gesperrt und der andere Wert passt sich automatisch an. Anschließend auf „Skalieren“ klicken.\n\n\nb) „Leinwand“ (weißen Hintergrund) vergrößern: Bild ➔ Leinwandgröße\n\n\n\n\n\n\n\n\nKürzere Seite manuell auf den gewünschten Wert einstellen. (Klammer sollte automatisch offen sein, falls nicht: zum Öffnen anklicken)\nAuf „Zentrieren“ klicken,sodass der Inhalt des Bildes in den Mittelpunkt gerückt wird\nGgf. bei „Ebenengrößen ändern“ „Alle“ auswählen.\n\n\n\n\n\n\n\n\n\nGgf. bei „Füllung“ „Weiß“ auswählen\nAuf „Größe ändern“ klicken",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder skalieren in Gimp"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#bild-als-.jpg-oder-.png-exportieren",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_skalieren/index.html#bild-als-.jpg-oder-.png-exportieren",
+    "title": "How to: Bilder skalieren in Gimp",
+    "section": "Bild als .jpg oder .png exportieren",
+    "text": "Bild als .jpg oder .png exportieren\n\nDatei ➔ Exportieren nach … ➔ Speicherort & Dateiformat auswählen (.jpg oder .png manuell eintragen) ➔ Exportieren\n\nFür JPG Dateien: Qualitätsregler auf 100 stellen\n\nDanach ist das Bild im ausgewählten Ordner mit dem entsprechenden Dateinamen abgespeichert. Nun kann die Datei ins IQB-Teststudio in die gewünschte Aufgabe hochgeladen werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder skalieren in Gimp"
+    ]
+  },
+  {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_erweiterten_Modus/index.html",
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_erweiterten_Modus/index.html",
-    "title": "Studio Überblick",
+    "title": "Anlegen von Aufgaben im Erweiterten Modus",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
-      "Studio Überblick"
+      "Anlegen von Aufgaben im Erweiterten Modus"
     ]
   },
   {
@@ -1204,22 +1226,125 @@
   {
     "objectID": "Studio/Aufgaben_gestalten/IQB_Konventionen/index.html",
     "href": "Studio/Aufgaben_gestalten/IQB_Konventionen/index.html",
-    "title": "Studio Überblick",
+    "title": "IQB Konventionen",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Studio Überblick"
+      "IQB Konventionen"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html",
+    "title": "How to: Bilder einfärben",
+    "section": "",
+    "text": "Das How To wird anhand von der Software GIMP (Version 2.10) durchgeführt, alternativ lässt sich jede andere Software zur Bildbearbeitung verwenden. Zu beachten ist natürlich, dass entsprechende Funktionen evtl. anders funktionieren oder anders benannt werden.\nZiel dieser Anleitung ist es, grundlegende Kenntnisse darüber zu vermitteln, wie Bilder, die keine oder andere Farben haben, vor allem Zeichnungen farbig gestaltet werden können.\nEs existiert eine offizielle Funktionsreferenz von Gimp, dort können Infos zu allen Werkzeugen und Menüs abgerufen werden. Teil III. Funktionsrefernz gimp.org",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder einfärben"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#grundlegendes",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#grundlegendes",
+    "title": "How to: Bilder einfärben",
+    "section": "Grundlegendes",
+    "text": "Grundlegendes\nEs gibt verschiedene Wege ein Bild einzufärben. Beispielhaft werde ich das an dem über diesen Abschnitt gezeigtem Bild durchführen. Das Bild findet sich im gemeinschaftlichen Arbeitsordner des TBA Teams, so dass die Arbeitsschritte entsprechend selbst nachvollzogen werden können.\nDie Bearbeitung des Bildes sollte grundsätzlich in Originalgröße stattfinden. Die Zoomstufe kann in der Mitte des Fensters unter dem Bild eingestellt werden, dort ist es auch möglich die Skalenbeschriftung für die das Bild umgebene Skala zu ändern.\n\nErklärungen zu den Werkzeugen finden sich unter:\nMalwerkzeuge gimp.org\n\nAllgemeiner Hinweis zum Zeichnen harter Linien\nGimp verwendet bei allen Malwerkzeugen automatisch das sogenannte Subpixel-Antialiasing, welches dazu führt, dass Kanten gezeichneter Striche zu zackig aussehen. D.h. selbst wenn man mit einem Pinsel arbeitet, der eine harte Kante hat, dann werden Pixel am Rand des Strichs nicht vollständig gefärbt. Sollte also ein pixelgenaues Arbeiten notwendig sein, dann empfiehlt es sich den Stift als Werkzeug zu verwenden, da dieser das Subpixel-Antialiasing nicht nutzt und damit tatsächlich harte Kanten nutzt.\nIn den folgenden Abschnitten wird erklärt, wie man möglichst genau mit den anderen Werkzeugen arbeitet, im Regelfall reicht dieses Vorgehen für das Ausmalen von Bildern aus. Sollte aufgrund einer geringen Auflösung aber mal tatsächlich pixelgenaues Arbeiten mit harten Kanten notwendig sein, dann sollte zumindest für die Kanten das Stift Werkzeug genutzt werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder einfärben"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#farben-zur-bearbeitung-auswählen",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#farben-zur-bearbeitung-auswählen",
+    "title": "How to: Bilder einfärben",
+    "section": "Farben zur Bearbeitung auswählen",
+    "text": "Farben zur Bearbeitung auswählen\nZum Auswählen von Farben gibt es verschiedene Möglichkeiten.\n\nDie erste Funktion findet sich in der Werkzeugleiste links oben in der Ecke: das Pipetten Werkzeug  . Durch Auswahl dieses Werkzeugs ist es möglich per Linksklick Farben aus einem Bild zu extrahieren und die Nutzung durch andere Werkzeuge zu ermöglichen.\nDie so ausgewählte Farbe ist in den zwei leicht überlappenden Quadraten  zu sehen; die Farbe im vorne liegenden Quadrat ist die aktive Farbauswahl, die sogenannte Vordergrundfarbe (VG-Farbe). Dementsprechend nennt sich die Farbe im hinteren Quadrat Hintergrundfarbe (HG-Farbe).\nEine Farbauswahl kann mit dieser Option auch aus einem anderen Bild übertragen werden. Dazu muss das Bild, welches als Vorlage dienen soll, auch in Gimp geöffnet werden, anschließend wählt man mit der Pipette die gewünschte Farbe aus dem Bild aus und kann über den Reiter oben in der Mitte des Bildschirms wieder zurück zu dem zu bearbeitenden Bild wechseln.\nEs besteht auch die Möglichkeit 2 Farben auszuwählen und durch den Klick auf die kleinen Pfeile rechts oben neben den Quadraten zwischen ihnen hin und her zu schalten. Um eine zweite Farbe auszuwählen, muss die Option „Hintergrundfarbe festlegen“ im Eigenschaftsfenster des Pipetten Werkzeugs ausgewählt werden oder durch einen Klick auf die Pfeile, rechts oben neben den Quadraten die Farbe, umgeschaltet werden.\n\nWeitere Möglichkeiten der Farbauswahl finden sich, wenn man auf die 2 Quadrate links klickt.\n\nDas Fenster „Vordergrundfarbe ändern“ ermöglicht es über die Reiter links im Fenster sowohl Farben im Farbverlauf auszuwählen als auch über einen CMYK Farbcode (Reiter 2 von links). Rechts im Fenster findet sich die Möglichkeit zur Eingabe eines RGB-Farbcodes. Neben diesen Möglichkeiten bietet das Fenster auch ein Pipetten Werkzeug, welches genauso genutzt werden kann wie das zuvor beschriebene.\nMit dem Unterschied, dass die ausgewählte Farbe in eine Farbpalette übertragen und für später gespeichert werden kann; diese erkennt man rechts unten im Fenster. Links daneben findet sich die aktuelle und zuvor ausgewählte Farbe, durch einen Klick auf den Pfeil  , ist es möglich die aktuelle Farbe in die Palette zu übertragen und für später vorzuhalten.\n\n\nDer große Vorteil der Pipetten Funktion ist, dass nicht jedes Mal Farbcodes eingetragen werden müssen und Vorlagen, wie z.B. das Foto eines Wildschweins wie in unserem Beispiel, als Farbvorlage dienen kann.\nAchtung:\n\nZu beachten ist, dass die Pipette immer nur gezielt einen Pixel auswählt.\nBei hochauflösenden Fotos ist es oft so das verschiedene Farbpixel den Farbeindruck gestalten. Will man versuchen diesen Eindruck zu extrahieren kann es sinnvoll sein die Option „Mittelwert bilden“ im Eigenschaftsfenster des Farbpipetten Werkzeuges auszuwählen. Dann wird der gemittelte Farbwert der Umgebenden Pixel verwendet. Dies kann eine Option sein eine gewünschte Farbe aus einem Bild zu extrahieren.\nDiese Option findet sich nur bei dem Pipettenwerkzeug aus der Werkzeugleiste und kann durch links Klick auf das Kästchen links daneben ausgewählt werden.\n\n\nGenerell ist es ratsam bei hochauflösenden Bildern, gerade Fotos auf Pixelebene, ranzuzoomen, um sicher zu gehen, dass man die richtige Farbe auswählt.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder einfärben"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#einfärben-mit-dem-pinselwerkzeug",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#einfärben-mit-dem-pinselwerkzeug",
+    "title": "How to: Bilder einfärben",
+    "section": "Einfärben mit dem Pinselwerkzeug",
+    "text": "Einfärben mit dem Pinselwerkzeug\n\nDas Pinselwerkzeug (neuntes von links in der Werkzeugleiste) [width=20] ist das grundlegende Werkzeug zum Ausmalen von Flächen, es ermöglicht sowohl harte als auch weiche Striche zu ziehen und kann pixelgenau skaliert werden, so dass auch einzelne Pixel farblich verändert werden können.\nAuch kann es hilfreich sein, um große Flächen schnell einzufärben, wenn diese nicht klar abgetrennt sind.\nSollte man versuchen mit dem Pinsel Bereiche auszumalen, dann empfiehlt es sich eine entsprechend große Zoomstufe zu wählen, um detail- bzw. pixelgenau arbeiten zu können.\nGerade bei nicht hoch aufgelösten Bildern ist es oft notwendig die Ränder mit dem Pinsel manuell zu bearbeiten, um Pixel mit der falschen Farbe zu färben. Ein schwarzer Pixel in sonst nur roten sticht einfach leicht heraus.\n\nEinstellungen:\n\nEs können verschiedene Einstellungen vorgenommen werden. Der Modus kann in den meisten Fällen auf „Normal“ gelassen werden. Nur in Sonderfällen ist es beim Ausmalen von Bildern sinnvoll die anderen Modi zu benutzen. Die Deckkraft ist in der Regel bei 100 zu setzen, nur wenn weniger Deckkraft gewünscht ist wie z.B. beim Erstellen von Schatten.\n\n\n\n\n\n\nExkurs: Erstellen von Schatten mit dem Pinselwerkzeug\n\n\n\nSchatten können mit der Pinselfunktion dadurch erstellt werden, dass ein Pinsel mit einer passenden Härte ausgewählt wird, z.B. 75 und die Farbe schwarz ausgewählt wird. Die Deckkraft wird dann reduziert, um den eigentlichen Schatteneffekt zu erzeugen. Dabei ist es abhängig davon, wie dunkel der Schatten sein soll welchen Wert man wählt. Am besten startet man mit 50,0 und bewegt sich dann nach oben oder unten und schaut, was am besten zum Bild passt. Zu beachten ist, dass der Schatten in einem Zug gezeichnet werden sollte, was vielleicht dazu führt, dass der Vorgang etwas schwieriger wird. Das heißt man darf beim Malen des Schattens die linke Maustaste nicht loslassen, man kann über einen Bereich mehrfach drüber gehen, aber nur solange man die Maustaste gedrückt hält, ansonsten übermalt das Werkzeug den zuvor gezeichneten Schatten und dieser wird dunkler.\nEine Fortgeschrittene Variante nutzt dasselbe Vorgehen, kombiniert es allerdings mit der Ebenen Struktur. Man erstellt also rechts unten in dem entsprechenden Fenster eine neue Ebene. An den Einstellungen der Ebene muss man erstmal nichts verändern. Danach wählt man in dem Feld darüber die neue erstellte Ebene durch einen Linksklick aus und zeichnet auf dieser dann die Schatten auf das Bild. Das hat den Vorteil, dass die Schatten auf einer eigenen Ebene liegen und man die schattierte Farbe im Originalbild noch verändern kann. Für genaue Erläuterungen wie Ebenen funktionieren, siehe Abschnitt 5 (Video 5).\n\n\n\n\nDie dritte Option des Reiters dreht sich um die Art des Pinsels, dazu sei gesagt, dass man bis auf die Form des Pinsels alle Einstellungen, die der Pinsel mit sich bringt, verändern kann.\nGrundsätzlich geht es bei den Grundarten (den runden Pinseln) um den Härtegrad (Härte), welche wir auch manuell verändern könne, je nachdem wie sanft der Übergang zu anderen Farbbereichen sein soll. Die wichtigsten Optionen sind somit die Größe und die Härte.\n\nDie restlichen Eigenschaften werden im Abschnitt Werkzeugeigenschaften erklärt.\n\nIn Kombination mit dem Füllen Werkzeug ist es nützlich, um Lücken in Zeichnungen zu schließen und so geschlossene Bereiche zu schaffen die gut von dem Füllen Werkzeug erfasst werden können.\nDies ist vor allem dann sinnvoll, wenn zwischen 2 eigentlich getrennt zu färbenden Flächen keine Trennung vorgenommen wurde, wie z.B. bei dem mittleren Baum unseres Beispiels. Die Baumkrone muss eine andere Farbe bekommen als der Baumstamm. Um das zu erreichen, kann man mit dem Pinsel entsprechend eine farbliche Trennlinie einzeichnen und so 2 getrennte und durch das Füllwerkzeug bearbeitbare Bereiche schaffen. Man erspart sich viel Arbeit, wenn man nach diesen Lücken sucht und sie farblich schließt, statt das Bild mit dem Pinsel auszumalen.\nWichtig ist dabei sie farblich zu schließen und nicht die Ränder nachzubauen. Oft sind die Lücken Absicht und tragen zur optischen Gestalt des Bildes bei.\n\n\nAchtung, Linienbildung bei Füll und Pinsel Werkzeug in Kombination\n\nAufgrund des Subpixel-Antialiasing von Gimp kommt es dazu, dass sich zwischen dem mit dem Füllwerkzeug nach der Abtrennung gefüllten Bereich und der Trennlinie eine weiße Linie bildet. Diese Linie kann einfach mit dem Pinselwerkzeug in entsprechender Größe übermalt werden.\nDiese Linienbildung kann vermieden werden, wenn statt des Pinselwerkzeugs das Stiftwerkzeug verwendet wird.\nAllerdings muss dann der Übergang zu dem benachbarten andersfarbigen Bereich auch nachbearbeitet werden, um keinen harten Übergang zu erzeugen, dies kann je nach Bild aufwendiger sein als die Linie mit dem Pinselwerkzeug nachzuziehen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder einfärben"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#einfärben-mit-dem-füllen-werkzeug",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#einfärben-mit-dem-füllen-werkzeug",
+    "title": "How to: Bilder einfärben",
+    "section": "Einfärben mit dem Füllen Werkzeug",
+    "text": "Einfärben mit dem Füllen Werkzeug\n\nHinweis zum Subpixel-Antialiasing",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder einfärben"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#bereiche-auswählen-und-bearbeiten",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#bereiche-auswählen-und-bearbeiten",
+    "title": "How to: Bilder einfärben",
+    "section": "Bereiche auswählen und bearbeiten",
+    "text": "Bereiche auswählen und bearbeiten",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder einfärben"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#arbeiten-mit-ebenen",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#arbeiten-mit-ebenen",
+    "title": "How to: Bilder einfärben",
+    "section": "Arbeiten mit Ebenen",
+    "text": "Arbeiten mit Ebenen",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder einfärben"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#beispiel",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/Bilder_einfarben/index.html#beispiel",
+    "title": "How to: Bilder einfärben",
+    "section": "Beispiel",
+    "text": "Beispiel\n\nErster Arbeitsschritt\n\n\nZweiter Arbeitsschritt\n\n\nDritter Arbeitsschritt\n\n\nVierter Arbeitsschritt\n\nWeichzeichnen\n\n\nBereiche Nachbelichten/Abwedeln\n\n\n\nExportieren von Bilden als PNG / JPG",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "How to: Bilder einfärben"
     ]
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/index.html",
     "href": "Studio/Aufgaben_gestalten/index.html",
-    "title": "Quarto Texte Studio",
+    "title": "Aufgaben Gestalten",
     "section": "",
-    "text": "Für den Editor gibt es jetzt 2 Modi: den Standardmodus und den erweiterten Modus. Standardmodus: Im Standardmodus soll der größte Teil der Aufgaben angelegt werden. Er enthält daher nur die Assistenten, die Medienelemente „Text“, „Bild“, „Audio“ und „Video“, sowie die Spezialelemente „Lückentext“ und „Tabelle“. Alle diese Elemente haben schon die richtigen Voreinstellungen und müssen daher für die Standardformate nur inhaltlich angepasst werden. Außerdem sind die Einstellungsmöglichkeiten rechts für alle Elemente, sowie die Abschnittseinstellungen an den einzelnen Abschnitten stark eingeschränkt.\nErweiterter Modus: Der erweiterte Modus ist nur in bestimmten Bereichen freigeschaltet und dient zum Anlegen von spezielleren und experimentellen Formaten, die nicht mithilfe der Assistenten angelegt werden können. Im Gegensatz zu den Standardformaten sind diese Formate nicht durch die Assistenzen vorformatiert. Beim Anlegen können die prototypischen Aufgaben zur Hilfe gezogen werden. In diesen Bereichen kann rechts oben im Editor zwischen Standardmodus und erweitertem Modus gewechselt werden.\n\n\n\n Back to top",
+    "text": "Für den Editor gibt es jetzt 2 Modi: den Standardmodus und den erweiterten Modus. Standardmodus: Im Standardmodus soll der größte Teil der Aufgaben angelegt werden. Er enthält daher nur die Assistenten, die Medienelemente „Text“, „Bild“, „Audio“ und „Video“, sowie die Spezialelemente „Lückentext“ und „Tabelle“. Alle diese Elemente haben schon die richtigen Voreinstellungen und müssen daher für die Standardformate nur inhaltlich angepasst werden. Außerdem sind die Einstellungsmöglichkeiten rechts für alle Elemente, sowie die Abschnittseinstellungen an den einzelnen Abschnitten stark eingeschränkt.\nErweiterter Modus: Der erweiterte Modus ist nur in bestimmten Bereichen freigeschaltet und dient zum Anlegen von spezielleren und experimentellen Formaten, die nicht mithilfe der Assistenten angelegt werden können. Im Gegensatz zu den Standardformaten sind diese Formate nicht durch die Assistenzen vorformatiert. Beim Anlegen können die prototypischen Aufgaben zur Hilfe gezogen werden. In diesen Bereichen kann rechts oben im Editor zwischen Standardmodus und erweitertem Modus gewechselt werden.\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten"
@@ -1683,14 +1808,14 @@
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html",
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html",
-    "title": "Beispiele",
+    "title": "Nachträgliches Editieren",
     "section": "",
     "text": "Zurück nach oben",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
-      "Beispiele"
+      "Nachträgliches Editieren"
     ]
   },
   {
@@ -1772,23 +1897,11 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Andere_Editoren/index.html",
-    "href": "Studio/Aufgaben_gestalten/Andere_Editoren/index.html",
-    "title": "Studio Überblick",
-    "section": "",
-    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Studio Überblick"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Glossar/Glossar.html",
-    "href": "Studio/Aufgaben_gestalten/Glossar/Glossar.html",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html",
     "title": "Glossar",
     "section": "",
-    "text": "Dies ist ein Fragment.\n\n\n\n Zurück nach oben",
+    "text": "—   lang: de   —",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -1797,67 +1910,50 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html",
-    "title": "How to: Bilder skalieren in Gimp",
-    "section": "",
-    "text": "Nicht alle Bilder passen in ihrer Ursprungsgröße sinnvoll in das IQB-Teststudio (z. B. beim Stimulus). Auch bei der Anlegung der Items sollten in der Regel alle Bilder gleich groß sein, da es visuell sonst zu Problemen kommt. Es sieht verwirrend aus, wenn beispielsweise alle Bilder in einer Drag & Drop Liste oder bei einem Multiple Choice-Item unterschiedlich groß sind.\nUm die gewünschten Bilder in Bezug auf die Größe anzupassen, skalieren wir sie zuvor in gimp und laden sie im Anschluss ins IQB-Teststudio hoch."
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-audio-elements",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-audio-elements",
+    "title": "Glossar",
+    "section": "Editieren eines Audio-Elements",
+    "text": "Editieren eines Audio-Elements\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Audio die Einstellungen des Audioelements tätigen.\nHier kann die ID („audio_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf die gewünschte Datei im sich öffnenden Fenster ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Audio maximal sein soll. Die voreingestellten 500 Pixel aus den Assistenten sind IQB-Standard und sollten nur in begründeten Ausnahmefällen angepasst werden. Sollte keine Maximalbreite erwünscht sein, kann das Häkchen bei „Maximalbreite setzen“ entfernt werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Glossar"
+    ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#warum-sollen-bilder-skaliert-werden",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#warum-sollen-bilder-skaliert-werden",
-    "title": "How to: Bilder skalieren in Gimp",
-    "section": "",
-    "text": "Nicht alle Bilder passen in ihrer Ursprungsgröße sinnvoll in das IQB-Teststudio (z. B. beim Stimulus). Auch bei der Anlegung der Items sollten in der Regel alle Bilder gleich groß sein, da es visuell sonst zu Problemen kommt. Es sieht verwirrend aus, wenn beispielsweise alle Bilder in einer Drag & Drop Liste oder bei einem Multiple Choice-Item unterschiedlich groß sind.\nUm die gewünschten Bilder in Bezug auf die Größe anzupassen, skalieren wir sie zuvor in gimp und laden sie im Anschluss ins IQB-Teststudio hoch."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#gimp-herunterladen",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#gimp-herunterladen",
-    "title": "How to: Bilder skalieren in Gimp",
-    "section": "Gimp herunterladen",
-    "text": "Gimp herunterladen\nGimp für Windows, Linux oder Mac unter https://www.gimp.org/downloads/ kostenfrei herunterladen und installieren."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#zieldatei-bild-das-skaliert-werden-soll-öffnen",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#zieldatei-bild-das-skaliert-werden-soll-öffnen",
-    "title": "How to: Bilder skalieren in Gimp",
-    "section": "Zieldatei (Bild, das skaliert werden soll) öffnen",
-    "text": "Zieldatei (Bild, das skaliert werden soll) öffnen\n(bevorzugt vorher Kopie der Zieldatei erstellen, um diese nicht aus Versehen zu überschreiben)\n\nEventuell muss GIMP noch per „Andere App auswählen“ manuell ausgewählt werden (dazu die Dateien von GIMP ausfindig machen und die .exe Datei auswählen, danach sollte GIMP standardmäßig in dieser Liste zur Auswahl stehen)."
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#bild-skalieren",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#bild-skalieren",
-    "title": "How to: Bilder skalieren in Gimp",
-    "section": "Bild skalieren",
-    "text": "Bild skalieren\nIm IQB-Teststudio skalieren wir die Bilder im Regelfall wie folgt:\n\nDrag-and-Drop mehrere Bilder nebeneinander auf 150x150 Pixel, damit 3 Bilder auch auf kleinen Bildschirmen nebeneinander passen (z. B. Vo2_DnD_Bilder_B)\nDrag-and-Drop mehrere Bilder untereinander auf 175x175 Pixel (z. B. Vo2_DnD_Bilder_A)\n\n\n\n\n\n\n\nHinweis\n\n\n\nbei Drag-and-Drop-Items sollen alle Bilder quadratisch sein, bei Multiple Choice-Items sollen alle Bilder dieselbe Breite haben\n\n\nMenüleiste oben ➔ Bild ➔ Bild skalieren\n\nAnschließend die gewünscht Anzahl von Pixeln bei Breite oder Höhe eingeben, der jeweils andere Wert wird automatisch angepasst. Anschließend auf „Skalieren“ klicken.\n\n\n\n\n\n\n\nWichtig\n\n\n\nDie Klammer im roten Kreis muss geschlossen bleiben, damit die Seitenverhältnisse beibehalten werden. Bei einem Bild, dessen Höhe und Breite gleich ist, ist das zwar irrelevant. Wenn ich aber ein Bild mit z.B. 1200 x 1000 Pixel auf 200 x 200 skaliere, wird das Bild dabei verzerrt.\n\n\n\nBild mit unterschiedlicher Höhe und Breite skalieren\nHat das Bild, das skaliert werden soll, eine unterschiedliche Höhe und Breite, ist der Vorgang der Skalierung anders als bei Bildern, bei denen Höhe und Breite sind nicht unterscheiden, da es sonst zu Verzerrungen kommt.\nBeipsiel:\n\n\n\n\n\n\n\n\n\n546 x 288 Pixel sollen skaliert werden\n\n\n\n\n\n\n\n200 x 200 Pixel sehen verzerrt aus\n\n\n\n\n\nLösung: Bild „zu klein“ skalieren, dann weißen Hintergrund auf gewünschte Maße vergrößern\n\na) Bild so skalieren, dass die längere der beiden Seiten den gewünschten Wert annimmt (Klammer weiterhin geschlossen lassen!)\n\nSolange die Klammer geschlossen ist, bleibt das Seitenverhältnis gesperrt und der andere Wert passt sich automatisch an. Anschließend auf „Skalieren“ klicken.\n\n\nb) „Leinwand“ (weißen Hintergrund) vergrößern: Bild ➔ Leinwandgröße\n\n\n\n\n\n\n\n\nKürzere Seite manuell auf den gewünschten Wert einstellen. (Klammer sollte automatisch offen sein, falls nicht: zum Öffnen anklicken)\nAuf „Zentrieren“ klicken,sodass der Inhalt des Bildes in den Mittelpunkt gerückt wird\nGgf. bei „Ebenengrößen ändern“ „Alle“ auswählen.\n\n\n\n\n\n\n\n\n\nGgf. bei „Füllung“ „Weiß“ auswählen\nAuf „Größe ändern“ klicken"
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#bild-als-.jpg-oder-.png-exportieren",
-    "href": "Studio/Aufgaben_gestalten/Externe_Datein/Bilder_skalieren/index.html#bild-als-.jpg-oder-.png-exportieren",
-    "title": "How to: Bilder skalieren in Gimp",
-    "section": "Bild als .jpg oder .png exportieren",
-    "text": "Bild als .jpg oder .png exportieren\n\nDatei ➔ Exportieren nach … ➔ Speicherort & Dateiformat auswählen (.jpg oder .png manuell eintragen) ➔ Exportieren\n\nFür JPG Dateien: Qualitätsregler auf 100 stellen\n\nDanach ist das Bild im ausgewählten Ordner mit dem entsprechenden Dateinamen abgespeichert. Nun kann die Datei ins IQB-Teststudio in die gewünschte Aufgabe hochgeladen werden."
-  },
-  {
-    "objectID": "Studio/Arbeitsbereiche/index.html",
-    "href": "Studio/Arbeitsbereiche/index.html",
-    "title": "Studio Überblick",
+    "objectID": "Studio/Aufgaben_gestalten/Andere_Editoren/index.html",
+    "href": "Studio/Aufgaben_gestalten/Andere_Editoren/index.html",
+    "title": "Andere Editoren",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Studio",
-      "Studio Überblick"
+      "Aufgaben gestalten",
+      "Andere Editoren"
+    ]
+  },
+  {
+    "objectID": "Studio/Arbeitsbereiche/index.html",
+    "href": "Studio/Arbeitsbereiche/index.html",
+    "title": "Arbeitsbereiche",
+    "section": "",
+    "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Arbeitsbereiche"
     ]
   },
   {
     "objectID": "Studio/Installation/index.html",
     "href": "Studio/Installation/index.html",
-    "title": "Studio Überblick",
+    "title": "Installation",
     "section": "",
     "text": "Hinweis\n\n\n\nDiese Seite ist noch in Bearbeitung. Hier entstehen bald aktuelle Texte zum Studio.\n\n\n\n\n\n Zurück nach oben",
     "crumbs": [
       "Studio",
-      "Studio Überblick"
+      "Installation"
     ]
   }
 ]
