@@ -166,13 +166,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Nachtraegliches_Editieren/index.html",
     "title": "Nachträgliches Editieren",
     "section": "",
-    "text": "Zurück nach oben",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Nachträgliches Editieren"
-    ]
+    "text": "Zurück nach oben"
   },
   {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Antwortfelder_Assistent/index.html",
@@ -263,6 +257,76 @@
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Standardmodus",
       "Antwortfelder Assistent"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Text/Text_Medium.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Text/Text_Medium.html",
+    "title": "Text",
+    "section": "",
+    "text": "Im Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Medienelemente",
+      "Text"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Text/Text_Medium.html#tooltipp",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Text/Text_Medium.html#tooltipp",
+    "title": "Text",
+    "section": "Tooltipp",
+    "text": "Tooltipp\n\n\n\n\n\n\nHinweis\n\n\n\nAufgrund der Schwierigkeit des Aufgabenformats, wird die Verwendung des Tooltipps (Standardeinstellung) empfohlen.\n\n\nDer Tooltipp ist eine Schnellinfo/eine Kurzanleitung. Der Tooltipp-Text wird am Laptop/PC angezeigt, wenn sich der Mauszeiger auf der Glühbirne befindet. Am Tablet/Touchscreen ist zum Anzeigen ein aktives Tippen notwendig. Der Tooltipp-Text blendet sich dann nach erneutem Tippen auf die Glühbirne bzw. nach wenigen Sekunden automatisch wieder aus. Er kann beliebig oft aktiviert werden.\nSoll ein Tooltipp beim Item eingeblendet werden, muss das Häkchen bei „Anzeigen“ gesetzt bleiben. Wird kein Tooltipp gewünscht, muss das Häkchen bei „Anzeigen“ entfernt werden:",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Medienelemente",
+      "Text"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Text/Text_Medium.html#bestätigenabbrechen",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Text/Text_Medium.html#bestätigenabbrechen",
+    "title": "Text",
+    "section": "Bestätigen/Abbrechen",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein Markieren-Item durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Medienelemente",
+      "Text"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Bild/Bild_Medium.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Bild/Bild_Medium.html",
+    "title": "Bild",
+    "section": "",
+    "text": "Mit Klick auf das Element „Bild“ der Elementengruppe „Medium“ öffnet sich unmittelbar ein Fenster, in dem die gewünschte Datei ausgewählt und durch einen Klick „Öffnen“ im IQB-Studio hochgeladen wird.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Medienelemente",
+      "Bild"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Bild/Bild_Medium.html#editieren-eines-bild-elements",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Bild/Bild_Medium.html#editieren-eines-bild-elements",
+    "title": "Bild",
+    "section": "Editieren eines Bild-Elements",
+    "text": "Editieren eines Bild-Elements\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Bild Einstellungen vornehmen. Hier kann die ID („image_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf im sich öffnenden Fenster die bereits eingefügte Grafik durch eine andere Grafik ersetzt werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) die eingefügte Grafik maximal sein soll. Die Breite ist automatisch bereits durch die Breite der Seite begrenzt.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.\n\nBeispiel Maximalbreite Bildelement:\n\n\n\n\n\n\n\n\n\nohne Einstellen einer Maximalbreite\n\n\n\n\n\n\n\nMaximalbreite 250",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Medienelemente",
+      "Bild"
     ]
   },
   {
@@ -1750,6 +1814,62 @@
     ]
   },
   {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Video/Video_Medium.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Video/Video_Medium.html",
+    "title": "Video",
+    "section": "",
+    "text": "Mit Klick auf das Element „Video“ der Elementengruppe „Medium“ öffnet sich unmittelbar ein Fenster, in dem die gewünschte Datei ausgewählt und durch einen Klick „Öffnen“ im IQB-Studio hochgeladen wird.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Medienelemente",
+      "Video"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Video/Video_Medium.html#editieren-eines-video-elements",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Video/Video_Medium.html#editieren-eines-video-elements",
+    "title": "Video",
+    "section": "Editieren eines Video-Elements",
+    "text": "Editieren eines Video-Elements\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Video Einstellungen vornehmen. Hier kann die ID („video_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf im sich öffnenden Fenster das bereits eingefügte Video durch ein anderes Video ersetzt werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Video maximal sein soll. Die Breite ist automatisch bereits durch die Breite der Seite begrenzt. In der Regel nimmt ein Video die gesamte Seite ein. Die Maximalbreite sollte nur in begründeten Ausnahmefällen angepasst werden.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Medienelemente",
+      "Video"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Audio/Audio_Medium.html",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Audio/Audio_Medium.html",
+    "title": "Audio",
+    "section": "",
+    "text": "Mit Klick auf das Element „Audio“ der Elementengruppe „Medium“ öffnet sich unmittelbar ein Fenster, in dem die gewünschte Datei ausgewählt und durch einen Klick auf „Öffnen“ im IQB-Studio hochgeladen wird.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Medienelemente",
+      "Audio"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Audio/Audio_Medium.html#editieren-eines-audio-elements",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Medienelemente/Audio/Audio_Medium.html#editieren-eines-audio-elements",
+    "title": "Audio",
+    "section": "Editieren eines Audio-Elements",
+    "text": "Editieren eines Audio-Elements\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Audio die Einstellungen des Audioelements tätigen.\nHier kann die ID („audio_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf die gewünschte Datei im sich öffnenden Fenster ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Audio maximal sein soll. Die voreingestellten 500 Pixel aus den Assistenten sind IQB-Standard und sollten nur in begründeten Ausnahmefällen angepasst werden. Sollte keine Maximalbreite erwünscht sein, kann das Häkchen bei „Maximalbreite setzen“ entfernt werden.\n\nVerlinkung Audio editieren",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Medienelemente",
+      "Audio"
+    ]
+  },
+  {
     "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html",
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Rechenkastchen_Assistent/index.html",
     "title": "Rechenkästchen Assistent",
@@ -1935,7 +2055,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html",
     "title": "Glossar",
     "section": "",
-    "text": "Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Audio die Einstellungen des Audioelements tätigen.\nHier kann die ID („audio_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf die gewünschte Datei im sich öffnenden Fenster ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Audio maximal sein soll. Die voreingestellten 500 Pixel aus den Assistenten sind IQB-Standard und sollten nur in begründeten Ausnahmefällen angepasst werden. Sollte keine Maximalbreite erwünscht sein, kann das Häkchen bei „Maximalbreite setzen“ entfernt werden.",
+    "text": "Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf die Optionentabelle Elemente des angelegten CMCs editieren.\n\nIm ersten Teil lassen sich die ID (hier „likert_3“) und die Beschriftung (Satzanfang) anpassen. Zusätzlich lässt sich eine sekundäre Beschriftung (Zeilenüberschrift) ins CMC einfügen:\n\nEbenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem  - Symbol Optionen und Zeilen hinzufügen, mit dem  -Symbol löschen und mit dem Schraubenschlüsselsymbol  bearbeiten.\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nDurch das Einstellen des Anteils der ersten Spalte lässt sich der Platz der Teilfragen/Teilaussagen im Verhältnis zum Platz für die Optionen bestimmen.\nBeispiel:\n\n\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 1\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 3\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 7\n\n\n\n\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das CMC maximal sein soll. Dies kann nützlich sein, wenn die Teilaufgaben/Teilfragen sehr kurz sind und dadurch die Optionen zu weit davon abrücken. Die Breite des CMC ist automatisch bereits durch die Breite der Seite begrenzt.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.\n\nBeispiel:\n\n\n\n\n\n\n\n\n\nohne Einstellen einer Maximalbreite\n\n\n\n\n\n\n\nMaximalbreite 365",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -1944,11 +2064,11 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-audio-elements",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-audio-elements",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#cmc",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#cmc",
     "title": "Glossar",
     "section": "",
-    "text": "Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Audio die Einstellungen des Audioelements tätigen.\nHier kann die ID („audio_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf die gewünschte Datei im sich öffnenden Fenster ausgewählt und mit „Öffnen“ ins IQB-Studio geladen werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Audio maximal sein soll. Die voreingestellten 500 Pixel aus den Assistenten sind IQB-Standard und sollten nur in begründeten Ausnahmefällen angepasst werden. Sollte keine Maximalbreite erwünscht sein, kann das Häkchen bei „Maximalbreite setzen“ entfernt werden.",
+    "text": "Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf die Optionentabelle Elemente des angelegten CMCs editieren.\n\nIm ersten Teil lassen sich die ID (hier „likert_3“) und die Beschriftung (Satzanfang) anpassen. Zusätzlich lässt sich eine sekundäre Beschriftung (Zeilenüberschrift) ins CMC einfügen:\n\nEbenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem  - Symbol Optionen und Zeilen hinzufügen, mit dem  -Symbol löschen und mit dem Schraubenschlüsselsymbol  bearbeiten.\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nDurch das Einstellen des Anteils der ersten Spalte lässt sich der Platz der Teilfragen/Teilaussagen im Verhältnis zum Platz für die Optionen bestimmen.\nBeispiel:\n\n\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 1\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 3\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 7\n\n\n\n\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das CMC maximal sein soll. Dies kann nützlich sein, wenn die Teilaufgaben/Teilfragen sehr kurz sind und dadurch die Optionen zu weit davon abrücken. Die Breite des CMC ist automatisch bereits durch die Breite der Seite begrenzt.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.\n\nBeispiel:\n\n\n\n\n\n\n\n\n\nohne Einstellen einer Maximalbreite\n\n\n\n\n\n\n\nMaximalbreite 365",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -1957,63 +2077,11 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#medium-audio",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#medium-audio",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#drag-drop",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#drag-drop",
     "title": "Glossar",
-    "section": "Medium: Audio",
-    "text": "Medium: Audio\n\nMit Klick auf das Element „Audio“ der Elementengruppe „Medium“ öffnet sich unmittelbar ein Fenster, in dem die gewünschte Datei ausgewählt und durch einen Klick auf „Öffnen“ im IQB-Studio hochgeladen wird.\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des Fortschrittbalkens vom Audio erscheint automatisch, sofern das Audio fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden.\n\n\nVerlinkung Audio editieren",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Glossar"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#medium-bild",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#medium-bild",
-    "title": "Glossar",
-    "section": "Medium: Bild",
-    "text": "Medium: Bild\n\nMit Klick auf das Element „Bild“ der Elementengruppe „Medium“ öffnet sich unmittelbar ein Fenster, in dem die gewünschte Datei ausgewählt und durch einen Klick „Öffnen“ im IQB-Studio hochgeladen wird.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Glossar"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-bild-elements",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-bild-elements",
-    "title": "Glossar",
-    "section": "Editieren eines Bild-Elements",
-    "text": "Editieren eines Bild-Elements\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Bild Einstellungen vornehmen. Hier kann die ID („image_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf im sich öffnenden Fenster die bereits eingefügte Grafik durch eine andere Grafik ersetzt werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) die eingefügte Grafik maximal sein soll. Die Breite ist automatisch bereits durch die Breite der Seite begrenzt.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.\n\nBeispiel Maximalbreite Bildelement:\n\n\n\n\n\n\n\n\n\nohne Einstellen einer Maximalbreite\n\n\n\n\n\n\n\nMaximalbreite 250",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Glossar"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-cmc-items",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-cmc-items",
-    "title": "Glossar",
-    "section": "Editieren eines CMC-Items",
-    "text": "Editieren eines CMC-Items\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf die Optionentabelle Elemente des angelegten CMCs editieren.\n\nIm ersten Teil lassen sich die ID (hier „likert_3“) und die Beschriftung (Satzanfang) anpassen. Zusätzlich lässt sich eine sekundäre Beschriftung (Zeilenüberschrift) ins CMC einfügen:\n\nEbenso lassen sich die eingetragenen Optionen und Zeilen anpassen: Wie auch im CMC-Assistenten lassen sich mit dem  - Symbol Optionen und Zeilen hinzufügen, mit dem  -Symbol löschen und mit dem Schraubenschlüsselsymbol  bearbeiten.\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nDurch das Einstellen des Anteils der ersten Spalte lässt sich der Platz der Teilfragen/Teilaussagen im Verhältnis zum Platz für die Optionen bestimmen.\nBeispiel:\n\n\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 1\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 3\n\n\n\n\n\n\n\nAnteil der ersten Spalte: 7\n\n\n\n\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das CMC maximal sein soll. Dies kann nützlich sein, wenn die Teilaufgaben/Teilfragen sehr kurz sind und dadurch die Optionen zu weit davon abrücken. Die Breite des CMC ist automatisch bereits durch die Breite der Seite begrenzt.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.\n\nBeispiel:\n\n\n\n\n\n\n\n\n\nohne Einstellen einer Maximalbreite\n\n\n\n\n\n\n\nMaximalbreite 365",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Glossar"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-dad-items",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-dad-items",
-    "title": "Glossar",
-    "section": "Editieren eines DaD Items",
-    "text": "Editieren eines DaD Items\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf eine Ablageliste Elemente des angelegten D&Ds editieren.\nIm ersten Teil lässt sich die ID der einzelnen Ablageliste (hier „drop-list_1“) anpassen.\nAußerdem kann ein Schreibschutz für Beispiele aktiviert werden.\n\nEbenso lässt sich hier die Vorbelegung der Liste anpassen. Wie im Assistenten lassen sich mit dem +-Symbol Optionen hinzufügen, mit dem x -Symbol löschen und mit dem Schraubenschlüsselsymbol bearbeiten. Außerdem lässt sich durch Verschieben mit der Maus die Reihenfolge der Optionen ändern.\n\nWeiter lässt sich einstellen, mit welchen Ablegelisten die jeweilige Ablageliste verbunden sein soll. Elemente können nur zwischen verbundenen Ablegelisten verschoben werden. Wurde eine Aufgabe mit dem Assistenten angelegt, sind die Ablegelisten automatisch richtig miteinander verbunden.\n\nAußerdem kann die Ausrichtung der Elemente innerhalb einer Ablegeliste eingestellt werden. Mit der Einstellung „Dynamisch zentriert“ nehmen sich die Elemente genau so viel Platz wie sie brauchen, „vertikal“ legt die Elemente untereinander, „horizontal“ nebeneinander.\nAuch hier sollten im Normalfall die von den Assistenten vorgegebenen Einstellungen beibehalten werden.\n\nAls letztes kann für die Ablegelisten noch eine feste Breite eingestellt werden. Dafür muss der Haken gesetzt werden und eine Breite in Pixeln angegeben werden.\nDiese Funktionalität ist vor allem für Ablegelisten in Lückentexten relevant.\nBei mit den Assistenten angelegten Aufgaben sollte der Haken im Normalfall nicht gesetzt werden.",
+    "section": "Drag & Drop",
+    "text": "Drag & Drop\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf eine Ablageliste Elemente des angelegten D&Ds editieren.\nIm ersten Teil lässt sich die ID der einzelnen Ablageliste (hier „drop-list_1“) anpassen.\nAußerdem kann ein Schreibschutz für Beispiele aktiviert werden.\n\nEbenso lässt sich hier die Vorbelegung der Liste anpassen. Wie im Assistenten lassen sich mit dem +-Symbol Optionen hinzufügen, mit dem x -Symbol löschen und mit dem Schraubenschlüsselsymbol bearbeiten. Außerdem lässt sich durch Verschieben mit der Maus die Reihenfolge der Optionen ändern.\n\nWeiter lässt sich einstellen, mit welchen Ablegelisten die jeweilige Ablageliste verbunden sein soll. Elemente können nur zwischen verbundenen Ablegelisten verschoben werden. Wurde eine Aufgabe mit dem Assistenten angelegt, sind die Ablegelisten automatisch richtig miteinander verbunden.\n\nAußerdem kann die Ausrichtung der Elemente innerhalb einer Ablegeliste eingestellt werden. Mit der Einstellung „Dynamisch zentriert“ nehmen sich die Elemente genau so viel Platz wie sie brauchen, „vertikal“ legt die Elemente untereinander, „horizontal“ nebeneinander.\nAuch hier sollten im Normalfall die von den Assistenten vorgegebenen Einstellungen beibehalten werden.\n\nAls letztes kann für die Ablegelisten noch eine feste Breite eingestellt werden. Dafür muss der Haken gesetzt werden und eine Breite in Pixeln angegeben werden.\nDiese Funktionalität ist vor allem für Ablegelisten in Lückentexten relevant.\nBei mit den Assistenten angelegten Aufgaben sollte der Haken im Normalfall nicht gesetzt werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -2040,71 +2108,6 @@
     "title": "Glossar",
     "section": "Eingabefeld (einzeilige Antwortfelder)",
     "text": "Eingabefeld (einzeilige Antwortfelder)\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf ein Eingabefeld die Einstellungen des angelegten Antwortfelds anpassen.\nIm ersten Teil lassen sich die ID (hier „text-field_1“) und die Beschriftung anpassen. Beschriftungen werden im Normalfall hier nicht verwendet (sie funktionieren als Vorbelegung und bleiben auch während des Ausfüllens des Eingabefelds sichtbar.\n\nWeiter unten lassen sich ein Schreibschutz und eine Vorbelegung für Beispiele einstellen.\n\nAußerdem kann die Maximalbreite des Eingabefelds angepasst werden. Die Voreinstellungen aus dem Assistenten sind hier „lang“ (ganze Zeile – keine Maximalbreite), mittel (500 px), kurz (250 px) und sehr kurz (125 px).",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Glossar"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#text",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#text",
-    "title": "Glossar",
-    "section": "Text",
-    "text": "Text\n\nIm Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Glossar"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#tooltipp",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#tooltipp",
-    "title": "Glossar",
-    "section": "Tooltipp",
-    "text": "Tooltipp\n\n\n\n\n\n\nHinweis\n\n\n\nAufgrund der Schwierigkeit des Aufgabenformats, wird die Verwendung des Tooltipps (Standardeinstellung) empfohlen.\n\n\nDer Tooltipp ist eine Schnellinfo/eine Kurzanleitung. Der Tooltipp-Text wird am Laptop/PC angezeigt, wenn sich der Mauszeiger auf der Glühbirne befindet. Am Tablet/Touchscreen ist zum Anzeigen ein aktives Tippen notwendig. Der Tooltipp-Text blendet sich dann nach erneutem Tippen auf die Glühbirne bzw. nach wenigen Sekunden automatisch wieder aus. Er kann beliebig oft aktiviert werden.\nSoll ein Tooltipp beim Item eingeblendet werden, muss das Häkchen bei „Anzeigen“ gesetzt bleiben. Wird kein Tooltipp gewünscht, muss das Häkchen bei „Anzeigen“ entfernt werden:",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Glossar"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#bestätigenabbrechen",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#bestätigenabbrechen",
-    "title": "Glossar",
-    "section": "Bestätigen/Abbrechen",
-    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein Markieren-Item durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Glossar"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#medium-video",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#medium-video",
-    "title": "Glossar",
-    "section": "Medium: Video",
-    "text": "Medium: Video\n\nMit Klick auf das Element „Video“ der Elementengruppe „Medium“ öffnet sich unmittelbar ein Fenster, in dem die gewünschte Datei ausgewählt und durch einen Klick „Öffnen“ im IQB-Studio hochgeladen wird.\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des Fortschrittbalkens vom Video erscheint automatisch, sofern das Video fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden.",
-    "crumbs": [
-      "Studio",
-      "Aufgaben gestalten",
-      "Anlegen von Aufgaben im Standardmodus",
-      "Glossar"
-    ]
-  },
-  {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-video-elements",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-eines-video-elements",
-    "title": "Glossar",
-    "section": "Editieren eines Video-Elements",
-    "text": "Editieren eines Video-Elements\nIm rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Video Einstellungen vornehmen. Hier kann die ID („video_1“) angepasst werden. Ebenso kann mit einem Klick auf den „Medienquelle ändern“-Knopf im sich öffnenden Fenster das bereits eingefügte Video durch ein anderes Video ersetzt werden.\n\nMit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Video maximal sein soll. Die Breite ist automatisch bereits durch die Breite der Seite begrenzt. In der Regel nimmt ein Video die gesamte Seite ein. Die Maximalbreite sollte nur in begründeten Ausnahmefällen angepasst werden.\nEine Maximalbreite lässt sich einstellen, indem ein Häkchen bei „Maximalbreite setzen“ gesetzt und anschließend die Maximalbreite eingetragen wird.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
