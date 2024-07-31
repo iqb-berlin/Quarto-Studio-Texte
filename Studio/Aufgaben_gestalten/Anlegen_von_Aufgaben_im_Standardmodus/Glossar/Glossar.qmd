@@ -1,6 +1,7 @@
 ---
 lang: de
 title: "Glossar"
+ist-glossar: true
 ---
 
 {{< include _Audio_editieren_Fragment.qmd >}}

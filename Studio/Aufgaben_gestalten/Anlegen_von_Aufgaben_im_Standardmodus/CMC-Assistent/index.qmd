@@ -40,3 +40,5 @@ Eingetragene Worte bei „Neue Zeile“ können ins CMC hinzugefügt werden, ind
 Nach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). 
 
 Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.
+
+{{< include ../Glossar/_CMC_Fragment.qmd >}}
