@@ -65,4 +65,5 @@ Nach allen gewünschten Einstellungen wird ein DaD durch einen Klick auf „Best
 
 Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen. 
 
+## Editieren eines DaD Items
 {{< include ../../Glossar/_DaD_Fragment.qmd >}}
