@@ -51,4 +51,56 @@ Die Klammer im roten Kreis muss geschlossen bleiben, damit die Seitenverhältnis
 
 ### Bild mit unterschiedlicher Höhe und Breite skalieren 
 
+Hat das Bild, das skaliert werden soll, eine unterschiedliche Höhe und Breite, ist der Vorgang der Skalierung anders als bei Bildern, bei denen Höhe und Breite sind nicht unterscheiden, da es sonst zu Verzerrungen kommt. 
+
+Beipsiel: 
+
+::: {layout="[70,30]" layout-valign="bottom"}
+![546 x 288 Pixel sollen skaliert werden](Skalieren_Normal.jpeg)
+
+![200 x 200 Pixel sehen verzerrt aus](Skalieren_Verzerrt.jpeg)
+:::
+
+**Lösung:** Bild „zu klein“ skalieren, dann weißen Hintergrund auf gewünschte Maße vergrößern
+
+#### a) Bild so skalieren, dass die längere der beiden Seiten den gewünschten Wert annimmt (Klammer weiterhin geschlossen lassen!)
+
+![](Bild_skalieren_Losung_eins.jpeg)
+
+Solange die Klammer geschlossen ist, bleibt das Seitenverhältnis gesperrt und der andere Wert passt sich automatisch an. Anschließend auf „Skalieren“ klicken.
+
+#### b) „Leinwand“ (weißen Hintergrund) vergrößern: Bild ➔ Leinwandgröße
+
+![](Bild_Skalieren_Losung_zwei.jpeg)
+
+::: {layout-ncol=2}
+
+1. Kürzere Seite manuell auf den gewünschten Wert einstellen. (Klammer sollte automatisch offen sein, falls nicht: zum Öffnen anklicken)
+
+2.  Auf „Zentrieren“ klicken,sodass der Inhalt des Bildes in den Mittelpunkt gerückt wird
+
+3.  Ggf. bei „Ebenengrößen ändern“ „Alle“ auswählen.
+
+![](Skalieren_Leinwandgrose.jpeg)
+
+4. Ggf. bei „Füllung“ „Weiß“ auswählen
+
+5. Auf „Größe ändern“ klicken
+
+:::
+
 ## Bild als .jpg oder .png exportieren
+
+![](Bild_exportieren.jpeg){width=400}
+
+
+Datei ➔ Exportieren nach … ➔ Speicherort & Dateiformat auswählen (.jpg oder .png manuell 
+eintragen) ➔ Exportieren
+
+![](Bild_exportiere_zwei.jpeg){width=400}
+
+Für JPG Dateien: Qualitätsregler auf 100 stellen
+
+![](Bild_exportieren_drei.jpeg){width=300}
+
+Danach ist das Bild im ausgewählten Ordner mit dem entsprechenden Dateinamen abgespeichert. Nun kann die Datei ins IQB-Teststudio in die gewünschte Aufgabe hochgeladen werden.
