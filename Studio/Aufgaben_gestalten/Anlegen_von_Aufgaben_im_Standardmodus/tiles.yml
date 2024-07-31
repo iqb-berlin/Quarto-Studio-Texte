@@ -10,10 +10,10 @@
 
 - title: Markieren
   description: "Anleitung für den Markieren Assistenten"
-  href: Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.qmd
-  thumbnail: Studio\/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Galerie/Markieren.png
+  href: Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.qmd
+  thumbnail: Galerie/Markieren.png
 
 - title: GeoGebra
   description: "Anleitung für denGeoGebra Assistenten"
-  href: Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.qmd
-  thumbnail: Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Galerie/GGB.png
+  href: Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.qmd
+  thumbnail: Galerie/GGB.png
