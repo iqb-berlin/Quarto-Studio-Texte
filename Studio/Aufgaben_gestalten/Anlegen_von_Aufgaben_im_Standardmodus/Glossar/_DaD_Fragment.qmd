@@ -1,7 +1,6 @@
----   
-lang: de   
 ---
-
+lang: de
+---
 ## Editieren eines DaD Items
 
 Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf eine Ablageliste Elemente des angelegten D&Ds editieren. 

@@ -1,7 +1,6 @@
----   
-lang: de   
 ---
-
+lang: de
+---
 ## Medium: Bild
 
 ![](Bild_Fragment_Main_Grafik.png){width=350}

@@ -1,7 +1,6 @@
----   
-lang: de   
 ---
-
+lang: de
+---
 ## Medium: Video
 
 ![](Video_Fragment_Main_Grafik.png)

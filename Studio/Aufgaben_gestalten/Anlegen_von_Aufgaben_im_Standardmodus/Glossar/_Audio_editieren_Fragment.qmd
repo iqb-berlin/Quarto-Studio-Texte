@@ -1,7 +1,6 @@
----   
-lang: de   
 ---
-
+lang: de
+---
 ## Editieren eines Audio-Elements
 
 Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Audio die Einstellungen des Audioelements tätigen. 
