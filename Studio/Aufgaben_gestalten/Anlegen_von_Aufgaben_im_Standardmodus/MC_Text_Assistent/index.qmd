@@ -3,7 +3,7 @@ lang: de
 title: "MC mit Text-Assistent"
 ---
 
-![](Uebersichtsgrafik_MC_Text.png)
+![](MC_Text_Main_Grafik.png)
 
 ## Text
 
