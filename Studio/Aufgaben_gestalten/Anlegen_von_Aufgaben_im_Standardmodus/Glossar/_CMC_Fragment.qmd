@@ -1,7 +1,6 @@
----   
-lang: de   
 ---
-
+lang: de
+---
 ## Editieren eines CMC-Items
 
 Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf die Optionentabelle Elemente des angelegten CMCs editieren. 

@@ -1,7 +1,6 @@
----    
-lang: de    
 ---
-
+lang: de
+---
 ## Eingabefeld (einzeilige Antwortfelder)
 
 Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf ein Eingabefeld die Einstellungen des angelegten Antwortfelds anpassen.

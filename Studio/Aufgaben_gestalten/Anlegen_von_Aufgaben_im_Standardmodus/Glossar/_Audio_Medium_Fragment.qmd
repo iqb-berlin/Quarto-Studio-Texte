@@ -1,7 +1,6 @@
----   
-lang: de   
 ---
-
+lang: de
+---
 ## Medium: Audio
 
 ![](Audio_Fragment_Main_Grafik.png){width=500}

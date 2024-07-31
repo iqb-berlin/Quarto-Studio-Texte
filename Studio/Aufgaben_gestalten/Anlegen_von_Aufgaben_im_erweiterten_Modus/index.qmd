@@ -1,6 +1,6 @@
 ---
 lang: de
-title: "Studio Überblick"
+title: "Anlegen von Aufgaben im Erweiterten Modus"
 ---
 
 ::: {.callout-note}

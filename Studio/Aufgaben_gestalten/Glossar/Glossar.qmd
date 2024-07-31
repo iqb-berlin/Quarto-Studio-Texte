@@ -1,5 +1,0 @@
----
-lang: de
-title: "Glossar"
----
-{{< include _Fragment.qmd >}}

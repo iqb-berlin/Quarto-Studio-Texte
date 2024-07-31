@@ -1,4 +1,0 @@
----
-lang: de
----
-Dies ist ein Fragment.
