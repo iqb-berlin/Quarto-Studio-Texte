@@ -51,12 +51,12 @@
 - title: Drag and Drop
   description: "Anleitung für den Assistent von Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.qmd
-  thumbnail: Galerie/DaD_eins.png
+  thumbnail: Galerie/DaD_eins_neu.png
 
 - title: Markieren
   description: "Anleitung für den Markieren Assistenten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.qmd
-  thumbnail: Galerie/Markieren.png
+  thumbnail: Galerie/Markieren_neu.png
 
 - title: Rechenkästchen
   description: "Anleitung für den Rechenkästchen Assistenten"
