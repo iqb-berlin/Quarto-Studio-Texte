@@ -1,0 +1,7 @@
+---
+lang: de
+title: "Allgemeine Anleitung"
+---
+::: {.callout-note}
+Hier entsteht die Allgemeine Anleitung für GeoGebra.
+:::
