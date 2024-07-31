@@ -1,13 +1,3 @@
-- title: TBA - Einführung
-  description: "Verstehen und Anwenden: Die Webanwendungen des IQB zum computerbasierten Testen."
-  href: Allgemeine_Anleitung/index.qmd
-  thumbnail: Allgemeine_Anleitung/aufgabennummerierung_markiert.png
-
-- title: Allgemeine Anleitung
-  description: "Allgemeine Anleitung für den Assistenten im Standardmodus"
-  href: Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.qmd
-  thumbnail: Galerie/Allgemeine_Anleitung.png
-
 - title: Text Stimulus
   description: "Anleitung für den Text Stimulus Assistenten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/Text_ST_Assistent/index.qmd
@@ -16,37 +6,37 @@
 - title: Audio Stimulus
   description: "Anleitung für den Audio Stimulus Assistenten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/Audio_ST_Assistent/index.qmd
-  thumbnail: Galerie/Audio_ST.png
+  thumbnail: Galerie/Audio_ST_neu.png
 
 - title: MC mit Text
   description: "Anleitung für den GMC mit Text Assistenten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/MC_Text_Assistent/index.qmd
-  thumbnail: Galerie/MC_Text.png
+  thumbnail: Galerie/MC_Text_neu.png
 
 - title: MC mit Bild
   description: "Anleitung für den MC mit Bild Assistenten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/MC_Bild_Assistent/index.qmd
-  thumbnail: Galerie/MC_Bild.png
+  thumbnail: Galerie/MC_Bild_neu.png
 
 - title: CMC (Complex Multiple Choice)
   description: "Anleitung für den CMC Assistenten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.qmd
-  thumbnail: Galerie/CMC.png
+  thumbnail: Galerie/CMC_neu.png
 
 - title: Antwortfelder
   description: "Anleitung für den Antwortfelder Assistenten (Eeingabefelder und Eingabebereiche)"
   href: Anlegen_von_Aufgaben_im_Standardmodus/Antwortfelder_Assistent/index.qmd
-  thumbnail: Galerie/Antwortfelder.png
+  thumbnail: Galerie/Antwortfelder_neu.png
 
 - title: Drag and Drop - Sortieren
   description: "Anleitung für den Drag and Drop Sortieren Assistenten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_Sortieren/index.qmd
-  thumbnail: Galerie/DaD_Sortieren.png
+  thumbnail: Galerie/DaD_Sortieren_neu.png
 
 - title: Drag and Drop
   description: "Anleitung für den Assistent von Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.qmd
-  thumbnail: Galerie/DaD_zwei.png
+  thumbnail: Galerie/DaD_zwei_neu.png
 
 - title: Drag and Drop
   description: "Anleitung für den Assistent von Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten"
