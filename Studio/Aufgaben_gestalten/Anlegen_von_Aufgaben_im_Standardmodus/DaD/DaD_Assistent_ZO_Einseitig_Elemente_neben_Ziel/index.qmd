@@ -62,3 +62,5 @@ Danach muss noch die **ungefähre Länge der** (gerade eingegebenen) **Zielbesch
 ![](DaD_BestatigenAbbrechen_Grafik.png)
 
 Nach allen gewünschten Einstellungen wird ein DaD durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). Ist der „Bestätigen“-Knopf noch ausgegraut, muss jeweils noch eine Auswahl über die ungefähre Länge der Elemente und Zielbeschriftungen getroffen werden. Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen. 
+
+{{< include ../../Glossar/_DaD_Fragment.qmd >}}
