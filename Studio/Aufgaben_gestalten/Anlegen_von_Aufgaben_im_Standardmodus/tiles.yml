@@ -8,12 +8,12 @@
   href: Studio\Aufgaben_gestalten\Anlegen_von_Aufgaben_im_Standardmodus\DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel\index.qmd
   thumbnail: Studio\Aufgaben_gestalten\Anlegen_von_Aufgaben_im_Standardmodus\Galerie\DaD_eins.png
 
-  - title: Markieren Assistent
+- title: Markieren Assistent
   description: "Anleitung für den Markieren Assistenten"
   href: AStudio\Aufgaben_gestalten\Anlegen_von_Aufgaben_im_Standardmodus\Markieren_Assistent\index.qmd
   thumbnail: Studio\Aufgaben_gestalten\Anlegen_von_Aufgaben_im_Standardmodus\Galerie\Markieren.png
 
-  - title: GeoGebra
+- title: GeoGebra
   description: "Anleitung für denGeoGebra Assistenten"
   href: Studio\Aufgaben_gestalten\Anlegen_von_Aufgaben_im_Standardmodus\GGB_Assistent\index.qmd
   thumbnail: Studio\Aufgaben_gestalten\Anlegen_von_Aufgaben_im_Standardmodus\Galerie\GGB.png
