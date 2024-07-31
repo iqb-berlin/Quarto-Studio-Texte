@@ -1,6 +1,6 @@
 ---
 lang: de
-title: "Studio Überblick"
+title: "Andere Editoren"
 ---
 
 ::: {.callout-note}
