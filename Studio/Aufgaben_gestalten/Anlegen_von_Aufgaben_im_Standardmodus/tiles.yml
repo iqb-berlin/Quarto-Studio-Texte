@@ -3,10 +3,15 @@
   href: Allgemeine_Anleitung/index.qmd
   thumbnail: Allgemeine_Anleitung/aufgabennummerierung_markiert.png
 
+- title: Allgemeine Anleitung
+  description: "Allgemeine Anleitung für den Assistenten im Standardmodus"
+  href: Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.qmd
+  thumbnail: Galerie/Allgemeine_Anleitung.png
+
 - title: Text Stimulus
   description: "Anleitung für den Text Stimulus Assistenten"
   href: Anlegen_von_Aufgaben_im_Standardmodus/Text_ST_Assistent/index.qmd
-  thumbnail: Galerie/Text_ST.png
+  thumbnail: Galerie/Text_ST_neu.png
 
 - title: Audio Stimulus
   description: "Anleitung für den Audio Stimulus Assistenten"
