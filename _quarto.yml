@@ -74,9 +74,9 @@ website:
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/CMC-Assistent/index.qmd
                   - section: "Drag & Drop"
                     contents:
-                    - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_Sortieren/index.qmd
-                    - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.qmd
-                    - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.qmd
+                    - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_Sortieren/index.qmd
+                    - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.qmd
+                    - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.qmd
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.qmd
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.qmd
                   - Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Markieren_Assistent/index.qmd
