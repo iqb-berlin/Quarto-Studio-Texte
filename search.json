@@ -850,6 +850,20 @@
     ]
   },
   {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/GeoGebra/GGB_Allgemein/ggb_allgemein.html",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/GeoGebra/GGB_Allgemein/ggb_allgemein.html",
+    "title": "Allgemeine Anleitung",
+    "section": "",
+    "text": "Hinweis\n\n\n\nHier entsteht die Allgemeine Anleitung für GeoGebra.\n\n\n\n\n\n Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "GeoGebra",
+      "Allgemeine Anleitung"
+    ]
+  },
+  {
     "objectID": "Studio/Aufgaben_gestalten/IQB_Konventionen/index.html",
     "href": "Studio/Aufgaben_gestalten/IQB_Konventionen/index.html",
     "title": "IQB Konventionen",
@@ -1412,6 +1426,19 @@
       "Studio",
       "Aufgaben gestalten",
       "Anlegen von Aufgaben im Erweiterten Modus"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Externe_Anwendungen/GeoGebra/GeoGebra.html",
+    "href": "Studio/Aufgaben_gestalten/Externe_Anwendungen/GeoGebra/GeoGebra.html",
+    "title": "GeoGebra",
+    "section": "",
+    "text": "Hinweis\n\n\n\nHier entstehen Seiten zur Aufgabenentwicklung mit dem Werkzeug GeoGebra\n\n\n\n\n\n Zurück nach oben",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Externe Anwendungen",
+      "GeoGebra"
     ]
   },
   {
