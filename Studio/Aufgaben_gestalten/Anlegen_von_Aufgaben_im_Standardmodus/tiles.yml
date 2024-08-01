@@ -1,15 +1,15 @@
-- title: Text Stimulus
+- title: Textstimulus
   description: "Anleitung für den Text Stimulus Assistenten"
   href: Text_ST_Assistent/index.qmd
   thumbnail: Galerie/Text_ST_neu.png
 
-- title: Audio Stimulus
+- title: Audiostimulus
   description: "Anleitung für den Audio Stimulus Assistenten"
   href: Audio_ST_Assistent/index.qmd
   thumbnail: Galerie/Audio_ST_neu.png
 
 - title: MC mit Text
-  description: "Anleitung für den GMC mit Text Assistenten"
+  description: "Anleitung für den MC mit Text Assistenten"
   href: MC_Text_Assistent/index.qmd
   thumbnail: Galerie/MC_Text_neu.png
 
@@ -24,24 +24,24 @@
   thumbnail: Galerie/CMC_neu.png
 
 - title: Antwortfelder
-  description: "Anleitung für den Antwortfelder Assistenten (Eeingabefelder und Eingabebereiche)"
+  description: "Anleitung für den Antwortfelder Assistenten (Eingabefelder und Eingabebereiche)"
   href: Antwortfelder_Assistent/index.qmd
   thumbnail: Galerie/Antwortfelder_neu.png
 
-- title: Drag and Drop - Sortieren
-  description: "Anleitung für den Drag and Drop Sortieren Assistenten"
-  href: DaD/DaD_Assistent_Sortieren/index.qmd
-  thumbnail: Galerie/DaD_Sortieren_neu.png
-
-- title: Drag and Drop
-  description: "Anleitung für den Assistent von Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten"
-  href: DaD/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.qmd
-  thumbnail: Galerie/DaD_zwei_neu.png
-
-- title: Drag and Drop
+- title: Drag and Drop - Zuordnen
   description: "Anleitung für den Assistent von Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten"
   href: DaD/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.qmd
   thumbnail: Galerie/DaD_eins_neu.png
+
+- title: Drag and Drop - Zuordnen
+  description: "Anleitung für den Assistent von Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten"
+  href: DaD/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.qmd
+  thumbnail: Galerie/DaD_zwei_neu.png
+  
+- title: Drag and Drop - Sortieren
+  description: "Anleitung für den Drag and Drop Sortieren Assistenten einseitig"
+  href: DaD/DaD_Assistent_Sortieren/index.qmd
+  thumbnail: Galerie/DaD_Sortieren_neu.png
 
 - title: Markieren
   description: "Anleitung für den Markieren Assistenten"
