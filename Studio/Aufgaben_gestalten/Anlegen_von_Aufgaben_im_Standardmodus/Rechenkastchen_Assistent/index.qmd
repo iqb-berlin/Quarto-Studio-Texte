@@ -5,7 +5,7 @@ title: "Rechenkästchen Assistent"
  
 ## Anlegen eines Additions-Items mit dem Rechenkästchen-Assistenten 
 
-![](Ubersicht_Addition_Rechenkastchen.png)
+![](Ubersicht_Addition_Rechenkastchen.jpg)
 
 ### Rechenart
 
@@ -35,7 +35,7 @@ Der bei der Itemerstellung automatisch generierte Text „Rechne schriftlich.“
 
 ## Anlegen eines Subtraktion-Items mit dem Rechenkästchen-Assistenten
 
-![](Subtraktion_Main.png)
+![](Subtraktion_Main.jpg)
 
 Um eine Subtraktionsaufgabe zu erstellen, muss bei „Rechenart“ beim Ausklappmenü „Subtraktion“ ausgewählt werden: 
 
@@ -63,7 +63,7 @@ Der bei der Itemerstellung automatisch generierte Text „Rechne schriftlich.“
 
 ## Anlegen eines Multiplikation-Items mit mehrstelligen Zahlen mit dem Rechenkästchen-Assistenten
 
-![](Multiplikation_Termzeile.png)
+![](Multiplikation_Termzeile.jpg)
 
 Um eine Multiplikationsaufgabe mit mehrstelligen Zahlen zu erstellen, muss bei „Rechenart“ beim Ausklappmenü „Multiplikation mit mehrstelligen Zahlen“ ausgewählt werden: 
 
