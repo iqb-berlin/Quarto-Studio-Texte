@@ -35,7 +35,7 @@ title: "Allgemeine Anleitung"
 Einzelne Teilaufgaben können über das Kreuz ![](Symbol_Abschnitt_loeschen.png) am jeweiligen Abschnitt wieder gelöscht werden.
 Genauso können die Teilaufgaben über die Pfeilsymbole ![](Symbol_Pfeil_oben.png) ![](Symbol_Pfeil_unten.png) innerhalb der Aufgaben verschoben werden.
 
-## Teilaufgabenummerierung:
+## Teilaufgabennummerierung:
 Die Nummerierung muss nicht mehr per Hand eingefügt werden. Sie kann jetzt im Editor rechts oben eingeschaltet werden:
 
 ![](aufgabennummerierung_markiert.png)
