@@ -61,7 +61,7 @@ Sollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements ein
 
 ## Stimulusaudio
 
-Die Einstellungen können wie beim ***Instruktionsvideo-Verlinkung*** getätigt werden. 
+Die Einstellungen können genauso wie oben bereits beschrieben getätigt werden. 
 
 ## Sprache
 
@@ -72,7 +72,7 @@ Im Aufklapp-Menü lässt sich die Sprache der Beschriftung der Audios auswählen
 | Auswahl     | Beschriftung der Audios      |
 |-------------|------------------------------|
 | deutsch     | Instruktion, Hörtext         |
-| englisch    | Instruction, audio recording |
+| englisch    | instruction, audio recording |
 | französisch | l'instruction, texte audio   |
 
 ## Situierung, Frage, Operator, Hinweise, o. Ä. 
