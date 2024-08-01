@@ -722,11 +722,11 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.html#teilaufgabenummerierung",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.html#teilaufgabenummerierung",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.html#teilaufgabennummerierung",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Allgemeine_Anleitung/index.html#teilaufgabennummerierung",
     "title": "Allgemeine Anleitung",
-    "section": "Teilaufgabenummerierung:",
-    "text": "Teilaufgabenummerierung:\nDie Nummerierung muss nicht mehr per Hand eingefügt werden. Sie kann jetzt im Editor rechts oben eingeschaltet werden:\n\nDer Haken „vertikale Ausrichtung“ sollte nur bei zweiseitigen Aufgaben (mit z.B. Stimulus rechts) aktiviert werden. Abschnitte, die nicht nummeriert werden sollen, können in den Abschnittseinstellungen durch Klicken  von der Nummerierung ausgenommen werden.",
+    "section": "Teilaufgabennummerierung:",
+    "text": "Teilaufgabennummerierung:\nDie Nummerierung muss nicht mehr per Hand eingefügt werden. Sie kann jetzt im Editor rechts oben eingeschaltet werden:\n\nDer Haken „vertikale Ausrichtung“ sollte nur bei zweiseitigen Aufgaben (mit z.B. Stimulus rechts) aktiviert werden. Abschnitte, die nicht nummeriert werden sollen, können in den Abschnittseinstellungen durch Klicken  von der Nummerierung ausgenommen werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
