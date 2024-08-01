@@ -2,7 +2,6 @@
 lang: de
 ---
 ## Editieren der Rechenkästchen-Elemente
-***[Textelement Verlinkung]***
 
 Im rechten Reiter „Eigenschaften“ lässt sich nach einem Klick auf das Rechenkästchen-Element selbiges editieren.
 
