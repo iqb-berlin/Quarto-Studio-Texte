@@ -15,3 +15,9 @@ ist-glossar: true
 {{< include _Rechenkasteneditieren.qmd >}}
 ## GeoGebra
 {{< include _GGB_Fragment.qmd >}}
+## Medienelemente
+{{< include _Audio_Fragment.qmd >}}
+{{< include _Bild_Fragment.qmd >}}
+{{< include _Text_Fragment.qmd >}}
+{{< include _Video_Fragment.qmd >}}
+
