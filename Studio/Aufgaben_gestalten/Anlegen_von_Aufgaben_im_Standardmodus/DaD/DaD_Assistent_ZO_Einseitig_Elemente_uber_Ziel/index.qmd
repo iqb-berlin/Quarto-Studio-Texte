@@ -15,7 +15,7 @@ Für diesen Assistenten muss erst der Assistent **Drag & Drop einseitig** ausgew
 
 ![](DaD_Ausrichtung_Grafik.png)
 
-Der Haken bei **Elementliste über Ziellisten** bleibt gesetzt. Für die andere Auswahl siehe nächste Anleitung ***(verlinken)***.
+Der Haken bei **Elementliste über Ziellisten** bleibt gesetzt. Für die andere Auswahl siehe [nächste Anleitung](https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/).
 
 ## Frage/Instruktion
 
@@ -33,7 +33,7 @@ Hier kann eine Überschrift für die zu verschiebenden Elemente eingetragen werd
 
 ![](DaD_Elemente_Grafik.png)
 
-Hier werden die zu verschiedenen Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem ![](DaD_PlusSymbol_Grafik.png){width=20} -Symbol hinzugefügt.
+Hier werden die zu verschiebenden Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem ![](DaD_PlusSymbol_Grafik.png){width=20} -Symbol hinzugefügt.
 
 Eingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol ![](DaD_Werkzeug-Symbol_Grafik.png){width=20} angepasst und mit einem Klick auf das ![](DaD_XSymbol_Grafik.png){width=20} -Symbol gelöscht werden.
 
