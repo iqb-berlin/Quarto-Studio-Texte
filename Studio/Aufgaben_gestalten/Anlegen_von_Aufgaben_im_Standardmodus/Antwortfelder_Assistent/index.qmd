@@ -45,6 +45,6 @@ Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätig
 
 ## Editieren 
 
-***Fragment EGF***
+{{< include ../Glossar/_EGB_editieren.qmd >}}
 
-***Fragment EGB***
+{{< include ../Glossar/_EGF_editieren.qmd >}}
