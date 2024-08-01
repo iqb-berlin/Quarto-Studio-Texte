@@ -517,7 +517,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.html#ausrichtung",
     "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
     "section": "Ausrichtung",
-    "text": "Ausrichtung\n\nDer Haken bei Elementliste über Ziellisten bleibt gesetzt. Für die andere Auswahl siehe nächste Anleitung (verlinken).",
+    "text": "Ausrichtung\n\nDer Haken bei Elementliste über Ziellisten bleibt gesetzt. Für die andere Auswahl siehe nächste Anleitung.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -559,7 +559,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.html#elemente",
     "title": "Drag & Drop einseitig - Zuordnung – Elementliste über Ziellisten",
     "section": "Elemente",
-    "text": "Elemente\n\nHier werden die zu verschiedenen Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Ablagelisten.",
+    "text": "Elemente\n\nHier werden die zu verschiebenden Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Ablagelisten.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -1643,7 +1643,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#ausrichtung",
     "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
     "section": "Ausrichtung",
-    "text": "Ausrichtung\n\nDer Haken bei Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben) muss gesetzt werden! Für die andere Auswahl siehe vorherige Anleitung Link einfügen.",
+    "text": "Ausrichtung\n\nDer Haken bei Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben) muss gesetzt werden! Für die andere Auswahl siehe vorherige Anleitung.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -1685,7 +1685,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.html#elemente",
     "title": "Drag & Drop einseitig - Zuordnung – Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)",
     "section": "Elemente",
-    "text": "Elemente\n\nHier werden die zu verschiedenen Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Elementlisten und Ziellisten.",
+    "text": "Elemente\n\nHier werden die zu verschiebenden Elemente eingetragen. Dazu wird ein Element nach dem anderen oben bei „Neues Element“ eingetippt und mit dem  -Symbol hinzugefügt.\nEingetragene Elemente können mit einem Klick auf das Schraubenschlüssel-Symbol  angepasst und mit einem Klick auf das  -Symbol gelöscht werden.\nDanach muss noch die ungefähre Länge der (gerade eingegebenen) Elemente aus dem Aufklapp-Menü ausgewählt werden. Die hier gewählte Breite bestimmt dann in der fertigen Teilaufgabe die Breite der Elementlisten und Ziellisten.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
