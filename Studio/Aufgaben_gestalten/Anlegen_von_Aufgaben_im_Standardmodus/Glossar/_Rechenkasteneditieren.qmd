@@ -1,7 +1,7 @@
 ---
 lang: de
 ---
-## Editieren der Rechenkästchen-Elemente
+## Rechenkästchen-Elemente
 
 Im rechten Reiter „Eigenschaften“ lässt sich nach einem Klick auf das Rechenkästchen-Element selbiges editieren.
 

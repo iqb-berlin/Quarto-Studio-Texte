@@ -21,13 +21,13 @@ Ebenso lassen sich Markierfarben einstellen. In der Sekundarstufe I werden Marki
 
 ![](Text_ST_Quelle_Grafik.png)
 
-Der eingetragene Text im Textelement für die Quelle kann im Assistenten editiert werden. Die Schriftgröße ist bereits voreingestellt. Sollte keine Quellenangabe eingetragen werden, wird lediglich ein leeres Textelement an dieser Stelle generiert, was nachträglich gelöscht werden kann. 
+Die Quelle kann im Assistenten eingetragen werden. Die Schriftgröße ist bereits voreingestellt. Sollte keine Quellenangabe eingetragen werden, wird lediglich ein leeres Textelement an dieser Stelle generiert, was nachträglich gelöscht werden kann. 
 
 ## Bestätigen/Abbrechen
 
 ![](Text_ST_BestatigenAbbrechen_Grafik.png)
 
-Nach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). 
+Nach allen gewünschten Einstellungen wird ein Text-Stimulus durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben). 
 
 Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen. 
 
