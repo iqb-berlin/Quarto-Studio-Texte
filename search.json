@@ -1794,7 +1794,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#bestätigenabbrechen",
     "title": "GeoGebra Assistent",
     "section": "Bestätigen/Abbrechen",
-    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein GeoGebra-Item durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein GeoGebra-Item durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\nVerlinkung Textelment",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -1807,7 +1807,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/GGB_Assistent/index.html#editieren-eines-geogebra-items",
     "title": "GeoGebra Assistent",
     "section": "Editieren eines GeoGebra-Items",
-    "text": "Editieren eines GeoGebra-Items\nVerlinkung Textelment\nMit einem Klick auf die GeoGebra-Datei im Editor, öffnet sich im rechten Reiter „Eigenschaften“ das GeoGebra-Element, in dem Anpassungen vorgenommen werden können.\nIm ersten Teil lässt sich die ID (hier „geometry_2“) editieren und mit einem Klick auf das Stift-Symbol auch die vorhandene GeoGebra-Datei ersetzen.\n\nIm Aufklapp-Menü „Ergebnisvariablen“ können die für die Auswertung relevanten Variablen in GeoGebra ausgewählt werden. Diese werden dann gesondert aus der GeoGebra ausgelesen.\n\nIm unteren Teil können noch Breite und Höhe des GeoGebra-Elements eingestellt werden. Dies verändert hier nicht nur die Breite und Höhe des Elements, sondern auch die Größe des angezeigten Ausschnitts aus der GeoGebra-Datei. Falls der gewünschte Ausschnitt nicht in die gewünschte Größe passt, muss er in GeoGebra verkleinert werden. Siehe dazu GGB-Anleitung Verlinkung\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Quellen-Text kann nachträglich angepasst werden (Link zum Textelement). Sollte keine Quelle nötig sein, kann das Element gelöscht werden.",
+    "text": "Editieren eines GeoGebra-Items\nMit einem Klick auf die GeoGebra-Datei im Editor, öffnet sich im rechten Reiter „Eigenschaften“ das GeoGebra-Element, in dem Anpassungen vorgenommen werden können.\nIm ersten Teil lässt sich die ID (hier „geometry_2“) editieren und mit einem Klick auf das Stift-Symbol auch die vorhandene GeoGebra-Datei ersetzen.\n\nIm Aufklapp-Menü „Ergebnisvariablen“ können die für die Auswertung relevanten Variablen in GeoGebra ausgewählt werden. Diese werden dann gesondert aus der GeoGebra ausgelesen.\n\nIm unteren Teil können noch Breite und Höhe des GeoGebra-Elements eingestellt werden. Dies verändert hier nicht nur die Breite und Höhe des Elements, sondern auch die Größe des angezeigten Ausschnitts aus der GeoGebra-Datei. Falls der gewünschte Ausschnitt nicht in die gewünschte Größe passt, muss er in GeoGebra verkleinert werden. Siehe dazu GGB-Anleitung Verlinkung\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Quellen-Text kann nachträglich angepasst werden (Link zum Textelement). Sollte keine Quelle nötig sein, kann das Element gelöscht werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -2214,6 +2214,19 @@
     "title": "Glossar",
     "section": "Rechenkästchen-Elemente",
     "text": "Rechenkästchen-Elemente\nIm rechten Reiter „Eigenschaften“ lässt sich nach einem Klick auf das Rechenkästchen-Element selbiges editieren.\n\nIm ersten Teil lassen sich die ID (hier „math-table_1“) und die Termzeilen anpassen.\nIm unteren Teil lässt sich die untere Hilfszeile und die Ergebniszeile editieren:\n\nDie Größe der automatisch generierten Rechenkästchen ist IQB-Standard. Mit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Rechenkästchen-Item maximal sein soll. Dadurch verändert sich auch die Größe der einzelnen Rechenkästchen. Um nicht vom IQB-Standard abzuweichen, sollte diese Einstellung nur in begründeten Ausnahmefällen genutzt werden.",
+    "crumbs": [
+      "Studio",
+      "Aufgaben gestalten",
+      "Anlegen von Aufgaben im Standardmodus",
+      "Glossar"
+    ]
+  },
+  {
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#geogebra",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#geogebra",
+    "title": "Glossar",
+    "section": "GeoGebra",
+    "text": "GeoGebra\nMit einem Klick auf die GeoGebra-Datei im Editor, öffnet sich im rechten Reiter „Eigenschaften“ das GeoGebra-Element, in dem Anpassungen vorgenommen werden können.\nIm ersten Teil lässt sich die ID (hier „geometry_2“) editieren und mit einem Klick auf das Stift-Symbol auch die vorhandene GeoGebra-Datei ersetzen.\n\nIm Aufklapp-Menü „Ergebnisvariablen“ können die für die Auswertung relevanten Variablen in GeoGebra ausgewählt werden. Diese werden dann gesondert aus der GeoGebra ausgelesen.\n\nIm unteren Teil können noch Breite und Höhe des GeoGebra-Elements eingestellt werden. Dies verändert hier nicht nur die Breite und Höhe des Elements, sondern auch die Größe des angezeigten Ausschnitts aus der GeoGebra-Datei. Falls der gewünschte Ausschnitt nicht in die gewünschte Größe passt, muss er in GeoGebra verkleinert werden. Siehe dazu GGB-Anleitung Verlinkung\n\n\n\n\n\n\n\nHinweis\n\n\n\nDer bei der Itemerstellung automatisch generierte Quellen-Text kann nachträglich angepasst werden (Link zum Textelement). Sollte keine Quelle nötig sein, kann das Element gelöscht werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
