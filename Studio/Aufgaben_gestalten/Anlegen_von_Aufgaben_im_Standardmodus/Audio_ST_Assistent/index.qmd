@@ -41,6 +41,8 @@ Der Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des jeweiligen 
 
 # Instruktion und Hörtext in zwei Audio-Dateien
 
+![](AudioST_getrennt_Main_Rahmen.jpg)
+
 Der Assistent für einen Stimulus mit Audio, bei dem sich die Instruktion und der Hörtext in zwei unterschiedlichen Dateien befinden, wird mithilfe eines Klicks auf das entsprechende Aufklapp-Menü geöffnet:
 
 ![](Instruktion_Text_getrennt_Auswahl_Grafik.png)

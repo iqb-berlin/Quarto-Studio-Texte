@@ -5,6 +5,8 @@ ist-glossar: true
 ---
 ## CMC
 {{< include _CMC_Fragment.qmd >}}
+## MC
+{{< include _MC_Fragment.qmd >}}
 ## Drag & Drop
 {{< include _DaD_Fragment.qmd >}}
 {{< include _EGB_editieren.qmd >}}
