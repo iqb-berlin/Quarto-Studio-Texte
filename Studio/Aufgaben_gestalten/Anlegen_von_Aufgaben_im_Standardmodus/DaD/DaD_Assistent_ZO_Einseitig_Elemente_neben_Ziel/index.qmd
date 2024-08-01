@@ -15,7 +15,7 @@ Für diesen Assistenten muss erst der Assistent **Drag & Drop einseitig** ausgew
 
 ![](DaD_Ausrichtung_Grafik.png)
 
-Der Haken bei **Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)** muss gesetzt werden! Für die andere Auswahl siehe [vorherige Anleitung](href: Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.qmd).
+Der Haken bei **Elementliste neben Ziellisten (nur für kurze Elemente oder einseitige Aufgaben)** muss gesetzt werden! Für die andere Auswahl siehe [vorherige Anleitung](../DaD_Assistent_ZO_Einseitig_Elemente_uber_Ziel/index.qmd).
 
 ## Frage/Instruktion
 

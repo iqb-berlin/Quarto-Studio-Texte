@@ -13,3 +13,5 @@ ist-glossar: true
 {{< include _EGF_editieren.qmd >}}
 ## Rechenkästchen
 {{< include _Rechenkasteneditieren.qmd >}}
+## GeoGebra
+{{< include _GGB_Fragment.qmd >}}
