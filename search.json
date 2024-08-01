@@ -101,7 +101,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#eingabefeld",
     "title": "Verbundelement Lückentext",
     "section": "Eingabefeld",
-    "text": "Eingabefeld\nDer „klassische“ Lückentext – SuS können, wie bei normalen Eingabefelder, Text eintragen. Außer der ID, Schreibschutz und einer Vorbelegung für Beispiele kann auch noch die Breite des Eingabefelds eingestellt werden. Siehe auch &lt; für genauere Erklärungen",
+    "text": "Eingabefeld\nDer „klassische“ Lückentext – SuS können, wie bei normalen Eingabefelder, Text eintragen. Außer der ID, Schreibschutz und einer Vorbelegung für Beispiele kann auch noch die Breite des Eingabefelds eingestellt werden. Siehe auch Ablegelisten für genauere Erklärungen",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -114,7 +114,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#ablegeliste",
     "title": "Verbundelement Lückentext",
     "section": "Ablegeliste",
-    "text": "Ablegeliste\nMit Ablegelisten können Zuordnungsaufgaben in Lückentexten angelegt werden.\nGenauso wie auch bei den Eingabefeldern muss auch hier eine feste Breite eingestellt werden.\nZu den Einstellungsmöglichkeiten von Ablegelisten siehe Ablegelisten Ablegelisten Idee2\nFragment Ablegelisten im Glossar.",
+    "text": "Ablegeliste\nMit Ablegelisten können Zuordnungsaufgaben in Lückentexten angelegt werden.\nGenauso wie auch bei den Eingabefeldern muss auch hier eine feste Breite eingestellt werden.\nZu den Einstellungsmöglichkeiten von Ablegelisten siehe Ablegeliste.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -127,7 +127,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Lueckentext_Verbundelement/index.html#optionsfeld",
     "title": "Verbundelement Lückentext",
     "section": "Optionsfeld",
-    "text": "Optionsfeld\nMit Optionsfeldern können MC-Aufgabe in Lückentexten angelegt werden. Dabei kann entweder eine richtige Antwort farbig markiert oder eine falsche Antwort durchgestrichen werden. Dazu muss dann der Haken „Gewählte Option durchstreichen“ gesetzt werden.\n\n\nSiehe auch Fragment Optionsfelder Text für genauere Erklärungen.",
+    "text": "Optionsfeld\nMit Optionsfeldern können MC-Aufgabe in Lückentexten angelegt werden. Dabei kann entweder eine richtige Antwort farbig markiert oder eine falsche Antwort durchgestrichen werden. Dazu muss dann der Haken „Gewählte Option durchstreichen“ gesetzt werden.\n\n\nSiehe auch Optionsfeld Text für genauere Erklärungen.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
