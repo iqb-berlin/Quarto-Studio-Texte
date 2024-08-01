@@ -62,7 +62,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Text_ST_Assistent/index.html#quelle",
     "title": "Stimulus: Text-Assistent",
     "section": "Quelle",
-    "text": "Quelle\n\nDer eingetragene Text im Textelement für die Quelle kann im Assistenten editiert werden. Die Schriftgröße ist bereits voreingestellt. Sollte keine Quellenangabe eingetragen werden, wird lediglich ein leeres Textelement an dieser Stelle generiert, was nachträglich gelöscht werden kann.",
+    "text": "Quelle\n\nDie Quelle kann im Assistenten eingetragen werden. Die Schriftgröße ist bereits voreingestellt. Sollte keine Quellenangabe eingetragen werden, wird lediglich ein leeres Textelement an dieser Stelle generiert, was nachträglich gelöscht werden kann.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -75,7 +75,7 @@
     "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Text_ST_Assistent/index.html#bestätigenabbrechen",
     "title": "Stimulus: Text-Assistent",
     "section": "Bestätigen/Abbrechen",
-    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein CMC durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\nTextelement Verlinkung",
+    "text": "Bestätigen/Abbrechen\n\nNach allen gewünschten Einstellungen wird ein Text-Stimulus durch einen Klick auf „Bestätigen“ generiert, der Assistent wird automatisch geschlossen (siehe Bild oben).\nDurch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.\nTextelement Verlinkung",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
@@ -2170,11 +2170,11 @@
     ]
   },
   {
-    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-der-rechenkästchen-elemente",
-    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#editieren-der-rechenkästchen-elemente",
+    "objectID": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#rechenkästchen-elemente",
+    "href": "Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/Glossar/Glossar.html#rechenkästchen-elemente",
     "title": "Glossar",
-    "section": "Editieren der Rechenkästchen-Elemente",
-    "text": "Editieren der Rechenkästchen-Elemente\nIm rechten Reiter „Eigenschaften“ lässt sich nach einem Klick auf das Rechenkästchen-Element selbiges editieren.\n\nIm ersten Teil lassen sich die ID (hier „math-table_1“) und die Termzeilen anpassen.\nIm unteren Teil lässt sich die untere Hilfszeile und die Ergebniszeile editieren:\n\nDie Größe der automatisch generierten Rechenkästchen ist IQB-Standard. Mit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Rechenkästchen-Item maximal sein soll. Dadurch verändert sich auch die Größe der einzelnen Rechenkästchen. Um nicht vom IQB-Standard abzuweichen, sollte diese Einstellung nur in begründeten Ausnahmefällen genutzt werden.",
+    "section": "Rechenkästchen-Elemente",
+    "text": "Rechenkästchen-Elemente\nIm rechten Reiter „Eigenschaften“ lässt sich nach einem Klick auf das Rechenkästchen-Element selbiges editieren.\n\nIm ersten Teil lassen sich die ID (hier „math-table_1“) und die Termzeilen anpassen.\nIm unteren Teil lässt sich die untere Hilfszeile und die Ergebniszeile editieren:\n\nDie Größe der automatisch generierten Rechenkästchen ist IQB-Standard. Mit der Maximalbreite lässt sich einstellen, wie breit (in Pixeln) das Rechenkästchen-Item maximal sein soll. Dadurch verändert sich auch die Größe der einzelnen Rechenkästchen. Um nicht vom IQB-Standard abzuweichen, sollte diese Einstellung nur in begründeten Ausnahmefällen genutzt werden.",
     "crumbs": [
       "Studio",
       "Aufgaben gestalten",
