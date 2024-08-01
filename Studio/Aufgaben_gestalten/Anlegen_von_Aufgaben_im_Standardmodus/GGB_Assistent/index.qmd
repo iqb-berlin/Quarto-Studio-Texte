@@ -37,7 +37,7 @@ Nach allen gewünschten Einstellungen wird ein GeoGebra-Item durch einen Klick a
 
 Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.  
 
-***Verlinkung Textelment***
+[Link zur Editierung eines Textelements](Studio\Aufgaben_gestalten\Anlegen_von_Aufgaben_im_Standardmodus\GGB_Assistent\index.qmd)
 
 ## Editieren eines GeoGebra-Items
 
