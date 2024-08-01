@@ -9,7 +9,7 @@ title: "MC mit Text-Assistent"
 
 ![](textmctext.png)
 
-(z. B. Absätze, Einrückung, Bild einfügen) editiert werden. 
+Im Textfeld kann die Fragestellung und/oder Instruktion eingetragen und mithilfe vielfältiger Optionen (z. B. Absätze, Einrückung, Bild einfügen) editiert werden.
 
 ## Satzanfang (optional)
 
@@ -31,11 +31,11 @@ Wenn die Aufgabe fertig angelegt ist im Assistenten, wird auf Bestätigen geklic
 
 Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen. 
 
-## Editieren eines Optionsfelder-Elements
-
 ***Verlinkung Textelement***
 
-Im rechten Reiter „Eigenschaften“ lassen sich nach einem Klick auf das Optionsfelder-Element (MC) editieren. 
+## Editieren eines Optionsfelder-Elements
+
+Im rechten Reiter „Eigenschaften“ lässt sich das Optionsfelder-Element (MC) editieren. 
 
 ![](Editieren_Eigenschaften.png){width=300}
 
