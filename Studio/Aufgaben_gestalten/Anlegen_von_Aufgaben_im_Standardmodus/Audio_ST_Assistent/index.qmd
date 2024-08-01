@@ -19,9 +19,10 @@ Mit einem Klick auf den „Medienquelle ändern“-Knopf, öffnet sich ein Fenst
 
 Wenn gewünscht, kann die maximale Abspielhäufigkeit für dieses Audio eingestellt werden. 
 
+![](InstruktionText_zsm_Audio_zwei_Grafik.png)
+
 ::: {.callout-note}
 Sollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements eine Anzeige mit der bisherigen Anzahl der Audiostarts im Verhältnis zu den maximal verfügbaren Audiostarts generiert.
-![](InstruktionText_zsm_Audio_zwei_Grafik.png)
 :::
 
 ## Bestätigen/Abbrechen
@@ -38,7 +39,7 @@ Der bei der Itemerstellung automatisch generierte Text „Drücke zuerst auf das
 Der Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des jeweiligen Audios erscheint automatisch, sofern das Audio fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden.  
 :::
 
-# Instruktion und Hörtext in zwei Audio-Datein
+# Instruktion und Hörtext in zwei Audio-Dateien
 
 Der Assistent für einen Stimulus mit Audio, bei dem sich die Instruktion und der Hörtext in zwei unterschiedlichen Dateien befinden, wird mithilfe eines Klicks auf das entsprechende Aufklapp-Menü geöffnet:
 
@@ -52,9 +53,10 @@ Mit einem Klick auf den „Medienquelle ändern“-Knopf, öffnet sich ein Fenst
 
 Wenn gewünscht, kann die maximale Abspielhäufigkeit für dieses Audio eingestellt werden. 
 
+![](Instruktion_Text_getrennt_Instruktion_zwei_Grafik.png)
+
 ::: {.callout-note}
 Sollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements eine Anzeige mit der bisherigen Anzahl der Audiostarts im Verhältnis zu den maximal verfügbaren Audiostarts generiert.
-![](Instruktion_Text_getrennt_Instruktion_zwei_Grafik.png)
 :::
 
 ## Stimulusaudio
