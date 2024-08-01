@@ -7,7 +7,7 @@ title: "Allgemeine Anleitung"
 
 1.	Auswählen des richtigen Bereichs: **vereinbart im Fach**
 
-2.	Erstellen einer neuen Aufgabe: Durch Anklicken des +-Symbols ganz unten links wird eine neue Aufgabe erstellt.
+2.	Erstellen einer neuen Aufgabe: Durch Anklicken des ![](Symbol_neue_Seite.png)-Symbols ganz unten links wird eine neue Aufgabe erstellt.
 
     a.	Kurzname: **vereinbart im Fach**
 
@@ -29,7 +29,7 @@ title: "Allgemeine Anleitung"
 
 4.	Bei Aufgaben mit Stimulus wird dieser mithilfe des Assistenten „Stimulus: Text“ oder „Stimulus: Audio“ angelegt. Bei zweiseitigen Aufgaben (siehe letzter Punkt) passiert das auf dieser Seite: ![](Symbol_linke_Seite.png), bei einseitigen Aufgaben ganz oben auf Seite 1.
 
-5.	Jetzt können auf Seite 1 nach und nach die Teilaufgaben mithilfe der Assistenten angelegt werden. Dafür muss jeweils der richtige Assistent links ausgewählt und befüllt werden (-> siehe dazu **hier**)
+5.	Jetzt können auf Seite 1 nach und nach die Teilaufgaben mithilfe der Assistenten angelegt werden. Dafür muss jeweils der richtige Assistent links ausgewählt und befüllt werden ([-> siehe dazu hier](https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/))
 
 ## Löschen und Umsortieren von Teilaufgaben:
 Einzelne Teilaufgaben können über das Kreuz ![](Symbol_Abschnitt_loeschen.png) am jeweiligen Abschnitt wieder gelöscht werden.
@@ -41,4 +41,4 @@ Die Nummerierung muss nicht mehr per Hand eingefügt werden. Sie kann jetzt im E
 ![](aufgabennummerierung_markiert.png)
 
 Der Haken „vertikale Ausrichtung“ sollte nur bei zweiseitigen Aufgaben (mit z.B. Stimulus rechts) aktiviert werden.
-Abschnitte, die nicht nummeriert werden sollen, können in den Abschnittseinstellungen durch Klicken ![](Symbol_Abschnitt_von_Nummerierung_ausnehmen.png.png) von der Nummerierung ausgenommen werden.
+Abschnitte, die nicht nummeriert werden sollen, können in den Abschnittseinstellungen durch Klicken ![](Symbol_Abschnitt_von_Nummerierung_ausnehmen.png) von der Nummerierung ausgenommen werden.
