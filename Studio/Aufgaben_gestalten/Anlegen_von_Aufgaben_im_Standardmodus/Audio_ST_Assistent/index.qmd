@@ -38,7 +38,7 @@ Der bei der Itemerstellung automatisch generierte Text „Drücke zuerst auf das
 Der Aufforderungstext „Bitte starten.“ inkl. roter Umrahmung des jeweiligen Audios erscheint automatisch, sofern das Audio fünf Sekunden nach Betreten der Seite nicht gestartet wurde. Diese Einstellung kann nicht im Standardmodus angepasst werden.  
 :::
 
-# Instruktion und Hörtext in zwei Audio-Datein
+# Instruktion und Hörtext in zwei Audio-Dateien
 
 Der Assistent für einen Stimulus mit Audio, bei dem sich die Instruktion und der Hörtext in zwei unterschiedlichen Dateien befinden, wird mithilfe eines Klicks auf das entsprechende Aufklapp-Menü geöffnet:
 
@@ -59,7 +59,7 @@ Sollte die Einstellung mehr als 1 betragen, wird innerhalb des Audioelements ein
 
 ## Stimulusaudio
 
-Die Einstellungen können wie beim ***Instruktionsvideo-Verlinkung*** getätigt werden. 
+Die Einstellungen können genauso wie oben bereits beschrieben getätigt werden. 
 
 ## Sprache
 
@@ -70,7 +70,7 @@ Im Aufklapp-Menü lässt sich die Sprache der Beschriftung der Audios auswählen
 | Auswahl     | Beschriftung der Audios      |
 |-------------|------------------------------|
 | deutsch     | Instruktion, Hörtext         |
-| englisch    | Instruction, audio recording |
+| englisch    | instruction, audio recording |
 | französisch | l'instruction, texte audio   |
 
 ## Situierung, Frage, Operator, Hinweise, o. Ä. 
