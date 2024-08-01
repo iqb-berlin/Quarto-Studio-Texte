@@ -15,7 +15,7 @@ Für diesen Assistenten muss erst der Assistent **Drag & Drop einseitig** ausgew
 
 ![](DaD_Ausrichtung_Grafik.png)
 
-Der Haken bei **Elementliste über Ziellisten** bleibt gesetzt. Für die andere Auswahl siehe [nächste Anleitung](https://iqb-berlin.github.io/Quarto-Studio-Texte/Studio/Aufgaben_gestalten/Anlegen_von_Aufgaben_im_Standardmodus/DaD/DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/).
+Der Haken bei **Elementliste über Ziellisten** bleibt gesetzt. Für die andere Auswahl siehe [nächste Anleitung](../DaD_Assistent_ZO_Einseitig_Elemente_neben_Ziel/index.qmd).
 
 ## Frage/Instruktion
 
