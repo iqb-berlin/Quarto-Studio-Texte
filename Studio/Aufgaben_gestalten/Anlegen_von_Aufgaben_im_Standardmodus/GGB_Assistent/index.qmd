@@ -37,24 +37,8 @@ Nach allen gewünschten Einstellungen wird ein GeoGebra-Item durch einen Klick a
 
 Durch einen Klick auf „Abbrechen“ werden alle in diesem Assistenten getätigten Eintragungen verworfen.  
 
-## Editieren eines GeoGebra-Items
-
 ***Verlinkung Textelment***
 
-Mit einem Klick auf die GeoGebra-Datei im Editor, öffnet sich im rechten Reiter „Eigenschaften“ das GeoGebra-Element, in dem Anpassungen vorgenommen werden können. 
+## Editieren eines GeoGebra-Items
 
-Im ersten Teil lässt sich die ID (hier „geometry_2“) editieren und mit einem Klick auf das Stift-Symbol auch die vorhandene GeoGebra-Datei ersetzen.
-
-![](GGB_Editieren_Grafik.png)
-
-Im Aufklapp-Menü „Ergebnisvariablen“ können die für die Auswertung relevanten Variablen in GeoGebra ausgewählt werden. Diese werden dann gesondert aus der GeoGebra ausgelesen.
-
-![](GGB_Editieren_eins_Grafik.png){width=200}
-
-Im unteren Teil können noch Breite und Höhe des GeoGebra-Elements eingestellt werden. Dies verändert hier nicht nur die Breite und Höhe des Elements, sondern auch die Größe des angezeigten Ausschnitts aus der GeoGebra-Datei. Falls der gewünschte Ausschnitt nicht in die gewünschte Größe passt, muss er in GeoGebra verkleinert werden. Siehe dazu GGB-Anleitung ***Verlinkung***
-
-![](GGB_Editieren_zwei_Grafik.png){width=200}
-
-::: {.callout-note}
-Der bei der Itemerstellung automatisch generierte Quellen-Text kann nachträglich angepasst werden ***(Link zum Textelement)***. Sollte keine Quelle nötig sein, kann das Element gelöscht werden. 
-:::
+{{< include ../Glossar/_GGB_Fragment.qmd >}}
